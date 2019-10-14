@@ -1,0 +1,41 @@
+#######################################################
+##  Datasets in Portuguese, English and Spanish for  ##
+##  evaluating Open Information Extraction systems   ##
+#######################################################
+
+Pablo Gamallo, CiTIUS, USC
+Marcos Garcia, LyS, UDC
+
+##################################################
+
+
+- DESCRIPTION:
+Three evaluation datasets were elaborated for PT, EN, ES. Go to the respective folders (pt, en, es).
+
+- Related papers:
+OIE for PT: Gamallo, Pablo and Marcos Garcia (2018). Task-Oriented Evaluation of Dependency Parsing with Open Information Extraction, PROPOR-2018, Lecture Notes in Computer Science, 11192, Berlin: Springer-Verlag: 77-82. 
+
+OIE for ES: Gamallo, P. and Marcos Garcia (2015). Multilingual Open Information Extraction, EPIA-2015, Lecture Notes in Computer Science, 9273, Berlin: Springer-Verlag: 711-722. ISNN: 0302-9743.
+
+OIE for EN: Gamallo, P., Garcia, M. Fernández-Lanza, S. 2012. Dependency-Based Open Information Extraction, In Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP (ROBUS-UNSUP 2012), at the 13th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2012). Avignon.
+
+
+- PORTUGUESE DATASET
+The gold standard consists of 103 sentences and 345 triples. 
+
+- ENGLISH DATASET
+The English evaluation dataset has been elaborated from:
+http://www.mpi-inf.mpg.de/departments/d5/software/clausie/
+
+Reference:
+L. Del Corro, R. Gemulla (2013) ClausIE: Clause-Based Open Information Extraction. In WWW-2013.
+
+
+- SPANISH DATASET:
+The Spanish evaluation dataset has been elaborated from :
+http://micron.gelbukh.com/resources/spanish-open-fact-extraction/
+
+Reference:
+Alisa Zhila, Alexander Gelbukh. Comparison of Open Information Extraction for English and Spanish. In Dialogue 2014.
+
+

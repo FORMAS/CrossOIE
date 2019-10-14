@@ -1,0 +1,1662 @@
+The nation 's health maintenance organizations were required to tell the federal government by midnight Monday whether they plan to continue providing health insurance to Medicare recipients next year , raise premiums , or reduce benefits .
+0	"they"	"plan to continue providing to"	"Medicare recipients"	1
+0	"The nation ' s health maintenance organizations"	"were required to tell the federal government"	"whether they plan to continue providing health insurance to Medicare recipients next year raise premiums"	1
+0	"they"	"plan to continue providing health insurance to"	"Medicare recipients"	1
+0	"The nation ' s health maintenance organizations"	"were required to tell"	"whether they plan to continue providing health insurance to Medicare recipients next year raise premiums"	1
+0	"The nation ' s health maintenance organizations"	"were required to tell"	"the federal government"	1
+0	"The nation ' s health maintenance organizations"	"were required to tell the federal government by"	"midnight Monday"	1
+0	"they"	"plan to continue providing"	"health insurance"	1
+0	"The nation ' s health maintenance organizations"	"were required to tell by"	"midnight Monday"	1
+The two-year note 's yield was unchanged at 5.95 percent .
+1	"The two-year note ' s yield"	"was unchanged at"	"5.95 percent"	1
+The 12 to 18-month target price is $ 70.00 per share .
+The principal opposition parties boycotted the polls after accusations of vote-rigging , and the only other name on the ballot was a little-known challenger from a marginal political party .
+3	"The principal opposition parties"	"boycotted"	"the polls"	1
+3	"the only other name on the ballot"	"was a little-known challenger from"	"a marginal political party"	1
+3	"The principal opposition parties"	"boycotted after"	"accusations of vote-rigging"	1
+3	"The principal opposition parties"	"boycotted the polls after"	"accusations of vote-rigging"	1
+3	"the only other name on the ballot"	"was"	"a little-known challenger"	1
+3	"the only other name on the ballot"	"was from"	"a marginal political party"	1
+Gallery hours are 11 a.m. to 6 p.m. daily .
+4	"Gallery hours"	"are to"	"6 pm. daily"	1
+4	"Gallery hours"	"are 11 am. to"	"6 pm. daily"	1
+4	"Gallery hours"	"are"	"11 am."	1
+A Spanish official , who had just finished a siesta and seemed not the least bit tense , offered what he believed to be a perfectly reasonable explanation for why the portable facilities were n't in service .
+5	"A Spanish official"	"had finished"	"a siesta"	1
+5	"the portable facilities"	"were n't in"	"service"	1
+5	"A Spanish official"	"seemed not"	"the least bit tense"	1
+The current El Nino , a complicated and vaguely understood series of phenomena that affect weather around the globe , is either the weather event of the century or an event whose bluster ca n't come close to living up to the super-hype preceding it .
+6	"series of phenomena"	"affect around"	"the globe"	1
+6	"n't come close to live up to the super-hype"	"n't come preceding"	"it"	1
+6	"series of phenomena"	"affect weather around"	"the globe"	1
+6	"series of phenomena"	"affect"	"weather"	1
+And he has eased up on team rules .
+7	"he"	"has eased up on"	"team rules"	1
+Jake decides to give Melanie a bit of a hard time because she 's giving him and everyone else she grew up with a megadose of New York attitude , which in this film is almost as grossly exaggerated as the Southern stuff .
+8	"she"	"grew up with"	"a megadose of New York attitude"	1
+8	"Jake"	"decides to give"	"a bit of a hard time"	1
+8	"this film"	"is exaggerated as"	"the Southern stuff"	1
+Sather , whose box sits high above the Garden ice behind one of the nets , said that he could hardly notice the netting .
+9	"box"	"sits behind"	"one of the nets"	1
+9	"box"	"sits above"	"the Garden ice"	1
+Eight percent went to Europe , while 1 percent went to other regions in the world .
+10	"1 percent"	"went in"	"the world"	1
+10	"Eight percent"	"went to"	"Europe"	1
+10	"1 percent"	"went to"	"other regions"	1
+As he left the UN building , Sabri said he hoped Iraq 's announcement was a first step toward the `` lifting of this brutal regime of sanctions '' against his country .
+11	"Sabri"	"said"	"was a first step"	1
+11	"he"	"hoped"	"Iraq ' s announcement"	1
+11	"he"	"left"	"the UN building"	1
+A backdrop of steady economic growth , scant inflation , and stable bond yields provided support for stocks .
+12	"A backdrop of steady economic growth scant inflation and stable bond yields"	"provided"	"support"	1
+12	"A backdrop of steady economic growth scant inflation and stable bond yields"	"provided for"	"stocks"	1
+12	"A backdrop of steady economic growth scant inflation and stable bond yields"	"provided support for"	"stocks"	1
+His teammates indeed loved the show .
+13	"His teammates"	"loved"	"the show"	1
+The Revolution also gave up a 90th-minute goal in a 2-2 regulation draw at D.C. United Sept. 16 but they recovered to win their final two matches .
+14	"The Revolution"	"gave up 16 at"	"DC. United Sept"	1
+14	"The Revolution"	"give up 16 in"	"a 2-2 regulation draw"	1
+14	"The Revolution"	"gave up at"	"DC. United Sept"	1
+14	"they"	"recovered to win"	"their final two matches"	1
+14	"The Revolution"	"gave up"	"16"	1
+14	"The Revolution"	"gave up in"	"a 2-2 regulation draw"	1
+One factor , he said , might be that consumers have just decided they have enough stuff and are salting money away for retirement or spending it on vacations or entertainment .
+15	"One factor he"	"might be"	"that consumers have just decided"	1
+15	"they"	"are salting for"	"retirement"	1
+15	"they"	"are salting"	"money"	1
+15	"they"	"have"	"enough stuff"	1
+15	"they"	"have enough stuff for"	"retirement"	1
+15	"they"	"are salting money for"	"retirement"	1
+15	"they"	"have for"	"retirement"	1
+He threw three scoreless innings , enabling Seattle to climb back into the game .
+16	"three scoreless innings"	"enabling to"	"climb back into the game"	1
+16	"three scoreless innings"	"enabling Seattle to"	"climb back into the game"	1
+16	"three scoreless innings"	"enabling"	"Seattle"	1
+16	"He"	"threw"	"three scoreless innings"	1
+Programmers always enter a season worried about the future of specific programs ; but never before have so many of them entered a season so worried about the future of the entire business .
+17	"never before have so many of them entered a season so"	"never have worried about"	"the future of the entire business"	1
+17	"Programmers"	"enter"	"a season"	1
+A spokesperson for Omega in Rio de Janeiro , was not immediately available for comment .
+Dell Computer Corp. 's quarter also looks good .
+Output was reduced in 1996 after one of its three furnaces exploded , killing one worker .
+20	"Output"	"was reduced in"	"1996"	1
+20	"Output"	"was reduced after"	"one of its three furnaces"	1
+The Residential Internship Program should meet the district 's needs , too , Quiriconi said .
+21	"The Residential Internship Program"	"should meet"	"the district ' s"	1
+Esaka and six other top executives will quit to take responsibility for 67.28 million yen in payoffs to corporate racketeer Ryuichi Koike , 54 .
+22	"Esaka and six other top executives"	"will quit to take responsibility in"	"payoffs"	1
+22	"Esaka and six other top executives"	"will quit to take responsibility to"	"corporate racketeer Ryuichi Koike"	1
+22	"Esaka and six other top executives"	"will quit to take responsibility for"	"67.28 million yen"	1
+She 's a hard act to follow , '' said Ruth Brown of London , who was among the crowds Wednesday .
+Most epidemiologists say the disorder stems from a genetic dysfunction , probably a short circuit in the brain .
+24	"the disorder"	"stems from"	"a genetic dysfunction"	1
+24	"Most epidemiologists"	"say"	"the disorder stems from a genetic dysfunction"	1
+But on the turn , she settled in .
+It also took an interception of a Warren Moon pass by Chiefs free safety Jerome Woods in overtime to set up Stoyanovich 's game-winner .
+26	"It"	"took an interception of a Warren Moon pass to"	"set up Stoyanovich ' s game-winner"	1
+26	"It"	"took an interception of a Warren Moon pass by"	"Chiefs free safety Jerome Woods"	1
+26	"It"	"took"	"an interception of a Warren Moon pass"	1
+26	"It"	"took by"	"Chiefs free safety Jerome Woods"	1
+26	"It"	"took an interception of a Warren Moon pass in"	"overtime"	1
+26	"It"	"took in"	"overtime"	1
+26	"It"	"took to"	"set up Stoyanovich ' s game-winner"	1
+But she would concern herself less with the motives of those willing to help than with their pitching in .
+27	"she"	"would concern herself to"	"help"	1
+27	"she"	"would concern to"	"help"	1
+27	"she"	"would concern with"	"the motives of those willing"	1
+27	"she"	"would concern herself with"	"the motives of those willing"	1
+27	"she"	"would concern"	"herself"	1
+We are going to have to do it when we see fit , '' said Bobby Brown , Netanyahu 's adviser on world Jewish affairs .
+28	"we"	"see"	"fit"	1
+28	"We"	"are going to have to"	"do it"	1
+Congress holds hearings to consider anti-road-rage legislation .
+29	"Congress"	"holds to"	"consider anti-road-rage legislation"	1
+29	"Congress"	"holds hearings to"	"consider anti-road-rage legislation"	1
+29	"Congress"	"holds"	"hearings"	1
+I only smoke one .
+30	"I"	"smoke"	"one"	1
+I 've been here 19 years and it 's never been a good time .
+31	"s never"	"never been"	"a good time"	1
+But some conglomerates , like Viacom and the News Corp. , have already bumped up against the limits of the rules .
+32	"some conglomerates like Viacom and the News Corp"	"have bumped up against"	"the limits of the rules"	1
+E-mail : jsuydamstatesman.com In person Ms. Holloman looks less like a tomboy than her film roles suggest , with her hazel eyes and faint drawl her most beguiling features .
+33	"jsuydamstatesmancom In person Ms Holloman"	"looks like"	"a tomboy"	1
+33	"jsuydamstatesmancom In person Ms Holloman"	"looks than"	"her film roles"	1
+He died en route to hospital .
+34	"He"	"died en"	"route"	1
+34	"He"	"died to"	"hospital"	1
+The benchmark 30-year bond rose 3/8 , or $ 3.75 per $ 1,000 bond , to 96 30/32 , pushing its yield down 3 basis points to 6.61 percent .
+35	"1"	"000 bond to 96 30/32"	"pushing"	1
+35	"The benchmark 30-year bond"	"rose"	"3/8"	1
+It begins life with a $ 75 million annual debt service burden , and a negative book value of nearly $ 300 million .
+36	"It"	"begins"	"life"	1
+Part of this indifference is probably caused by the unearned cynicism of the age .
+37	"Part of this indifference"	"is caused by"	"the unearned cynicism of the age"	1
+These immigrants `` deserve consideration under the laws that were in place when they applied '' for asylum , said Rep. Lincoln Diaz-Balart , R-Fla. , who is the lead sponsor of House legislation that would change the current law .
+38	"the laws"	"were in"	"place"	1
+38	"Rep Lincoln Diaz-Balart R-Fla"	"is"	"the lead sponsor of House legislation"	1
+38	"the lead sponsor of House legislation"	"would change"	"the current law"	1
+In previous games , Edwards believes that defenders were pressing , trying to overcompensate for the lack of certainty about the system by leaving their assignments to attempt a big play .
+39	"Edwards"	"believes"	"that defenders were pressing"	1
+39	"Edwards"	"believes In"	"previous games"	1
+In a nutshell : Weird mix of redneck humor , girly fantasy and the occasional moment of reality make this Reese Witherspoon vehicle for starry-eyed romantics only .
+40	"girly fantasy and the occasional moment of reality"	"make"	"this Reese Witherspoon vehicle"	1
+40	"girly fantasy and the occasional moment of reality"	"make for"	"starry-eyed romantics"	1
+40	"girly fantasy and the occasional moment of reality"	"make this Reese Witherspoon vehicle for"	"starry-eyed romantics"	1
+He stepped out of his Mercedes and stood among dozens of other stupefied commuters , all staring helplessly at the smoke and flames in the distance .
+41	"commuters all"	"staring at"	"the smoke and flames"	1
+41	"He"	"stepped out of"	"his Mercedes"	1
+41	"He"	"stood among"	"dozens"	1
+41	"commuters all"	"staring in"	"the distance"	1
+But in late September , Giorgio began getting headaches .
+42	"Giorgio"	"began getting"	"headaches"	1
+Koplowitz 's next concert will be a more modest affair and presented indoors at Dance Theater Workshop in May .
+43	"Koplowitz ' s next concert"	"will be"	"a more modest affair"	1
+43	"Koplowitz ' s next concert"	"will be a more modest affair at"	"Dance Theater Workshop"	1
+43	"Koplowitz ' s next concert"	"will be a more modest affair in"	"May"	1
+43	"Koplowitz ' s next concert"	"presented in"	"May"	1
+43	"Koplowitz ' s next concert"	"presented at"	"Dance Theater Workshop"	1
+43	"Koplowitz ' s next concert"	"will be in"	"May"	1
+43	"Koplowitz ' s next concert"	"will be at"	"Dance Theater Workshop"	1
+Only about one in five private-sector employees still receives that kind of deal , experts say .
+It did n't specify which goods in either case .
+The committee is planning to hear from him this month .
+46	"The committee"	"is planning to hear this month from"	"him"	1
+46	"The committee"	"is planning to hear"	"this month"	1
+46	"The committee"	"is planning to hear from"	"him"	1
+The scandal has now forced resignations at Japan 's fourth-largest bank and three of Japan 's Big Four brokerages .
+47	"The scandal"	"has forced"	"resignations"	1
+47	"The scandal"	"has forced resignations at"	"Japan ' s fourth-largest bank"	1
+47	"The scandal"	"has forced at"	"Japan ' s fourth-largest bank"	1
+It said it wanted the court to establish whether the government had failed to `` apply the same rules '' to all the bidders .
+48	"It"	"said"	"it"	1
+48	"It"	"said it"	"wanted the court to establish whether the government had failed"	1
+48	"It"	"said"	"wanted the court to establish whether the government had failed"	1
+If Calcavecchia plays Friday morning , he knows the importance of starting well , because the Americans have a recent history of falling behind early .
+49	"the Americans"	"have"	"a recent history of falling behind"	1
+49	"he"	"knows"	"the importance of starting well"	1
+49	"Calcavecchia"	"plays"	"Friday morning"	1
+On the next play , Tuman , who had lined up on the left side , glided unchecked to the right and caught Griese 's pass for a 53-yard play to the Colorado 2. Two plays later , Chris Floyd 's dive for a 1-yard touchdown put Michigan ahead .
+50	"the next play Tuman"	"had lined up on"	"the left side"	1
+50	"Chris Floyd ' s dive for a 1-yard touchdown"	"put"	"Michigan"	1
+Although Charles Darwin had written in 1872 about the consistency of expressions in mammals , social scientists of the 1960s and 1970s believed expressions are learned through culture .
+51	"social scientists of the 1960s and 1970s"	"believed"	"expressions"	1
+The Hearst News Service has filed or will file the following for Wednesday .
+52	"The Hearst News Service"	"will file the following for"	"Wednesday"	1
+52	"The Hearst News Service"	"will file for"	"Wednesday"	1
+52	"The Hearst News Service"	"will file"	"the following"	1
+52	"The Hearst News Service"	"has filed for"	"Wednesday"	1
+Deputies said that as many as 57 deputies who were members of Fatah let Arafat know in a meeting Tuesday night that they intended to vote against him .
+53	"57 deputies"	"let"	"Arafat"	Arafat
+53	"they"	"intended to vote against"	"him"	1
+53	"57 deputies"	"were"	"members of Fatah"	1
+Inspired by the Cadillac Vison concept SUV shown at last year 's auto shows , the new Cadillac SRX will become one of the newest entrants into the fast-growing medium luxury utility segment , in which rival Lincoln is about to add its own Aviator , based on the Ford Explorer/Mercury Mountaineer platform .
+54	"its own Aviator"	"based on"	"the Ford Explorer/Mercury Mountaineer platform"	1
+54	"rival Lincoln"	"is to add"	"its own Aviator"	1
+It 's an effective , maybe even subversive , way to get the message across .
+For their part , investors kept selling off stocks in trading and deregulated power companies , spurred Monday by negative news for El Paso Corp. Better yet , Miller and Roy Oswalt have won 19 straight decisions , and since July 1 , they 're a combined 21-1 with a 2.41 ERA.
+56	"Miller and Roy Oswalt"	"have won"	"19 straight decisions"	1
+56	"investors"	"kept selling off stocks in"	"trading"	1
+56	"investors"	"kept selling off"	"stocks"	1
+56	"investors"	"deregulated"	"power companies"	1
+56	"investors"	"kept selling off in"	"trading"	1
+Organogenesis Inc. of Canton Monday ended its troubled six-year relationship with giant Novartis Pharma AG , unilaterally terminating a marketing agreement in a move that will likely lead Organogenesis to file for bankruptcy protection from creditors this week .
+57	"its troubled six-year relationship with giant Novartis Pharma AG unilaterally"	"terminating a marketing agreement in"	"a move"	1
+57	"its troubled six-year relationship with giant Novartis Pharma AG unilaterally"	"terminating"	"a marketing agreement"	1
+57	"Organogenesis Inc of Canton Monday"	"ended"	"its troubled six-year relationship with giant Novartis Pharma AG unilaterally"	1
+57	"its troubled six-year relationship with giant Novartis Pharma AG unilaterally"	"terminating in"	"a move"	1
+57	"a move"	"will lead Organogenesis to"	"file for bankruptcy protection from creditors"	1
+57	"a move"	"will lead"	"Organogenesis"	1
+57	"a move"	"will lead to"	"file for bankruptcy protection from creditors"	1
+In the first effort in Congress to estimate the fiscal cost of an Iraqi war , Democrats on the House Budget Committee released a report on Monday putting the likely price tag at between $ 30 billion and $ 60 billion , less than that of the Gulf War in 1991 .
+58	"Democrats on the House Budget Committee released a report on Monday"	"released putting"	"the likely price tag"	1
+58	"Democrats on the House Budget Committee"	"released"	"Democrats on the House Budget Committee released a report on Monday"	1
+ONE OF THOSE DAYS FOR JARRETT Worn out by the travel and discouraged by agency 's perpetual financial difficulties and the intractable nature of the Palestinian problem , Rennie retired in 1977 at 60 .
+59	"Rennie"	"retired in"	"1977"	1
+59	"Rennie"	"retired at"	"60"	1
+Extendicare Inc. agreed to buy Arbor Health Care Co. for about US$ 432 million in cash and assumed debt , nearly doubling its Florida and Ohio businesses and making it one of North America 's largest long-term health care providers .
+60	"Extendicare Inc"	"agreed to buy"	"Arbor Health Care Co"	1
+60	"Extendicare Inc"	"agreed to buy for"	"about"	1
+60	"Extendicare Inc"	"agreed to buy Arbor Health Care Co for"	"about"	1
+She began her career as a chunky woman , awkward on stage and unsure of her musical direction .
+61	"She"	"began as"	"a chunky woman"	1
+61	"She"	"began her career as"	"a chunky woman"	1
+61	"She"	"began"	"her career"	1
+This leads to one of two inescapable conclusions : Either the president reads BioScope or I got lucky .
+62	"the president"	"reads"	"BioScope"	1
+Luckily for them , nobody was watching .
+The first photograph of the fatal crash in which Diana , Princess of Wales , died appeared on the front page of Bild Zeitung Monday .
+64	"The first photograph of the fatal crash in"	"died in"	""	1
+64	"The first photograph of the fatal crash in"	"appeared on"	"the front page of Bild Zeitung Monday"	1
+Hooters of America owns , operates or franchises a total of 192 of the hot wing restaurants , vs. the 12 run by Hooters Inc.
+65	"the 12 run by Hooters Inc Tropical Storm Edouard"	"will meander"	"125 miles"	1
+65	"the 12 run by Hooters Inc Tropical Storm Edouard will meander about 125 miles off the Georgia coast"	"will meander causing to"	"build along parts of the Southeast Coast"	1
+65	"the 12 run by Hooters Inc Tropical Storm Edouard will meander about 125 miles off the Georgia coast"	"will meander causing surf to"	"build along parts of the Southeast Coast"	1
+65	"the 12 run by Hooters Inc Tropical Storm Edouard"	"will meander off"	"the 12 run by Hooters Inc Tropical Storm Edouard will meander about 125 miles the Georgia coast"	1
+65	"the 12 run by Hooters Inc Tropical Storm Edouard will meander about 125 miles off the Georgia coast"	"will meander causing"	"surf"	1
+65	"the 12 run by Hooters Inc Tropical Storm Edouard"	"will meander 125 miles off"	"the 12 run by Hooters Inc Tropical Storm Edouard will meander about 125 miles the Georgia coast"	1
+Tropical Storm Edouard will meander about 125 miles off the Georgia coast causing surf to build along parts of the Southeast Coast .
+66	"The drill"	"has"	"a keyless chuck"	1
+The drill has a keyless chuck , a built-in level for drilling straight holes and nonslip texturing over the whole drill body to provide a firm grip .
+Six of the 11 missing were dead , and the whereabouts of another is unknown .
+The first batter he faced , Carl Everett , singled .
+69	"he"	"had cancer last October after"	"he felt a sharp pain in his right leg"	1
+69	"he"	"had"	"cancer last October"	1
+69	"he"	"had after"	"he felt a sharp pain in his right leg"	1
+69	"he"	"felt in"	"his right leg"	1
+69	"he"	"felt a sharp pain in"	"his right leg"	1
+69	"he"	"felt"	"a sharp pain"	1
+Rhodes discovered he had cancer last October after he felt a sharp pain in his right leg .
+70	"Graham"	"threw"	"four touchdown"	1
+70	"Groza ' s 16-yard"	"winning"	"field goal with 28 seconds"	1
+Graham threw four touchdown passes in the title game and set up Groza 's 16-yard winning field goal with 28 seconds left on a frozen field at Cleveland 's Municipal Stadium .
+If his use of the Web to create art sounds highfalutin , Koplowitz begs to differ .
+72	"he"	"wants"	"the multimillion-dollar payday"	1
+72	"he"	"must turn in"	"another direction"	1
+That 's a lot of maybes in a sport where the right thing seldom happens , but with a shot at Mike Tyson having disappeared because of the sleight of hand of promoter Don King , Ruiz now knows he must turn in another direction if he wants the multimillion-dollar payday he 's been seeking for two years .
+73	"DeLillo"	"has described"	"the simultaneous explosion of knowledge"	1
+73	"DeLillo"	"has described the simultaneous explosion of knowledge in"	"our times and the spread of Dark Age superstitions the loss of family and community ties replaced by the bloodless invasive connections"	1
+73	"DeLillo"	"has described in"	"our times and the spread of Dark Age superstitions the loss of family and community ties replaced by the bloodless invasive connections"	1
+DeLillo has brilliantly described the simultaneous explosion of knowledge in our times and the spread of Dark Age superstitions , the loss of family and community ties , replaced by the bloodless , invasive connections spawned by the World Wide Web.
+Continuing to maintain his innocence of terrorism charges , Salim said the stabbing was unrelated to the escape plan and stemmed instead from his dissatisfaction with his lawyers .
+75	"Tax revenue"	"will fall as"	"economic growth"	1
+75	"the government"	"will reduce"	"spending"	1
+Tax revenue will fall as economic growth slows and the government will reduce spending , Mar 'ie said , again without specifying how big the cuts will be or where they will be made .
+76	"The group ' s attacks on the Kurdish leadership"	"give"	"common cause with Saddam Hussein"	1
+The group 's attacks on the Kurdish leadership give it common cause with Saddam Hussein , though a firm link with the Iraqi dictator has not been established .
+77	"I"	"showed him"	"15 photographs"	1
+77	"I"	"felt"	"the movie"	1
+I showed him 15 photographs which represented what I felt the movie should look and feel like .
+78	"a genetic switch"	"binding to"	"various sites"	1
+78	"The p53 protein"	"is known to work as"	"a genetic switch"	1
+78	"a process"	"called"	"transactivation"	1
+78	"a genetic switch"	"binding along"	"the DNA of cells"	1
+The p53 protein is known to work as a genetic switch , binding to various sites along the DNA of cells and switching on nearby genes , a process called transactivation .
+79	"the number of teen-agers"	"begin"	"smoking"	1
+79	"19 percent of a national sample of 1,051 adults"	" surveyed"	"late last week"	1
+79	"they"	"believed"	"the accord"	1
+Only 19 percent of a national sample of 1,051 adults surveyed late last week said they believed the accord would reduce the number of teen-agers who begin smoking .
+80	"it"	"is dominated by"	"a six-story rotunda"	1
+Complete with health spa , three restaurants and 363 rooms in a variety of traditional furnishings , it is dominated by a six-story rotunda .
+81	"The companies"	"have been in"	"business"	1
+The companies have been in business for more than 20 years .
+82	"last four starts"	"including"	"a seventh-place finish"	1
+82	"last four starts"	"including at"	"last month"	1
+82	"last four starts"	"including a seventh-place finish at"	"last month"	1
+Calcavecchia has looked steady recently , finishing in the top 35 in three of his last four starts , including a seventh-place finish at last month 's PGA Championship .
+83	"wholesale"	"equaled"	"5 cents"	1
+83	"prices"	"rose In"	"March"	1
+In March , prices rose $ 2.50 per 1,000 cigarettes at wholesale , which equaled about 5 cents a pack for premium cigarettes at retail .
+But a meeting seemed unlikely .
+85	"the site of the embassy"	"has been turned into"	"a park"	1
+Four years later , workers still clear rubble from the site of Ufundi House , although the Cooperative Bank Building has been completely renovated and the site of the embassy has been turned into a park , a memorial to the victims of that day .
+Even so , the average rate of new starts for the first eight months of the year -- 1.449 million -- remains close to the eight-year high of 1.476 million new starts recorded in 1996 , according to government statistics .
+87	"Sikes"	"should apply for"	"workman ' s compensation"	1
+Maybe Sikes should apply for workman 's compensation .
+88	"some new alignments"	"including"	"one"	1
+88	"Last week the Jets"	"lined up on"	"one side and Mo Lewis"	1
+88	"Last week the Jets"	"used"	"some new alignments"	1
+88	"Last week the Jets"	"lined up in"	""	1
+Last week , the Jets used some new alignments , including one in which John Abraham and Shaun Ellis lined up on one side and Mo Lewis rushed from the other .
+89	"the department"	"has increased"	"the number of cattle"	1
+Without admitting any error , the department has rapidly increased the number of cattle it tests annually .
+It did not take long .
+91	"She"	"sough out"	"the untouchables of our society"	1
+She sought out the untouchables of our society and she touched them .
+92	"You"	"find no"	"the water deeper"	1
+92	"You"	"can venture out 100 yards than"	"4 feet"	1
+92	"You"	"can venture out"	"100 yards"	1
+92	"You"	"find no than"	"4 feet"	1
+92	"You"	"can venture out than"	"4 feet"	1
+92	"You"	"find no the water deeper than"	"4 feet"	1
+You can venture out 100 yards and still find the water no deeper than 4 feet .
+Died on Aug. 16 , 1938 , in Three Forks , Miss .
+94	"sophomore Jason Carter and freshman Reggie McNeal"	"played in"	"the opener"	1
+94	"Farris"	"was replaced in"	"the second quarter"	1
+94	"Farris"	"was replaced by"	"sophomore Dustin Long"	1
+94	"Farris"	"was replaced against"	"Pitt"	1
+Farris was replaced by sophomore Dustin Long in the second quarter against Pitt , and sophomore Jason Carter and freshman Reggie McNeal played in the opener .
+95	"BIGGEST CONCERNS Express pilots"	"have"	"no pension"	1
+BIGGEST CONCERNS Express pilots currently have no pension .
+Japanese automakers have taken some of the biggest strides with their new car models : Honda Motor Co. 's new Accord , likely to be a best-seller , is bigger , better and cheaper .
+97	"God"	"had"	"a plan"	1
+97	"God"	"had for"	"me"	1
+97	"God"	"wanted me to be for"	"a little while"	1
+97	"God"	"had a plan for"	"me"	1
+97	"the Alabama Republican"	"is"	"the ranking minority member of the Intelligence Committee"	1
+Following are excerpts from an interview with Sen. Richard C. Shelby , the Alabama Republican who is the ranking minority member of the Intelligence Committee : `` Maybe God just had a plan for me and wanted me to be around for a little while longer , '' said Johnson , who has a wife , Cookie , and three children .
+98	"ll"	"get"	"side-by-side comparisons"	1
+98	"ll"	"get side-by-side comparisons in"	"your area"	1
+98	"ll"	"get side-by-side comparisons for"	"plans"	1
+98	"ll"	"get in"	"your area"	1
+98	"ll"	"get for"	"plans"	1
+Type in your ZIP code and fill out the easy questionnaire , and you 'll get side-by-side comparisons for plans in your area .
+99	"Katzenberg for example"	"is feuding with"	"former employer Disney"	1
+99	"he"	"was denied"	"his cut of the Disney animated films"	1
+Katzenberg , for example , is feuding with former employer Disney , which he sued for $ 250 million , claiming he was denied his cut of the Disney animated films he helped make .
+100	"1,200-degree air"	"is pumped in order to"	"cool the blades"	1
+100	"1,200-degree air"	"is pumped from"	"the compressor"	1
+100	"1.200-degree air"	"is pumped to"	"the turbine blades"	1
+So , 1,200-degree air is pumped back to the turbine blades from the compressor in order to cool the blades .
+101	"it"	"may be"	"a sign"	1
+NYT News Service And when `` Presidio Med '' fills the time between those scenes with even more stock situations , it may be a sign that it 's time for a moratorium on medical dramas , if not for complete euthanasia .
+102	"M2-CDs"	"rose 30 percent in"	"the April-June period"	1
+102	"M2-CDs"	"rose"	"30 percent"	1
+102	"M2-CDs"	"rose in"	"the April-June period"	1
+M2+CDs rose 3.0 percent in the April-June period .
+But the poverty rate for people 18 to 64 rose a half percentage point , to 10.1 percent .
+104	"BSA"	"seized 12 from"	"SM Summit"	1
+104	"BSA"	"seized from"	"SM Summit"	1
+104	"BSA"	"seized"	"12"	1
+104	"BSA"	"seized in"	"a raid on Aug"	1
+104	"BSA"	"seized 12 in"	"a raid on Aug"	1
+BSA seized items from SM Summit in a raid on Aug. 12 and 13 . c.2002 SAN FRANCISCO CHRONICLE City Supervisor Tom Ammiano , who sponsored the law , said many of the problems were simply a matter of getting the new system up and running .
+105	"c2002 SAN FRANCISCO CHRONICLE City Supervisor Tom Ammiano"	"sponsored"	"the law"	1
+After a few minutes and some lighthearted chuckles , normalcy prevailed and everyone reverted to their traditional duties .
+106	"everyone"	"reverted to"	"their traditional duties"	1
+Together , the Alden Trust and the other foundations controlled by the firm have contributed $ 1.7 million to Clark in the last five years .
+107	"the Alden Trust and the other foundations"	"controlled by"	"the firm"	1
+Of course there are elegant souls who consider such journalism beneath their attention .
+108	"elegant souls"	"consider such journalism beneath"	"their attention"	1
+108	"elegant souls"	"consider beneath"	"their attention"	1
+108	"elegant souls"	"consider"	"such journalism"	1
+Some think the blend is more weighted toward expedience .
+Trucking companies , meanwhile , have finally rebounded after years of laggard performance relative to the rest of the U.S. stock market .
+110	"Trucking companies"	"have rebounded to"	"the rest of the US. stock market"	1
+110	"Trucking companies"	"have rebounded after"	"years of laggard performance relative"	1
+If you have questions , please call Susie McBee or Tim Spence at 202-298-6920 .
+Should caulking be done at the time of the reglazing or after , at a cost of $ 70 ? JUDY FRIEDMAN , West Roxbury ENDIT We must continue to lead by example .
+His legislation would allow tax-free savings for expenses , including tuition , for any school , public , private or religious .
+113	"West Roxbury ENDIT We must continue to"	"must continue to lead by"	"example"	1
+Bullion rose as the U.S. dollar fell against the yen and the German mark , making it cheaper for investors using other major currencies to buy the precious metal , analysts said .
+114	"His legislation"	"would allow tax-free savings for"	"expenses"	1
+114	"His legislation"	"would allow"	"tax-free savings"	1
+114	"expenses"	"including"	"tuition for any school"	1
+114	"His legislation"	"would allow for"	"expenses"	1
+Solutia is saddled with $ 1 billion in debt and even more than that in retiree medical costs and environmental liabilities .
+115	"investors"	"using"	"other major currencies"	1
+115	"investors"	"using to"	"buy the precious metal"	1
+115	"Bullion"	"rose as"	"the US. dollar"	1
+115	"investors"	"using other major currencies to"	"buy the precious metal"	1
+A grocery store strike between Ralphs ' parent company , Kroger Co. , and 3,300 union employees in Wms T$ Virginia , Ohio and Kentucky ities between the two situations offer reason to hope : Both strikes involve Kroger stores and United Food and Commercial Workers employees , both disputes center on health care plans , both began in early October , and both have been mediated by federal officials .
+Seattle 's roster is old .
+117	"Ohio and Kentucky ities between the two situations"	"offer"	"reason"	1
+117	"Both strikes"	"involve"	"Kroger stores and United Food"	1
+117	"Ohio and Kentucky ities between the two situations"	"offer reason to"	"hope"	1
+117	"Ohio and Kentucky ities between the two situations"	"offer to"	"hope"	1
+Those three were apprehended Sunday .
+118	"Seattle ' s roster"	"is"	"old"	1
+The most unpopular agencies , he noted , are usually those charged with solving the most unsolvable problems .
+There should be about 3 cups vegetables chopped medium fine .
+The movie , a $ 120 million change of pace for arty `` Crouching Tiger , Hidden Dragon '' director Ang Lee , is set to debut in June .
+Kidd , 29 , the team 's star point guard , extended his current contract years ago and may not sign another extension with the Nets before becoming a free agent on July 1 .
+U.S. stocks were mixed after a report on durable goods showed unexpected strength , squelching hopes for a bond market rally that could boost shares .
+Slowing corporate profits and weakening export growth has also forced economic growth expectations lower .
+124	"US. stocks"	"were mixed after"	"a report on durable goods"	1
+124	"unexpected strength"	"squelching hopes for"	"a bond market rally"	1
+124	"unexpected strength"	"squelching for"	"a bond market rally"	1
+124	"unexpected strength"	"squelching"	"hopes"	1
+Euromoney 's executives spent several days this week huddled in negotiations with Robert Teitelman , managing editor of Institutional Investor 's Americas edition , whom they named editor to replace Cudaback .
+Ms. Denis 's gift is to integrate the characters so fully in their milieu that they emerge from it almost insensibly .
+126	"they"	"named"	"editor"	1
+126	"they"	"named editor to"	"replace Cudaback"	1
+126	"they"	"named to"	"replace Cudaback"	1
+126	"Euromoney ' s executives"	"spent"	"several days"	1
+126	"negotiations with Robert Teitelman"	"managing"	"editor of Institutional Investor ' s Americas edition"	1
+Oh , and keep the cats away .
+127	"Ms Denis ' s gift"	"is to integrate the characters"	"that they emerge from it"	1
+127	"Ms Denis ' s gift"	"is to integrate the characters in"	"their milieu"	1
+127	"Ms Denis ' s gift"	"is to integrate"	"the characters"	1
+127	"Ms Denis ' s gift"	"is to integrate"	"that they emerge from it"	1
+127	"Ms Denis ' s gift"	"is to integrate in"	"their milieu"	1
+127	"they"	"emerge from"	"it"	1
+The board of directors of UAL , the parent company of United Airlines , is likely to name Glenn F. Tilton , an oil industry executive , as the airline 's new president and chief executive in a meeting Monday morning , according to people with knowledge of the situation .
+Dell stock fell 2 1/16 to 87 1/8 Friday .
+129	"The board of directors of UAL the parent company of United Airlines"	"be likely to name in"	"a meeting Monday morning"	1
+129	"a meeting Monday morning"	"according to"	"people with knowledge of the situation"	1
+129	"The board of directors of UAL the parent company of United Airlines"	"be likely to name Glenn F Tilton an oil industry executive in"	"a meeting Monday morning"	1
+129	"The board of directors of UAL the parent company of United Airlines"	"be likely to name Glenn F Tilton an oil industry executive as"	"the airline ' s new president and chief executive"	1
+129	"The board of directors of UAL the parent company of United Airlines"	"be likely to name"	"Glenn F Tilton an oil industry executive"	1
+129	"The board of directors of UAL the parent company of United Airlines"	"be likely to name as"	"the airline ' s new president and chief executive"	1
+It will also increase luxury taxes on other goods `` that are not essential for development , '' in order to lower non-productive imports .
+130	"Dell stock"	"fell to"	"87 1/8 Friday"	1
+130	"Dell stock"	"fell"	"2 1/16"	1
+130	"Dell stock"	"fell 2 1/16 to"	"87 1/8 Friday"	1
+Jim Suydam writes for the Austin American-Statesman .
+131	"It"	"will increase"	"luxury taxes on other goods"	1
+As for Miller and Oswalt , they accept the responsibility without blinking .
+132	"Jim Suydam"	"writes for"	"the Austin American-Statesman"	1
+For Use By Clients of the New York Times News Service `` I was pretty obnoxious , '' says Steers , who did a year at Hotchkiss and another at an Indiana military school before running away to New York , where he bunked with members of a dance company he had worked for as a stagehand the previous summer on Martha 's Vineyard .
+133	"they"	"accept"	"the responsibility without blinking"	1
+The glamour of Callas ' life has been much exaggerated .
+134	"I"	"was"	"obnoxious"	1
+134	"he"	"bunked with"	"members of a dance company"	1
+For clients of the New York Times News Service Manufacturers ' orders will likely be stronger than the 9.1 percent growth for the July-September quarter the EPA originally forecast , the government said .
+Politicians , historians , locals and the victims ' families are grappling with how the site should be preserved .
+Then with sheer determination she shed 70 pounds and became the sleekly beautiful and charismatic musical actress of legend .
+Born in New York City to Greek parents , she returned with her mother to Greece at 14 and entered the conservatory in Athens .
+138	"she"	"shed"	"70 pounds"	1
+Gurney boosts backers Stars general manager Bob Gainey said he was uncomfortable with increased team incentives for one player .
+139	"she"	"returned to"	"Greece"	1
+139	"she"	"returned with"	"her mother"	1
+139	"she"	"returned at"	"14"	1
+I am having my bathtubs reglazed .
+140	"he"	"was uncomfortable with"	"increased team incentives for one player"	1
+140	"Gurney"	"boosts"	"backers Stars general manager Bob Gainey"	1
+BLUE RIBBON COOK BOOK 1907 DEVILED EGGS Cut in two , crosswise , one dozen hard-boiled eggs .
+Fowler clearly resented Ickes ' authority , and his testimony affirms once again that Ickes , probably more than any other person , knows the full story of the 1996 Clinton campaign , including President Clinton 's role in the fund-raising excesses .
+Netscape is aiming to distribute 100 million copies of Navigator over the next year through partners , including Internet service providers and U.S. Robotics , a division of 3Com Corp. Wide familiarity with Navigator helps Netscape sell its higher-end Internet software packages , especially to large companies .
+143	"any other person"	"knows"	"the full story of the 1996 Clinton campaign"	1
+143	"the full story of the 1996 Clinton campaign"	"including in"	"the fund-raising excesses"	1
+143	"the full story of the 1996 Clinton campaign"	"including"	"President Clinton ' s role"	1
+143	"the full story of the 1996 Clinton campaign"	"including President Clinton ' s role in"	"the fund-raising excesses"	1
+143	"Fowler"	"resented"	"Ickes ' authority"	1
+Childhood cancers only make up 2 percent of all cancer cases in the United States .
+144	"partners"	"including"	"Internet service providers and US. Robotics"	1
+144	"Netscape"	"is aiming to distribute 100 million copies of Navigator through"	"partners"	1
+144	"Netscape"	"is aiming to distribute"	"100 million copies of Navigator"	1
+144	"a division of 3Com Corp Wide familiarity with Navigator"	"helps"	"Netscape"	1
+144	"Netscape"	"is aiming to distribute through"	"partners"	1
+144	"Netscape"	"is aiming to distribute over"	"the next year"	1
+144	"Netscape"	"is aiming to distribute 100 million copies of Navigator over"	"the next year"	1
+He did , and their discussion lit a flame that had temporarily burned out .
+145	"Childhood cancers"	"make up 2 percent of all cancer cases in"	"the United States"	1
+145	"Childhood cancers"	"make up in"	"the United States"	1
+145	"Childhood cancers"	"make up"	"2 percent of all cancer cases"	1
+But he did n't fool me .
+146	"their discussion"	"lit"	"a flame"	1
+Confusingly , hurricanelike tropical cyclones born over the southwestern Pacific and the Indian Ocean are usually called just `` cyclones '' in the media .
+The New York Stock Exchange floor will be a sea of khaki-clad legs tomorrow as Gap Inc. promotes casual Fridays with free pants and shirts for about 3,500 traders .
+148	"hurricanelike tropical cyclones"	"born over"	"the southwestern Pacific and the Indian Ocean"	1
+The spread between the notional yield on the most active 10-year Japanese government bond futures contract and the seven-year swap rate was little changed from yesterday at 42 basis points .
+149	"The New York Stock Exchange floor"	"will be a sea of khaki-clad legs tomorrow as"	"Gap Inc"	1
+149	"The New York Stock Exchange floor"	"will be"	"a sea of khaki-clad legs tomorrow"	1
+149	"The New York Stock Exchange floor"	"will be as"	"Gap Inc"	1
+Had I known then what I know now , I might have argued for a different arrangement .
+150	"10-year Japanese government bond futures contract and the seven-year swap rate"	"was changed at"	"42 basis points"	1
+150	"10-year Japanese government bond futures contract and the seven-year swap rate"	"was changed from"	"yesterday"	1
+Kors also used silk on belted polo dresses and trousers .
+151	"I"	"might have argued for"	"a different arrangement"	1
+If the administration wished to support something appropriate and useful , President Clinton would embrace , rather than resist , U.S. Sen. Paul Coverdell 's K-12 education savings A+ Accounts .
+152	"Kors also"	"used silk on"	"belted polo dresses and trousers"	1
+152	"Kors also"	"used on"	"belted polo dresses and trousers"	1
+152	"Kors also"	"used"	"silk"	1
+He did n't quite understand what I was getting at , or so he claimed .
+153	"the administration"	"wished to support"	"something appropriate and useful"	1
+We get long digressions about the rivalry between Los Alamos and a second nuclear weapons lab set up at Livermore , Calif. , and eye-glazing asides about technical problems at both labs .
+He was back in Atlanta last October on a non-guaranteed training camp contract , but the Hawks released him so he could sign a guaranteed deal with Panathinaikos , a Greek team that he led to the Euroleague championship .
+155	"We"	"get"	"long digressions about the rivalry between Los Alamos and a second nuclear weapons lab"	1
+Why does this `` moment , '' to use a term bandied about by designers , call for an excess of clothes rendered in guipure lace , with ruffles , ribbons or other frilly edging , in polka-dotted or liquid silks or with lingerie-style details ? $ $ $ Still , traders said they expect investors to look for opportunities to buy temporarily depressed big-company shares , which have outperformed those of smaller companies for the past 2 1/2 years .
+156	"he"	"led to"	"the Euroleague championship"	1
+156	"He"	"was in"	"Atlanta last October on a non-guaranteed training camp contract"	1
+A spokesman for Hayden said Sunday that the senator was looking at several areas for possible legislation , including clarification of existing laws dealing with stalking and trespassing .
+157	"call for an excess of clothes"	"rendered ribbons in"	"guipure lace with ruffles"	1
+157	"call for an excess of clothes"	"rendered in"	"guipure lace with ruffles"	1
+157	"call for an excess of clothes"	"rendered"	"ribbons"	1
+What the team did n't count on was that Boselli would have two more surgical procedures on his shoulder after he became a Texan .
+158	"they"	"expect to"	"look for opportunities"	1
+158	"they"	"expect to"	"buy temporarily depressed big-company shares"	1
+158	"they"	"expect investors to"	"buy temporarily depressed big-company shares"	1
+158	"they"	"expect"	"investors"	1
+158	"traders"	"said"	"they expect investors to look for opportunities to buy temporarily depressed big-company shares"	1
+158	"they"	"expect investors to"	"look for opportunities"	1
+Think of how many people stay in bad marriages because they are financially dependent or simply afraid of the unknown .
+159	"A spokesman for Hayden"	"said Sunday"	"that the senator was looking at several areas for possible legislation"	1
+159	"A spokesman for Hayden"	"said"	"Sunday"	1
+159	"possible legislation"	"including"	"laws"	1
+159	"laws"	"dealing with"	"stalking"	1
+159	"the senator"	"was looking for"	"possible legislation"	1
+159	"the senator"	"was looking at"	"several areas"	1
+159	"A spokesman for Hayden"	"said"	"that the senator was looking at several areas for possible legislation"	1
+But within seconds , his smile had receded and his tone had again turned serious .
+160	"the team"	"did n't count on"	"was"	1
+160	"the team"	"did n't count"	"that Boselli would have two more surgical procedures on his shoulder"	1
+160	"he"	"became"	"a Texan"	1
+160	"Boselli"	"would have"	"two more surgical procedures on his shoulder"	1
+160	"the team"	"did n't count after"	"he became a Texan"	1
+Story Filed By Cox Newspapers -- Dao Heng Bank Group Ltd. was rated `` buy '' in new coverage by analyst Elan Cohen at J.P. Morgan Securities .
+161	"they"	"are"	"dependent"	1
+161	"many people"	"stay in"	"bad marriages"	1
+They sweet-talked , cajoled , and begged people to come talk .
+That , he said , is what many of the POWs would like more than anything .
+Jane Boynton , a nurse from Miami who heard Forbes speak at the Christian Coalition convention , said : `` He said exactly what the people wanted to hear .
+164	"They"	"begged"	"people"	1
+164	"They"	"begged to"	"come talk"	1
+164	"They"	"begged people to"	"come talk"	1
+164	"They"	"cajoled to"	"come talk"	1
+164	"They"	"sweet-talked to"	"come talk"	1
+That 's about 2 percentage points more than investment grade bonds and in contrast to the 6.7 percent average yield on benchmark 30-year Treasuries this year .
+165	"the POWs"	"would like than"	"anything"	1
+The couple was riding in a rented Mercedes-Benz , and the driver , trying to avoid the photographers ' harassment , crashed the car at high speed against a concrete pillar .
+166	"Jane Boynton a nurse from Miami"	"speak at"	"the Christian Coalition convention"	1
+166	"He"	"said"	""	1
+166	"Miami"	"heard"	"Forbes"	1
+They want news of the latest United Nations debate , bulletins on the Sudanese economy , inside dope on the recent political coup in Cambodia .
+Spokesmen for the SEC and the New York and Philadelphia exchanges declined to say whether they are investigating trading in Salomon 's stock .
+168	"the driver trying to"	"trying to avoid"	"the photographers ' harassment"	1
+168	"The couple"	"was riding in"	"a"	1
+168	"the driver trying to"	"crashed against"	"a concrete pillar"	1
+168	"the driver trying to"	"crashed the car against"	"a concrete pillar"	1
+168	"the driver trying to"	"crashed"	"the car"	1
+168	"the driver trying to"	"crashed at"	"high speed"	1
+168	"the driver trying to"	"crashed the car at"	"high speed"	1
+For starters , try the Internet .
+169	"They"	"want news of the latest United Nations debate bulletins on the Sudanese economy in"	"Cambodia"	1
+169	"They"	"want"	"news of the latest United Nations debate bulletins on the Sudanese economy"	1
+169	"They"	"want in"	"Cambodia"	1
+169	"They"	"want inside"	"dope on the recent political coup"	1
+169	"They"	"want news of the latest United Nations debate bulletins on the Sudanese economy inside"	"dope on the recent political coup"	1
+It says that Indonesia will lower tariffs on some goods used to make exports .
+170	"they"	"are investigating trading in"	"Salomon ' s stock"	1
+170	"they"	"are investigating"	"trading"	1
+170	"they"	"are investigating in"	"Salomon ' s stock"	1
+170	"Philadelphia exchanges"	"declined to say"	"whether they are investigating trading in Salomon ' s stock"	1
+The confusion over ADD is not new .
+The BSA suit , filed on behalf of Microsoft Corp. , Autodesk Inc. and Adobe Systems Inc. , alleged SM Summit committed software piracy .
+172	"Indonesia"	"will lower"	"tariffs on some goods"	1
+172	"It"	"says"	"used to make exports"	1
+A year ago , three-fifths of Americans said the government had done enough to protect them against another terrorist attack ; now just two-fifths do .
+173	"The confusion over ADD"	"is not"	"new"	1
+Plus , Gidley notes , there are also a number of `` push providers '' such as PointCast Inc. , which provides news and information directly to computer users rather than requiring users to surf the Net to find it .
+174	"The BSA suit"	"filed on"	"behalf of Microsoft Corp Autodesk Inc and Adobe Systems Inc"	1
+174	"The BSA suit"	"alleged"	"SM Summit committed software piracy"	1
+Rookie Antonio Bryant is fiery , but he must find some consistency in his route running .
+175	"three-fifths of Americans"	"said"	"the government had done enough to protect them against another terrorist attack"	1
+175	"the government"	"had done to protect them against"	"another terrorist attack"	1
+Airports act as `heat islands , ' so temperatures can vary as much as 10 degrees Fahrenheit from far away vegetable fields and citrus groves .
+176	"PointCast Inc"	"provides news and information to"	"find it"	1
+176	"PointCast Inc"	"provides"	"news and information"	1
+176	"PointCast Inc"	"provides to"	"find it"	1
+The Rams sorely miss departed third receiver Az Hakim .
+177	"he"	"must find some consistency in"	"his route running"	1
+177	"he"	"must find in"	"his route running"	1
+177	"he"	"must find"	"some consistency"	1
+177	"Rookie Antonio Bryant"	"is"	"fiery"	1
+In the last four games of the losing streak , they surrendered deciding goals in the last minutes of the half or game three times and were blanked , 4-0 , by Tampa Bay .
+178	"temperatures"	"can vary from"	"far"	1
+178	"temperatures"	"can vary as"	"10 degrees Fahrenheit"	1
+Eating disorders affect 5 million to 10 million American adolescent girls and women and about 1 million American boys and men .
+A similar bill is pending in the Senate , sponsored by Florida Sens. Connie Mack , a Republican , and Bob Graham , a Democrat .
+180	"they"	"surrendered deciding in"	"the last minutes of the half or game"	1
+180	"they"	"surrendered deciding three times in"	"the last minutes of the half or game"	1
+180	"they"	"surrendered deciding"	"three times"	1
+Taylor missed only one day of school , but another week went by before she could move her head smoothly to the right , or lift her writing arm up to desk level without pain .
+Well , you can still buy a single quart at the corner store , but it 'll cost you a few dollars extra .
+182	"A similar bill"	"is pending in"	"the Senate"	1
+182	"the Senate"	"sponsored by"	"Florida Sens Connie Mack"	1
+If force is necessary , let it be force in the best interest of all , and supported by all who truly want a peaceful world .
+183	"Taylor"	"missed"	"one day of school"	1
+Organizations in the 33 states can use the grants announced today for both education and enforcement efforts -- including funding for enforcement , housing counseling and other activities that will promote fair housing , Clinton said .
+184	"ll"	"cost you"	"a few dollars extra"	1
+Come to think of it , that would be revolutionary .
+185	"force"	"is"	"necessary"	1
+But Leslie Robison , an epidemiologist from the University of Minnesota , who estimates that 1 out 630 children will develop cancer before the age of 15 , said that cancer has very different implications for a child compared to adults , even for those who survive .
+186	"Organizations in the 33 states"	"can use"	"the grants"	1
+He calculates his annual maintenance costs at $ 25,000 .
+Towers Financial was formed by one-time New York Post bidder Steven Hoffenberg .
+188	"an epidemiologist from the University of Minnesota"	"estimates"	"that 1 out 630 children will develop cancer before the age of 15"	1
+188	"Leslie Robison an epidemiologist from the University of Minnesota"	"said"	"compared to adults"	1
+188	"1 out 630 children"	"will develop cancer before"	"the age of 15"	1
+188	"1 out 630 children"	"will develop before"	"the age of 15"	1
+188	"1 out 630 children"	"will develop"	"cancer"	1
+188	"cancer"	"has"	"very different implications"	1
+188	"cancer"	"has very different implications for"	"a child"	1
+188	"cancer"	"has for"	"a child"	1
+Or it can maintain and expand a safety net that is already larger than many people had thought , possibly giving more discouraged workers reason to depend on a government check .
+189	"He"	"calculates"	"his annual maintenance costs"	1
+But Aftonbladet said Chatty was interviewed by the police after Sept. 11 and subsequently made a pilgrimage to Mecca .
+190	"Towers Financial"	"was formed by"	"one-time New York Post bidder Steven Hoffenberg"	1
+She said she was looking forward to returning to Texas with her family .
+191	"it"	"expand"	"a safety net"	1
+191	"a safety net"	"is larger than"	"many people"	1
+191	"a safety net"	"is"	"larger"	1
+191	"a safety net"	"is than"	"many people"	1
+And just to get to that point , the Chiefs had to overcome a 10-0 first-half deficit and a 17-14 Seahawks advantage in the third quarter .
+192	"Aftonbladet"	"said after"	"Sept"	1
+192	"Chatty"	"was interviewed by"	""	1
+192	"Aftonbladet"	"said 11"	"Chatty was interviewed by"	1
+192	"Aftonbladet"	"said"	"Chatty was interviewed by"	1
+192	"Aftonbladet"	"said 11 after"	"Sept"	1
+192	"Aftonbladet"	"said"	"11"	1
+For historians , this euphoria rang a bell of memory .
+193	"She"	"said"	"she was looking forward to returning to Texas with her family"	1
+193	"she"	"was looking to returning to"	"Texas with her family"	1
+Even if you just want to take a dip , you 'll find the ocean conditions generally inviting -- and family-friendly .
+194	"the Chiefs"	"had to overcome in"	"the third quarter"	1
+194	"the Chiefs"	"had to overcome a 10-0 first-half deficit and a 17-14 Seahawks advantage in"	"the third quarter"	1
+194	"the Chiefs"	"had to overcome"	"a 10-0 first-half deficit and a 17-14 Seahawks advantage"	1
+Together , the year 's two moves have raised prices 14 percent at the wholesale level , and 7 percent at retail , according to Black .
+195	"this euphoria"	"rang"	"a bell of memory"	1
+195	"this euphoria"	"rang For"	"historians"	1
+195	"this euphoria"	"rang a bell of memory For"	"historians"	1
+It was Tuesday , he explained .
+196	"ll"	"find"	"ll find the ocean conditions generally"	1
+196	"you"	"want to take"	"a dip"	1
+There is no escaping the fact that Arab political emotions have been shaped by the region 's encounter with French and British colonialism , by the defeat of the Arab effort to prevent the existence of Israel and by the subsequent American support for Israel and its treatment of the Palestinians , as well as by the direct injection of American power into the region .
+197	"the year ' s two moves have"	"have raised"	"prices"	1
+For P.T. International , the drought represents the second setback in as many years .
+198	"It"	"was"	"Tuesday"	1
+Diana raised our consciousness about diseased children in Third World countries , people living with AIDS and the ravages of land mines .
+199	"Arab political emotions"	"have been shaped by"	"the defeat of the Arab effort"	1
+199	"Arab political emotions"	"have been shaped by"	"the region ' s encounter with French and British colonialism"	1
+Hooters Inc. founded the chain 14 years ago , and owns the company trademark and related rights .
+200	"the drought"	"represents the second setback For"	"PT. International"	1
+200	"the drought"	"represents"	"the second setback"	1
+200	"the drought"	"represents For"	"PT. International"	1
+Story Filed By Cox Newspapers Champions of the National Endowment for the Arts , which congressional conservatives are trying to shut down , have joined CBS , Bravo and others in producing public service announcements about the importance of the arts .
+201	"Diana"	"raised our consciousness about diseased children in"	"Third World countries"	1
+201	"Diana"	"raised in"	"Third World countries"	1
+201	"Diana"	"raised"	"our consciousness about diseased children"	1
+201	"people"	"living with"	"AIDS and the ravages of land mines"	1
+Waiting in Guyana for their turn , Charles and Charlene looked after each other .
+202	"Hooters Inc"	"founded"	"14 years"	1
+Today , Mackovic is presented with a real-life role reversal that could prove painful for his football team if played out to the hilt at Rice Stadium .
+203	"the Arts"	"are trying to shut"	"the Arts"	1
+203	"Story Filed By Cox Newspapers Champions of the National Endowment for the Arts"	"have joined"	"CBS"	1
+Next up on the politics-and-calories calendar is a Buell dinner Monday for Chellie Pingree , the Dems ' Maine senatorial candidate .
+Meanwhile , Federal Express said it has kept about 15 percent of the extra deliveries it gained during the UPS strike .
+205	"Mackovic"	"is presented with"	"a real-life role reversal"	1
+Biondi said that Kay Koplovitz would remain as chairwoman of the company .
+206	"the politics-and-calories calendar"	"is a Buell dinner Monday for"	"Chellie Pingree"	1
+206	"the politics-and-calories calendar"	"is for"	"Chellie Pingree"	1
+206	"the politics-and-calories calendar"	"is"	"a Buell dinner Monday"	1
+Like most visitors to Xi'an , Rubin tours China 's most astounding archeological treasure : the army of thousands of life-size figures that protect the graves of the Chinese emperors .
+207	"Federal Express"	"said"	"it"	1
+207	"Federal Express"	"said it"	"it gained during the UPS strike"	1
+207	"Federal Express"	"said"	"it gained during the UPS strike"	1
+207	"it"	"gained during"	"the UPS strike"	1
+The yield spread between an index of option-free 10-year `` A2 '' bank bonds and the 10-year Treasury note was 70 basis points yesterday , 2 basis points wider from a week earlier .
+208	"Kay Koplovitz"	"would remain as"	"chairwoman of the company"	1
+208	"Biondi"	"said"	"that Kay Koplovitz would remain as chairwoman of the company"	1
+As a human rights officer , she regularly traveled around the country , returning to brief officials about ethnic clashes and human rights abuses that deter Bosnia 's refugees from returning home .
+209	"the army of thousands of life-size figures"	"protect"	"the graves of the Chinese emperors"	1
+209	"Rubin"	"tours China Like"	"most visitors to Xi'an"	1
+209	"Rubin"	"tours Like"	"most visitors to Xi'an"	1
+209	"Rubin"	"tours"	"China"	1
+This quality transcended fashion .
+210	"bank bonds and the 10-year Treasury note"	"was"	"70 basis points yesterday"	1
+Dot with food coloring and wait .
+211	"she"	"traveled around As"	"a human rights officer"	1
+211	"the country"	"returning to"	"brief officials about ethnic clashes and human rights abuses"	1
+211	"she"	"traveled around"	"the country"	1
+211	"she"	"travel around the country As"	"a human rights officer"	1
+Most were dragged off instantly by police officers who had apparently been warned .
+212	"This quality"	"transcended"	"fashion"	1
+The public was clearly fed up , and as Congress took up the issue in early 2001 the only question seemed to be one of timing , whether the necessary reforms could be enacted before the 2002 midterm elections .
+Region prospers While a successful Teamsters union strike last month was viewed as a comeback for U.S. labor , the turmoil surrounding President Ron Carey casts doubt on its future .
+The subject was a Lakers four-peat - a campaign that begins one week from today , when the Lakers open training camp in El Segundo .
+215	"Congress"	"took up"	"2001 the only question seemed to be one of timing"	1
+215	"Congress"	"took up in"	"early"	1
+215	"the only question"	"seemed to be"	"one of timing"	1
+215	"Congress"	"took up 2001 the only question seemed to be one of timing in"	"early"	1
+By the early 1980s , it was ZZZZ Best that showed how easy fraud could be .
+216	"the turmoil"	"casts"	"doubt on its future"	1
+216	"the turmoil"	"surrounding"	"President Ron Carey"	1
+216	"a successful Teamsters union strike"	"was viewed as"	"a comeback"	1
+216	"a successful Teamsters union strike"	"was viewed for"	"US. labor"	1
+A physician 's diet , exercise , The brewer said the improvement in trading performance was due to increased volumes led by canned Draught Guinness , an 11 percent increase in productivity per employee and returns on a 10 percent increase in marketing investment to 107 million pounds .
+217	"The subject"	"was"	"a Lakers four-peat"	1
+217	"a campaign"	"begins from"	"today"	1
+217	"a campaign"	"begins one week from"	"today"	1
+217	"a campaign"	"begins"	"one week"	1
+The number of passengers on Lufthansa 's domestic routes declined 5.5 percent in the first half , even as overall passenger numbers rose 3 percent .
+218	"it"	"was"	"that showed"	1
+218	"it"	"was"	"ZZZZ Best"	1
+218	"it"	"was ZZZZ Best"	"that showed"	1
+218	"it"	"was ZZZZ Best By"	"the early 1980s"	1
+218	"it"	"was By"	"the early 1980s"	1
+Even though it was first diagnosed by a British pediatrician in 1902 , no one knows what causes it .
+219	"A physician ' s diet exercise The brewer"	"said the improvement in"	"trading performance"	1
+219	"A physician ' s diet exercise The brewer"	"said in"	"trading performance"	1
+219	"A physician ' s diet exercise The brewer"	"said the improvement"	"be due to increased volumes"	1
+219	"A physician ' s diet exercise The brewer"	"said"	"the improvement"	1
+219	"A physician ' s diet exercise The brewer"	"led by"	"canned Draught Guinness"	1
+219	"A physician ' s diet exercise The brewer"	"said"	"be due to increased volumes"	1
+It was an area in central Bosnia that Melnick knew well .
+220	"The number of passengers on Lufthansa ' s domestic routes"	"declined in"	"the first half"	1
+220	"The number of passengers on Lufthansa ' s domestic routes"	"declined"	"55 percent"	1
+220	"The number of passengers on Lufthansa ' s domestic routes"	"declined 55 percent in"	"the first half"	1
+220	"overall passenger numbers"	"rose"	"3 percent"	1
+The scene was oddly serene compared with the mayhem on Monday after 12 North Koreans tried to enter a compound housing the Ecuadorian Embassy , which is usually lightly guarded .
+221	"it"	"was diagnosed in"	"1902"	1
+221	"it"	"was diagnosed by"	"a British pediatrician"	1
+Spurred by requests from customers , health food stores started calling their suppliers yesterday looking for the sprouts , which are n't commercially available .
+222	"It"	"was an area in"	"central Bosnia"	1
+222	"It"	"was"	"an area"	1
+222	"It"	"was in"	"central Bosnia"	1
+222	"central Bosnia"	"knew"	"central Bosnia"	1
+But do n't let a Web site substitute for a physician , either : Anyone who has himself for a doctor has a fool for a patient .
+223	"The scene"	"was"	"serene"	1
+His mother said he was in Saudi Arabia on Sept. 11 .
+224	"health food stores"	"started calling"	"health food stores started calling their suppliers yesterday"	1
+224	"health food stores started calling their suppliers yesterday"	"started calling looking for"	"the sprouts"	1
+The governor 's campaign aides offered a quick retort .
+225	"Anyone"	"has a fool for"	"a patient"	1
+225	"Anyone"	"has himself for"	"a doctor"	1
+225	"Anyone"	"has"	"himself"	1
+225	"Anyone"	"has for"	"a patient"	1
+225	"Anyone"	"has"	"a fool"	1
+225	"Anyone"	"has for"	"a doctor"	1
+The proposed accord was reached June 20 by the tobacco industry and 39 states .
+226	"His mother"	"said"	"he was in Saudi Arabia on Sept"	1
+226	"he"	"was in"	"Saudi Arabia on Sept"	1
+Among the other companies that got a boost from restructurings , Sara Lee Corp. gained 17 percent for the week after announcing it will sell some business and cut costs to raise $ 3 billion for a stock buyback .
+227	"The governor ' s campaign aides"	"offered"	"a quick retort"	1
+The announcement , which came only days after a visit to Pyongyang by Japan 's prime minister , Junichiro Koizumi , marked a significant change of strategy for the administration , which had terminated similar negotiations pursued with North Korea by President Bill Clinton shortly before he left office .
+228	"The"	"was reached"	"20 by the tobacco industry and 39 states"	1
+E. Martin Gibson is the company 's chairman and has served as a director of the parent company since 1992 .
+229	"Sara Lee Corp"	"gained after"	"announcing it"	1
+229	"Sara Lee Corp"	"gained Among"	"the other companies"	1
+229	"Sara Lee Corp"	"gained 17 percent Among"	"the other companies"	1
+229	"the other companies"	"got a boost from"	"restructurings"	1
+229	"Sara Lee Corp"	"gained for"	"the week"	1
+229	"the other companies"	"got"	"a boost"	1
+229	"the other companies"	"got from"	"restructurings"	1
+229	"Sara Lee Corp"	"gained"	"17 percent"	1
+229	"Sara Lee Corp"	"gained 17 percent for"	"the week"	1
+229	"Sara Lee Corp"	"gained 17 percent after"	"announcing it"	1
+Her friend was waiting for her at a bar , shaken and alone .
+230	"The announcement"	"came only days to"	"Pyongyang"	1
+230	"The announcement"	"came to"	"Pyongyang"	1
+230	"The announcement"	"came after"	"a visit"	1
+230	"he"	"left"	"office"	1
+230	"The announcement"	"came only days after"	"a visit"	1
+230	"Japan ' s prime minister Junichiro Koizumi"	"marked for"	"the administration"	1
+230	"The announcement"	"came"	"only days"	1
+230	"Japan ' s prime minister Junichiro Koizumi"	"marked"	"a significant change of strategy"	1
+230	"Japan ' s prime minister Junichiro Koizumi"	"marked a significant change of strategy for"	"the administration"	1
+By contrast , European countries tested 10 million animals last year .
+231	"E Martin Gibson"	"is the company ' s chairman since"	"1992"	1
+231	"E Martin Gibson"	"is"	"the company ' s chairman"	1
+231	"E Martin Gibson"	"is the company ' s chairman as"	"a director of the parent company"	1
+231	"E Martin Gibson"	"has served as"	"a director of the parent company"	1
+231	"E Martin Gibson"	"has served since"	"1992"	1
+231	"E Martin Gibson"	"is as"	"a director of the parent company"	1
+231	"E Martin Gibson"	"is since"	"1992"	1
+Sometimes he thinks he is improving , but then he runs out of breath , his pulse and blood pressure start jumping around or he turns forgetful in a way that he never was before .
+232	"Her friend"	"was waiting for"	"her"	1
+232	"Her friend"	"was waiting at"	"a bar"	1
+Intel Corp. rose 1 13/16 to 97 3/4 and was among the leaders after it introduced a new product to link computers that improves efficiency 30 percent .
+233	"European countries"	"tested 10 million animals By"	"contrast"	1
+233	"European countries"	"tested"	"10 million animals"	1
+233	"European countries"	"tested By"	"contrast"	1
+Deutsche BA , meanwhile , saw passenger numbers almost double in the first six months of 1997 , helped by a new marketing campaign and the introduction of two new routes .
+234	"he"	"turns in"	"a way"	1
+234	"he"	"turns"	"that he never was before"	1
+234	"he"	"runs out of"	"breath"	1
+234	"he"	"thinks"	"he is improving"	1
+Before tonight 's meeting Clinton aides had been talking to industry officials , trying to wrest new concessions , but with little progress .
+235	"Intel Corp"	"rose after"	"it"	1
+235	"Intel Corp"	"rose 1 13/16 among"	"the leaders"	1
+235	"Intel Corp"	"rose 1 13/16 to"	"97 3/4"	1
+235	"Intel Corp"	"rose 1 13/16 after"	"it"	1
+235	"computers"	"improves"	"30 percent"	1
+235	"Intel Corp"	"was after"	"it"	1
+235	"Intel Corp"	"rose"	"1 13/16"	1
+235	"Intel Corp"	"rose to"	"97 3/4"	1
+235	"Intel Corp"	"was among"	"the leaders"	1
+235	"Intel Corp"	"rose among"	"the leaders"	1
+Syrian President Hafez Assad hopes the violence will pressure Israel into relinquishing the Golan Heights , land it captured in the 1967 war .
+236	"Deutsche BA"	"saw passenger numbers in"	"the first six months of 1997"	1
+236	"Deutsche BA"	"saw in"	"the first six months of 1997"	1
+236	"Deutsche BA"	"saw"	"passenger numbers"	1
+236	"the first six months of 1997"	"helped by"	"a new marketing campaign and the introduction of two new routes"	1
+He now needs inhaled asthma medicine to help him breathe , even though he never had asthma before .
+237	"Before tonight ' s"	"meeting Clinton aides Before"	"tonight ' s"	1
+237	"industry officials trying to"	"trying to wrest"	"new concessions"	1
+237	"Before tonight ' s"	"meeting"	"Clinton aides"	1
+237	"Before tonight ' s"	"meeting Before"	"tonight ' s"	1
+The foundations , separate from the boards of educations , are modeled on those that began appearing in California in the 1970s after the passage of Proposition 13 , which limited property taxes .
+238	"Syrian President Hafez Assad"	"hopes"	"the violence"	1
+238	"land it"	"captured in"	"the 1967 war"	1
+For example , he wants to erect a multiplex theater and virtual-reality amusement park in Coney Island and is a finalist in the competition to choose a developer for the site of the New York Coliseum in Manhattan .
+239	"he"	"never had"	"asthma"	1
+They make `` Alabama '' a relatively painless experience , provided , again , you leave before Jewel starts singing .
+At least 170,000 civilian prisoners died at Majdanek , the suit claims , including 13,000 Jews who were murdered within a month of Bucmys 's arrival .
+241	"he"	"wants to erect in"	"Coney Island"	1
+241	"he"	"wants to erect a multiplex theater and virtual-reality amusement park in"	"Coney Island"	1
+241	"he"	"wants to erect to"	"choose a developer for the site of the New York Coliseum in Manhattan"	1
+241	"he"	"wants to erect"	"a multiplex theater and virtual-reality amusement park"	1
+241	"he"	"is in"	"the competition"	1
+241	"he"	"is a finalist in"	"the competition"	1
+241	"he"	"is"	"a finalist"	1
+241	"he"	"wants to erect a multiplex theater and virtual-reality amusement park to"	"choose a developer for the site of the New York Coliseum in Manhattan"	1
+It was her sheer life force that was almost blinding , so blinding it is hard to believe it was not permanent , such a shock to discover that it could be destroyed or taken away .
+To do so , Selig will have to overcome strong feelings on both sides .
+243	"13,000 Jews"	"were murdered within"	"a month of Bucmys ' s arrival"	1
+243	"170,000 civilian prisoners died at Majdanek the suit claims"	"died including"	"13,000 Jews"	1
+243	"170,000 civilian prisoners"	"died at"	"170,000 civilian prisoners died Majdanek the suit claims"	1
+Meanwhile , another tropical disturbance in the western Gulf of Mexico will promote locally heavy showers along the coast from Texas to the central Gulf States .
+244	"It"	"was"	"her sheer life force"	1
+Woodson kept Chiaverini behind him and made the leaping interception at the Michigan 45 .
+245	"Selig"	"will have to overcome"	"strong feelings on both sides"	1
+Have you ever looked closely at a Cheez Doodle ?
+246	"another tropical disturbance in the western Gulf of Mexico"	"will promote to"	"the central Gulf States"	1
+246	"another tropical disturbance in the western Gulf of Mexico"	"will promote along"	"the coast"	1
+246	"another tropical disturbance in the western Gulf of Mexico"	"will promote heavy showers to"	"the central Gulf States"	1
+246	"another tropical disturbance in the western Gulf of Mexico"	"will promote heavy showers along"	"the coast"	1
+246	"another tropical disturbance in the western Gulf of Mexico"	"will promote"	"heavy showers"	1
+246	"another tropical disturbance in the western Gulf of Mexico"	"will promote from"	"Texas"	1
+246	"another tropical disturbance in the western Gulf of Mexico"	"will promote heavy showers from"	"Texas"	1
+Bensonhurst is a vintage Italian neighborhood , a place of tidy two-family brick homes adorned with Madonnas in the front yard and American flags snapping over the front doors .
+247	"Woodson"	"kept"	"Chiaverini"	1
+247	"Woodson"	"kept Chiaverini behind"	"him"	1
+247	"Woodson"	"kept behind"	"him"	1
+He still remembers when Weinberg came to him with his wife 's sculpture portfolio and proposed making similarly styled knobs and hardware .
+The money losing airline offered discount prices between western Canadian destinations .
+249	"a place of tidy two-family brick homes"	"adorned in"	"a place of tidy two-family brick homes adorned with Madonnas the front yard and American flags snapping over the front doors"	1
+249	"Bensonhurst"	"is"	"a vintage Italian neighborhood"	1
+249	"a place of tidy two-family brick homes"	"adorned with"	"Madonnas"	1
+The ailing incumbent , Lansana Conte , in office since seizing power in a coup in 1984 , was widely expected to win .
+250	"He"	"remembers with"	"his wife ' s sculpture portfolio"	1
+250	"He"	"remembers him"	"when Weinberg came"	1
+250	"He"	"remembers"	"him"	1
+250	"He"	"remembers him with"	"his wife ' s sculpture portfolio"	1
+250	"He"	"remembers"	"when Weinberg came"	1
+You can also look up individual carriers for more detailed info on their respective products and special offers .
+251	"The money"	"losing"	"airline"	1
+251	"The money"	"offered"	"discount prices between western Canadian destinations"	1
+At times there were beautiful moments .
+E-mail her at mmccartycoxohio.com A Ply Gem Industries Inc. shareholder is suing Furman Selz Inc. for $ 100 million , claiming it was negligent in recommending Nortek Inc. 's takeover offer as fair to shareholders .
+253	"You"	"can look up"	"individual carriers"	1
+253	"You"	"can look up for"	"more detailed info on their respective products and special offers"	1
+253	"You"	"can look up individual carriers for"	"more detailed info on their respective products and special offers"	1
+So they fire up the pits and smoke the briskets for 18 hours over mesquite or hickory .
+Ruiz hopes Lewis 's decision will give light heavyweight champion Roy Jones Jr. the impetus to take on Ruiz Dec. 7 on HBO , the idea being that the winner would fight the winner of the WBA title next spring .
+255	"mmccartycoxohiocom A Ply Gem Industries Inc shareholder"	"is suing"	"Furman Selz Inc"	1
+Grbac wore a quizzical look , like a guy who was given a wonderful gift by his worst enemy .
+256	"they"	"smoke the briskets over"	"mesquite or hickory"	1
+256	"they"	"smoke for"	"18 hours"	1
+256	"they"	"smoke over"	"mesquite or hickory"	1
+256	"they"	"fire up the pits over"	"mesquite or hickory"	1
+256	"they"	"fire up the pits for"	"18 hours"	1
+256	"they"	"smoke"	"the briskets"	1
+256	"they"	"fire up"	"the pits"	1
+256	"they"	"fire up for"	"18 hours"	1
+256	"they"	"fire up over"	"mesquite or hickory"	1
+256	"they"	"smoke the briskets for"	"18 hours"	1
+Turnout was light , according to news agency reports from the capital , Conakry .
+257	"Ruiz"	"hopes Lewis ' s decision to"	"take on Ruiz Dec"	1
+257	"Ruiz"	"hopes"	"Lewis ' s decision"	1
+257	"Ruiz"	"hopes to"	"take on Ruiz Dec"	1
+257	"the winner"	"would fight"	"the winner of the WBA title next spring"	1
+257	"the idea"	"being"	"that the winner would fight the winner of the WBA title next spring"	1
+A Swiss Bank spokesman in Basel , Michel Willi , declined to comment on the talks , as did a spokesman in London .
+258	"Grbac"	"wore like"	"a guy"	1
+258	"a guy"	"was given"	"a wonderful gift"	1
+258	"a guy"	"was given by"	"his worst enemy"	1
+258	"Grbac"	"wore"	"a quizzical look"	1
+258	"a guy"	"was given a wonderful gift by"	"his worst enemy"	1
+258	"Grbac"	"wore a quizzical look like"	"a guy"	1
+For one thing , members of Congress and their staffs have a traditional `` defined benefit '' program , meaning that they know exactly what they 'll get upon retirement .
+259	"Turnout"	"was"	"light"	1
+He moved Jerry Pettibone 's 6 a.m.
+260	"A Swiss Bank spokesman in Basel Michel Willi"	"declined to comment on"	"the talks"	1
+The Stars have a team incentive plan in place that awards bonuses on a years-played basis .
+261	"ll"	"get upon"	"retirement"	1
+261	"members of Congress and their staffs"	"have For"	"one thing"	1
+261	"program"	"meaning"	"that they know exactly"	1
+In the most world-renowned episode , seven frantic photographers on motorbikes chased Princess Diana and her companion , Dodi al-Fayed , after leaving the Ritz hotel in Paris .
+262	"6 am. The Stars"	"have a team incentive plan in"	"place"	1
+262	"6 am. The Stars"	"have"	"a team incentive plan"	1
+262	"6 am. The Stars"	"have in"	"place"	1
+262	"He"	"moved"	"6 am. The Stars"	1
+262	"place"	"awards"	"bonuses on a years-played basis"	1
+The need for strong federal action to protect the right to vote and the integrity of future national elections could not have been clearer .
+263	"seven frantic photographers on motorbikes"	"chased"	"Princess Diana and her companion Dodi al-Fayed"	1
+263	"seven frantic photographers on motorbikes"	"chased Princess Diana and her companion Dodi al-Fayed after"	"leaving the Ritz hotel in Paris"	1
+263	"seven frantic photographers on motorbikes"	"chased after"	"leaving the Ritz hotel in Paris"	1
+Pale strawberries soaked in a water-based liquid are lined up beside richly colored berries soaked in a balsamic vinegar-brown sugar sauce that stained them vivid red .
+On Wednesday , FBI Director Louis Freeh told the Senate Judiciary Subcommittee on Technology , Terrorism and Government Information that the keys and export restrictions are needed by law enforcement to combat criminals in the information age .
+265	"Pale strawberries"	"soaked in"	"a water-based liquid"	1
+265	"a balsamic vinegar-brown sugar sauce"	"stained them"	"vivid red"	1
+Clearly , he understands the end of his career is in sight and wants to make the most of the time remaining .
+266	"FBI Director Louis Freeh"	"told"	"the Senate Judiciary Subcommittee on Technology"	1
+266	"FBI Director Louis Freeh"	"told the Senate Judiciary Subcommittee on Technology On"	"Wednesday"	1
+266	"the keys and export restrictions"	"are needed to"	"combat criminals in the information age"	1
+266	"FBI Director Louis Freeh"	"told On"	"Wednesday"	1
+266	"the keys and export restrictions"	"are needed by"	"law enforcement"	1
+He took to the idea and has encouraged the couple ever since .
+267	"he"	"understands"	"the end of his career"	1
+The North Korean leader , Kim Jong Il , promptly satisfied Japan 's demands , although not in the way Japan 's overly confident diplomats had imagined .
+268	"He"	"took to"	"the idea"	1
+268	"He"	"has encouraged"	"the couple"	1
+In silence , a dozen women emerged in white chadors , the final one in black , standing silently and gazing mutely at the audience .
+269	"The North Korean leader Kim Jong Il promptly"	"satisfied"	"Japan ' s demands"	1
+Silver inventories in Comex warehouses rose 454,000 ounces to 141.118 million ounces , the exchanges said in its daily stockpile report after trading yesterday , up from a 10-month low of 140.664 million ounces .
+270	"a dozen women"	"emerged In"	"silence"	1
+270	"a dozen women"	"emerged in"	"white chadors"	1
+Growth in 1998 is also likely to be less than earlier forecast -- 2.1 percent , not 3.0 percent as the IMF estimated in May .
+271	"Silver inventories in Comex warehouses"	"rose to"	"141.118 million ounces"	1
+271	"Silver inventories in Comex warehouses"	"rose 454,000 ounces to"	"141118 million ounces"	1
+271	"Silver inventories in Comex warehouses"	"rose"	"454,000 ounces"	1
+271	"the exchanges"	"said after"	"trading yesterday"	1
+271	"the exchanges"	"said in"	"its daily stockpile report"	1
+Lois Epstein , an engineer with the Alaska environmental organization Cook Inlet Keeper and a longtime pipeline safety activist , said the legislation achieved a number of needed reforms , but did not go far enough .
+272	"Growth in 1998"	"is likely to"	"be less than earlier forecast"	1
+272	"30 percent as the IMF"	"not estimated in"	"May"	1
+272	"Growth in 1998"	"is"	"likely"	1
+272	"Growth in 1998"	"is to"	"be less than earlier forecast"	1
+The country can cut benefits at a time when joblessness is rising and leave relatively unskilled workers to fend for themselves .
+273	"Lois Epstein an engineer with the Alaska environmental organization Cook Inlet Keeper and a longtime pipeline safety activist a number of needed reforms"	"said"	"the legislation achieved"	1
+If the other driver is amenable , the agent said he analyzes the client 's policy to determine whether paying for all the damages will cost less money than paying a premium increase over six years .
+274	"joblessness"	"is rising to"	"fend for themselves"	1
+274	"joblessness"	"leave unskilled workers to"	"fend for themselves"	1
+274	"The country"	"can cut"	"benefits"	1
+274	"The country"	"can cut at"	"a time"	1
+274	"The country"	"can cut benefits at"	"a time"	1
+274	"joblessness"	"leave"	"unskilled workers"	1
+274	"joblessness"	"leave to"	"fend for themselves"	1
+The original basis for some of them grew out of fears of the experience before World War II when totalitarian governments in Europe and Asia controlled all media outlets .
+275	"he"	"analyzes to"	"determine"	1
+275	"the other driver"	"is"	"amenable"	1
+275	"the agent"	"said"	"will cost less money than paying a premium increase over six years"	1
+275	"he"	"analyzes"	"the client ' s policy"	1
+275	"he"	"analyzes the client ' s policy to"	"determine"	1
+He was so inspired by Snyder 's speech on how he made the program a success that when he learned Snyder had to hurry to the airport , Riley begged to go along for the ride .
+276	"totalitarian governments in Europe and Asia"	"controlled"	"all media outlets"	1
+We are looking for a middle ground .
+277	"he"	"made"	"a success"	1
+277	"Riley"	"begged to go along for"	"the ride"	1
+277	"He"	"was inspired by"	"Snyder ' s speech"	1
+277	"he"	"learned"	"Snyder"	1
+Chicken minced very finely may be added if desired .
+278	"We"	"are looking for"	"a middle ground"	1
+Hatley created a wild garden , complete with long grasses , hillocks , wildflowers and pathways , that turned the underground stage at the Manhattan Theater Club into a thrilling terrarium , a reminder that in any production , any of the myriad collaborators may leave a brilliant mark .
+And part is probably contained in the lowered expectations so many have about what government and politicians can and cannot do .
+280	"the myriad collaborators"	"may leave"	"a brilliant mark"	1
+280	"Hatley"	"created"	"a wild garden"	1
+Just weeks after the victory over United Parcel Service of America Inc. , a federal overseer was entangled in a fund-raising scandal among Carey aides and resigned , leaving in doubt Carey 's eligibility to run in a new election -- as well as its timetable .
+281	"part"	"is contained in"	"the"	1
+2. CHICKEN SOUP FOR THE TEENAGE SOUL , compiled by nn If the owner ca n't read the riot act after a game like that , when can he ?
+282	"a federal overseer"	"was entangled among"	"Carey aides"	1
+282	"a federal overseer"	"was entangled in"	"a fund-raising scandal"	1
+282	"weeks after the victory over United Parcel Service of America Inc a federal overseer was entangled in a fund-raising scandal among Carey aides and resigned"	"leaving to"	"run in a new election"	1
+282	"weeks after the victory over United Parcel Service of America Inc a federal overseer was entangled in a fund-raising scandal among Carey aides and resigned"	"leaving in"	"doubt Carey ' s eligibility"	1
+They 're in the title credits of the film , '' he says .
+283	"THE TEENAGE SOUL"	"compiled by"	"nn"	1
+Bush instructed Secretary of State Colin Powell to begin intensive diplomacy aimed at crafting a U.N. Security Council resolution that would amount to an ultimatum for Iraq : comply or face the prospect of military attack .
+But Lucas ' next big film is `` The Hulk , '' based on the comic book about Bruce Banner , who , when a scientific experiment goes wrong , is genetically afflicted with the ability to morph into a mammoth being .
+285	"Bush"	"instructed Secretary of State Colin Powell to"	"begin intensive diplomacy"	1
+285	"Bush"	"instructed"	"Secretary of State Colin Powell"	1
+285	"a UN. Security Council resolution"	"would amount to"	"an ultimatum"	1
+285	"Bush"	"instructed to"	"begin intensive diplomacy"	1
+285	"a UN. Security Council resolution"	"would amount for"	"Iraq"	1
+If that fails , the government will liquidate banks that are insolvent .
+El Pueblo Gallery is located in space E-13 on Olvera Street , downtown Los Angeles .
+287	"the government"	"will liquidate"	"banks"	1
+287	"banks"	"are"	"insolvent"	1
+Oakland , in need of a catcher after trading Ramon Hernandez to San Diego , acquired Michael Barrett from Montreal for a player to be named later .
+288	"El Pueblo Gallery"	"is located in"	"space E-13 on Olvera Street"	1
+Edge Rams Offensive linemen `` Texans are passionate about cooking briskets , '' McAdams adds .
+289	"Oakland in need of a catcher after trading Ramon Hernandez to San Diego"	"acquired"	"Michael Barrett"	1
+289	"Oakland in need of a catcher after trading Ramon Hernandez to San Diego"	"acquired for"	"a player"	1
+289	"Oakland in need of a catcher after trading Ramon Hernandez to San Diego"	"acquired from"	"Montreal"	1
+289	"Oakland in need of a catcher after trading Ramon Hernandez to San Diego"	"acquired Michael Barrett to"	"be named later"	1
+289	"Oakland in need of a catcher after trading Ramon Hernandez to San Diego"	"acquired Michael Barrett from"	"Montreal"	1
+289	"Oakland in need of a catcher after trading Ramon Hernandez to San Diego"	"acquired to"	"be named later"	1
+289	"Oakland in need of a catcher after trading Ramon Hernandez to San Diego"	"acquired Michael Barrett for"	"a player"	1
+Hoffenberg was sentenced in March to 20 years in jail and ordered to pay $ 462.6 million in restitution and a $ 1 million fine for defrauding Tower Financial debt holders of $ 460 million .
+290	"Texans"	"are passionate about"	"cooking briskets"	1
+When Adecco was formed , the company said it was the market leader in six of 11 countries that make up 90 percent of the temporary employment market , including France --Europe 's biggest temporary employment market -- Spain , Germany , Switzerland , Britain and Australia .
+291	"Hoffenberg"	"was sentenced in"	"March"	1
+291	"Hoffenberg"	"was sentenced to"	"20 years"	1
+291	"Hoffenberg"	"was sentenced in"	"jail"	1
+Pat Day , the winning jockey , agreed that Royal Indy had been `` a little hot and nervous '' before the race , but added : `` She always seems to be like that , so I was n't that concerned .
+292	"the company"	"said"	"was the market leader in six of 11 countries"	1
+292	"90 percent of the temporary employment market"	"including"	"France --Europe"	1
+292	"the company"	"said"	"it"	1
+292	"the company"	"said it"	"was the market leader in six of 11 countries"	1
+3Com 's success at integrating U.S. Robotics and the introduction of a large number of new networking products will boost 3Com 's sales and profit margins , said Paul Meeks , director of research at Jurika &AMP ; Voyles LP , which owned 3.7 million 3Com shares at the end of June .
+293	"She"	"seems to be"	"like"	1
+293	"Pat Day the winning jockey"	"agreed"	"that Royal Indy had been"	1
+The Rangers and Giants represent opposite viewpoints .
+294	"Voyles LP"	"owned 37 million 3Com shares at"	"the end of June"	1
+294	"Voyles LP"	"owned"	"37 million 3Com shares"	1
+294	"Voyles LP"	"owned at"	"the end of June"	1
+Dell Computer said it 's adding 25 million shares to its stock repurchase program , for a total of 125 million shares , almost a third of its 383 million outstanding as of last quarter .
+295	"The Rangers and Giants"	"represent"	"opposite viewpoints"	1
+The last prisoner was released in 1988 .
+296	"s"	"adding to"	"its stock repurchase program for a total of 125 million shares"	1
+296	"Dell Computer"	"said"	"it"	1
+296	"s"	"adding 25 million shares to"	"its stock repurchase program for a total of 125 million shares"	1
+296	"s"	"adding"	"25 million shares"	1
+Do look at me with just a little lust !
+297	"The last prisoner"	"was released in"	"1988"	1
+Pageant officials do not release the winner 's name of the preliminary interview contest until within hours of Saturday night 's final competition .
+And the same things could have been said in Tennessee and Pittsburgh .
+299	"Pageant officials"	"do not release"	"the winner ' s name of the preliminary interview contest"	1
+Moving in financial categories .
+Boruchin adds : `` The zealots who have been campaigning against cigarettes have trouble telling people that three cigars a week is dangerous to their health .
+And as city officials scrambled to recruit new foster parents , they found themselves struggling to find homes for teen-agers , children suffering from psychological disorders , young mothers with babies and large groups of siblings .
+302	"The zealots"	"have telling"	"people"	1
+302	"The zealots"	"have been campaigning against"	"cigarettes"	1
+302	"three cigars a week"	"is dangerous to"	"their health"	1
+Maybe this is what the autistic twins in Oliver Sacks ' `` The Man Who Mistook His Wife for a Hat '' saw with their inner eyes .
+303	"city officials"	"scrambled to recruit"	"new foster parents"	1
+303	"children"	"suffering from"	"psychological disorders"	1
+303	"they"	"found"	"they found themselves struggling to find homes for teen-agers"	1
+Their pieces sell well in the $ 20 range , said Michael Rizzuto , a senior buyer at Gracious Home , which was the first store to feature the North River Mint .
+But a group of protesters showed up and burned two American flags .
+305	"20 range"	"was"	"the first store"	1
+305	"20 range"	"was to"	"feature the North River Mint"	1
+305	"20 range"	"said"	"Michael Rizzuto"	1
+305	"20 range"	"was the first store to"	"feature the North River Mint"	1
+Open positions of short sales on the Nasdaq stock market rose 1 percent in the most recent month , according to figures released Wednesday .
+306	"a group of protesters"	"burned"	"two American flags"	1
+The Mariners ' oldest players -- Edgar Martinez , Jamie Moyer , John Olerud and Mark McLemore -- have been among the most productive , though Martinez and McLemore have had injury problems .
+307	"Open positions of short sales on the Nasdaq stock market"	"rose 1 percent in"	"the most recent month"	1
+307	"Open positions of short sales on the Nasdaq stock market"	"rose in"	"the most recent month"	1
+307	"the most recent month"	"according to"	"figures"	1
+307	"Open positions of short sales on the Nasdaq stock market"	"rose"	"1 percent"	1
+The average yield on junk bonds is a little more than 9 percent so far this year , according to Merrill Lynch &AMP ; Co.
+More than 30 years ago , when Ekman first set out to determine whether facial expressions are innate or learned , he was derided by esteemed social scientists , including the famous anthropologist Margaret Mead .
+309	"facial expressions"	"are"	"innate"	1
+309	"this year"	"according to"	"Merrill Lynch AMP"	1
+309	"social scientists"	"including"	"the famous anthropologist Margaret Mead"	1
+309	"he"	"was derided by esteemed"	"social scientists"	1
+American involvement in the Middle East is clearly the main impulse of the hatred that has been directed at America .
+310	"American involvement in the Middle East"	"is"	"the main impulse of the hatred"	1
+310	"the main impulse of the hatred"	"has been directed at"	"America"	1
+The troubled answers about the campaign against terrorism at home and abroad conveyed a similar fatalistic , slightly cranky mood .
+The findings , which the researchers say probably apply to men too , appear in the current issue of The Journal of the National Cancer Institute .
+312	"The findings"	"say men"	"probably apply"	1
+312	"The findings"	"say"	"probably apply"	1
+312	"The findings"	"say"	"men"	1
+That , in itself , is n't awful .
+Nancy Cole , the president of ETS , says that the company is aware that its nonprofit status is a source of concern , particularly to outsiders , as the testing service increases its competition with for-profit businesses .
+314	"Nancy Cole the president of ETS"	"says"	"that its nonprofit status is a source of concern"	1
+314	"the company"	"is"	"aware"	1
+314	"the testing service"	"increases"	"its competition with for-profit businesses"	1
+314	"its nonprofit status"	"is"	"a source of concern"	1
+Led by Guy Hands , managing director for Nomura International 's Principal Finance Group , the unit has completed more than $ 11 billion in securitizations since 1995 , including the 944 million pound securitization of Angel Trains , which the U.K. government sold as part of its rail privatization program ; the 904 million pound securitization of Annington Homes , a group of 57,000 British military houses ; and the 249 million pound securitization of the Phoenix Inns pub chain Nomura also bought from GrandMet and Fosters .
+315	"Guy Hands"	"managing director for"	"Nomura International ' s Principal Finance Group"	1
+315	"Guy Hands"	"managing for"	"Nomura International ' s Principal Finance Group"	1
+315	"the 249 million pound securitization of the Phoenix Inns pub chain Nomura"	"bought from"	"GrandMet and Fosters"	1
+315	"Guy Hands"	"managing"	"director"	1
+315	"the UK. government"	"sold as"	"part of its rail privatization program"	1
+He said keeping her off the ballot was part of his effort to promote the emergence of new political leaders , though opposition leaders accuse him of manipulation to protect his hold on power .
+316	"opposition leaders"	"accuse him to"	"protect his hold on power"	1
+316	"opposition leaders"	"accuse him of"	"manipulation"	1
+316	"He"	"said keeping off her"	"the ballot"	1
+Joining the NFL in 1950 , the Browns proved themselves once more .
+317	"the Browns"	"proved"	"themselves"	1
+One of the most disturbing factors for Rohrabacher is that there has never been any formal apology from any of the Japanese companies .
+Story Filed By Cox Newspapers It is the cultural issues , though , that probably pose the biggest challenges .
+319	"Story Filed By Cox Newspapers It"	"pose"	"the biggest challenges"	1
+319	"Story Filed By Cox Newspapers It"	"is"	"the cultural issues"	1
+Poverty rates for children , 16.3 percent , and the elderly , 10.1 percent , were virtually unchanged from 2000 .
+Any notoriety for a Latina actress will promote Latina actresses in general , says Bel Hernandez , former actress and publisher of a Hollywood trade publication for Latinos , Latin Heat .
+321	"Any notoriety for a Latina actress"	"will promote Latina actresses in"	"general"	1
+321	"Any notoriety for a Latina actress"	"will promote in"	"general"	1
+321	"Any notoriety for a Latina actress"	"will promote"	"Latina actresses"	1
+After a while , they do n't feel the acute pain of someone who has been dumped .
+322	"they"	"do n't feel the acute pain of someone After"	"a while"	1
+322	"they"	"do n't feel"	"the acute pain of someone"	1
+322	"they"	"do n't feel After"	"a while"	1
+Such remarks prompt speculation the U.S. may change its strong-dollar policy .
+323	"Such remarks prompt speculation the US. may"	"may change"	"its strong-dollar policy"	1
+Hose contracted inhalation anthrax while handling mail for the State Department in Sterling , Va .
+324	"Hose"	"contracted"	"inhalation anthrax"	1
+Police departments launch massive enforcement plans to combat road rage .
+325	"Police departments"	"launch"	"massive enforcement"	1
+The company exported 2.13 million barrels a day of crude oil , and 966,000 barrels a day of refined products .
+326	"The company"	"exported"	"a day of crude oil"	1
+Cleveland : Federal Reserve Bank of Cleveland President Jerry Jordan speaks on money and monetary policy to the Cleveland Business Economists Club , noon .
+327	"Federal Reserve Bank of Cleveland President Jerry Jordan"	"speaks to"	"the Cleveland Business Economists Club"	1
+327	"Federal Reserve Bank of Cleveland President Jerry Jordan"	"speaks on"	"money and monetary policy"	1
+The event fizzled after the bombing that rocked the games .
+328	"the bombing"	"rocked"	"the games"	1
+328	"The event"	"fizzled after"	"the bombing"	1
+Still there is lingering concern that further earthquakes could follow , leading to some `` transportation problems and mud-slides in Colombia , '' according to Tim Fallar , president of The Fallar Co. in West Harrison , New York .
+Did not the same radiant hope accompany the transition from the 19th to the 20th century ?
+Born in 1912 in Hazelhurst , Miss .
+An online bidder in Boerne paid $ 525 for a 20-inch Sony television set that retails at less than $ 350 new .
+His memory was a good deal better about White House management of the DNC , especially its fund-raising operations .
+333	"His memory"	"was"	"a good deal about White House management of the DNC"	1
+The company , Hydra Biosciences , is largely based on the work of Dr. Mark T. Keating , a founder of the company and a biologist at Harvard who studies regeneration in zebrafish .
+334	"The company Hydra Biosciences"	"is based on"	"the work of Dr Mark T Keating"	1
+For its part , Israel has long said it will not pull out of southern Lebanon until it gains a peace treaty with Lebanon and Syria .
+335	"Israel"	"has For"	"its part"	1
+The finding revealed bay trees , not oak trees , to be the unexpected , key disperser of the disease .
+336	"The finding"	"revealed"	"bay trees"	1
+At the time , Little said he left Ramirez in the game because the slugger apologized to everybody in the dugout .
+337	"he"	"left"	"Ramirez"	1
+337	"he"	"left in"	"the game"	1
+337	"the slugger"	"apologized to"	"everybody"	1
+337	"Little"	"said"	"because the slugger apologized to everybody in the dugout"	1
+337	"the slugger"	"apologized in"	"the dugout"	1
+337	"Little"	"said At"	"the time"	1
+337	"he"	"left Ramirez in"	"the game"	1
+The Cardinals considered very seriously drafting Purdue fullback Mike Alstott with their second-round pick a year ago .
+338	"The Cardinals"	"considered drafting"	"a year"	1
+He paid $ 350,000 for the car in 1990 , then thoroughly remodeled it .
+He also appears to be as motivated as he 's been in some time .
+The Chinese are still firing eight or nine million workers a year as part of their reforming of state-owned enterprises , and those workers do n't have a safety net '' - much less a wage .
+341	"those workers"	"do n't have"	"a safety net"	1
+341	"The Chinese"	"are firing"	"eight"	1
+Investigators are clearly looking into whether executives misled investors about the financial well-being of the company and its future prospects , said Jacob Frankel , a former Securities and Exchange Commission lawyer now in private practice .
+342	"Investigators"	"are looking into"	"whether executives misled investors about the financial well-being of the company and its future prospects"	1
+342	"executives"	"misled"	"investors about the financial well-being of the company and its future prospects"	1
+Now you can gag .
+Special-interest groups publish studies and issue news releases using road rage to make the case for highway construction , road improvements , tougher traffic regulations .
+344	"Special-interest groups"	"publish"	"studies and issue news"	1
+By early September , not only had the Revolution been involved in an 11-game losing streak , including cup games and exhibitions , they appeared to lose faith in themselves .
+345	"they"	"appeared to lose faith in"	"themselves"	1
+345	"streak"	"including"	"cup games and exhibitions"	1
+345	"they"	"appeared to lose"	"faith"	1
+345	"they"	"appeared to lose in"	"themselves"	1
+In the end , blacks and whites came , and , to hear many of them tell it , climbed over a lot of harsh terrain to get there .
+346	"blacks and whites"	"came In"	"the end"	1
+Playing before a crowd of 39,294 , Army jumped to a 7-0 lead on its second possession , covering 66 yards in a 14-play drive that culminated in a 1-yard leap into the end zone by the junior fullback Joe Hewitt .
+347	"a 7-0 lead on its second possession"	"covering in"	"a 14-play drive"	1
+347	"a 14-play drive"	"culminated by"	"the junior fullback Joe Hewitt"	1
+347	"a 14-play drive"	"culminated into"	"the end zone"	1
+347	"a 14-play drive"	"culminated in"	"a 1-yard leap"	1
+347	"a 7-0 lead on its second possession"	"covering 66 yards in"	"a 14-play drive"	1
+347	"Army"	"jumped to"	"a 7-0 lead on its second possession"	1
+347	"a 7-0 lead on its second possession"	"covering"	"66 yards"	1
+Houston : Baker Hughes Inc. releases its weekly survey of the number of active oil and gas drilling rigs in the U.S. and Canada .
+348	"Baker Hughes Inc"	"releases"	"its weekly survey of the number of active oil and gas drilling rigs"	1
+348	"Baker Hughes Inc"	"releases in"	"the US. and Canada"	1
+348	"Baker Hughes Inc"	"releases its weekly survey of the number of active oil and gas drilling rigs in"	"the US. and Canada"	1
+Only Nikko Securities Co. has the same top executives it started the year with .
+349	"it"	"started"	"the year"	1
+349	"Nikko Securities Co"	"has"	"the same top executives"	1
+Illustrating that point , he asserted that Iraq could be a laboratory for terror groups , easily furnishing them with the chemical and biological weapons it had developed .
+350	"terror groups easily"	"furnishing them with"	"the chemical and biological weapons"	1
+350	"he"	"asserted"	"that Iraq could"	1
+As for labeling the products flops as Pecoriello did , Reilly said : `` It 's very early days to count on the success of brands that were launched just this summer .
+351	"the success of brands"	"were launched"	"this summer"	1
+Some city tests of the water have indeed found small traces of crude oil , and during the trial this summer , Jeff Davis , who supervised a water-pipe replacement in the early 1990s , testified : `` Ooze was coming out of the side next to the water line , and there were pools of oil at the bottom .
+352	"Ooze"	"was coming out of"	"the side next"	1
+352	"Some city tests of the water"	"have found"	"small traces of crude oil and during the trial this summer Jeff Davis"	1
+352	"Ooze"	"was coming out to"	"the water line"	1
+At least that was the case for linebacker Brendon Ayanbadejo at the Rose Bowl on Saturday .
+He used T-bone , and then carved the steak off the bone and into slices once it was cooked al sangue , which is to say , deliciously rare , though obviously you should cook the steak just how you like to eat it .
+354	"He"	"used"	"T-bone"	1
+To make matters worse , they accidentally bumped into each other in the street some distance from their meeting spot .
+355	"they"	"bumped some distance from their meeting spot in"	"the street"	1
+355	"they"	"bumped in"	"the street"	1
+355	"they"	"bumped"	"some distance from their meeting spot"	1
+355	"they"	"bumped into"	"each other"	1
+355	"they"	"bumped some distance from their meeting spot into"	"each other"	1
+Red Sox manager Grady Little kept Ramirez in the game but later admitted he should have benched him .
+356	"Red Sox manager Grady Little"	"kept in"	"the game"	1
+356	"Red Sox manager Grady Little"	"kept Ramirez in"	"the game"	1
+356	"Red Sox manager Grady Little"	"kept"	"Ramirez"	1
+With some prompting from his own earlier deposition on this issue , Fowler acknowledged that Harold Ickes , who was deputy chief of staff , had the strongest voice in directing the DNC finance division from the White House .
+357	"Harold Ickes"	"was"	"deputy chief of staff"	1
+357	"Fowler"	"acknowledged"	"that Harold Ickes"	1
+357	"Harold Ickes"	"had the strongest voice in"	"directing the DNC finance division from the White House"	1
+357	"Harold Ickes"	"had in"	"directing the DNC finance division from the White House"	1
+357	"Harold Ickes"	"had"	"the strongest voice"	1
+357	"Fowler"	"acknowledged With"	"some prompting from his own earlier deposition on this issue"	1
+A Georgia inventor has won a patent for a method of regiving items ordered online when they turn out to be white elephants .
+358	"A Georgia inventor"	"has won for"	"a method of regiving items"	1
+358	"A Georgia inventor"	"has won"	"a patent"	1
+358	"A Georgia inventor"	"has won a patent for"	"a method of regiving items"	1
+358	"they"	"turn out to be"	"white elephants"	1
+So Michigan Stadium is indeed the largest in the nation in seating capacity .
+359	"Michigan Stadium"	"is in"	"seating capacity"	1
+359	"Michigan Stadium"	"is the largest in"	"seating capacity"	1
+359	"Michigan Stadium"	"is the largest in"	"the nation"	1
+359	"Michigan Stadium"	"is"	"the largest"	1
+359	"Michigan Stadium"	"is in"	"the nation"	1
+Still , the agent said he advises clients who are at fault in minor fender benders where there are no personal injuries to inquire whether a private resolution is possible .
+360	"the agent"	"said"	"he advises clients"	1
+360	"he"	"advises"	"clients"	1
+360	"clients"	"are in"	"minor fender benders"	1
+360	"clients"	"are at"	"fault"	1
+360	"a private resolution"	"is"	"possible"	1
+The latest price rise was the second by the cigarette makers this year .
+361	"The latest price rise"	"was the second by"	"the cigarette makers"	1
+361	"The latest price rise"	"was by"	"the cigarette makers"	1
+361	"The latest price rise"	"was"	"the second"	1
+It went from testing 219 in 1997 to 20,526 last year .
+362	"It"	"went from"	"testing 219 in 1997 to 20"	1
+Mills stressed that the release of test results and his plans for a review panel were not a reaction to criticism .
+363	"the release of test results and his plans for a review panel"	"were not"	"a reaction"	1
+363	"Mills"	"stressed"	"that the release of test results and his plans for a review panel were not a reaction to criticism"	1
+363	"the release of test results and his plans for a review panel"	"were not to"	"criticism"	1
+363	"the release of test results and his plans for a review panel"	"were not a reaction to"	"criticism"	1
+At times there was silence , and sometimes the silence turned volcanic .
+She was a little anxious early on .
+That creature was in turn named for the mythical multiheaded serpent that regrew new heads when one was cut off .
+366	"the mythical multiheaded serpent"	"regrew"	"new heads"	1
+366	"That creature"	"was in"	"turn"	1
+Hydra , of Cambridge , Mass. , is named after a pond-dwelling creature that can grow two wholes after being sliced in half .
+367	"a pond-dwelling creature"	"can grow two wholes after"	"being sliced in half"	1
+367	"a pond-dwelling creature"	"can grow after"	"being sliced in half"	1
+367	"a pond-dwelling creature"	"can grow"	"two wholes"	1
+367	"Cambridge Mass"	"is named after"	"a pond-dwelling creature"	1
+Yet other studies point to fetal exposure to environmental toxins like lead , cigarettes and alcohol .
+368	"other studies"	"point like"	"lead"	1
+368	"other studies"	"point to"	"environmental toxins"	1
+368	"other studies"	"point to"	"fetal exposure"	1
+With one or two new distributors signing on every week , the Weinbergs are busy planning to expand into clothing hooks and towel racks .
+369	"two new distributors"	"signing on"	"every week"	1
+369	"the Weinbergs"	"are"	"busy planning"	1
+369	"the Weinbergs"	"are to"	"expand into clothing"	1
+369	"the Weinbergs"	"are busy planning to"	"expand into clothing"	1
+Hevesi said that in managing an investment portfolio , there are a wide array of stocks and that the performance of the broader markets affects the level of return .
+370	"the performance of the broader markets"	"affects"	"the level of return"	1
+In its report , the IMF also said it cut in half its growth estimate for Japan this year -- to 1.1 percent from May 's estimate of 2.2 percent .
+371	"the IMF"	"said In"	"its report"	1
+371	"the IMF"	"said it"	"cut in half its growth estimate for Japan this year"	1
+371	"the IMF"	"said it In"	"its report"	1
+371	"the IMF"	"said"	"it"	1
+371	"the IMF"	"said"	"cut in half its growth estimate for Japan this year"	1
+Moreover , he said that foreign students spend an estimated $ 11 billion a year for tuition and rent , not to mention items ranging from jeans to pizzas .
+372	"he"	"said"	"that foreign students spend"	1
+372	"mention items"	"mention ranging from"	"jeans"	1
+372	"mention items"	"mention ranging to"	"pizzas"	1
+But starters Torry Holt and Isaac Bruce might be the best and most explosive tandem in the league .
+373	"starters Torry Holt and Isaac Bruce"	"might be in"	"the league"	1
+373	"starters Torry Holt and Isaac Bruce"	"might be the best and most explosive tandem in"	"the league"	1
+373	"starters Torry Holt and Isaac Bruce"	"might be"	"the best and most explosive tandem"	1
+The Bank of Japan said in its quarterly report , the `` josei handan , '' that it expects M2+CDs to grow by about 3.0 percent in the July-September quarter .
+374	"it"	"expects 30 percent in the July-September quarter by"	"about"	1
+374	"it"	"expects 30 percent in the July-September quarter to"	"grow"	1
+374	"it"	"expects by"	"about"	1
+374	"it"	"expects to"	"grow"	1
+374	"The Bank of Japan"	"said in"	"its quarterly report"	1
+374	"it"	"expects"	"30 percent in the July-September quarter"	1
+Another survivor , David Hose , 60 , also expressed frustration over his slow recovery .
+TO MIDNIGHT When the results are compiled , sometime next year , the census is expected to confirm what demographers have already been predicting : the steady decline in the Russian population due to ill health , migration and what demographers call `` the echo of war '' from World War II ; the increasing concentration of jobs and wealth in the biggest cities ; and what may be the largest mass movement of people here since Stalin 's forced relocations after World War II .
+376	"Stalin ' s"	"forced after"	"World War II"	1
+376	"Stalin ' s"	"forced"	"relocations"	1
+376	"the census"	"is expected to confirm"	""	1
+376	"Stalin ' s"	"forced relocations after"	"World War II"	1
+For the major airlines , including Fort Worth-based American , it was as if an artery had been cut .
+377	"For the major airlines"	"including Fort Worth-based American For"	"the major airlines"	1
+377	"For the major airlines"	"including"	"Fort Worth-based American"	1
+377	"For the major airlines"	"including For"	"the major airlines"	1
+Some 75 percent said it would not .
+378	"Some 75 percent"	"said"	"would not"	1
+378	"Some 75 percent"	"said"	"it"	1
+378	"Some 75 percent"	"said it"	"would not"	1
+Ford plans to announce a similar move soon .
+379	"Ford"	"plans to announce"	"a similar move"	1
+The show is scheduled to be filmed in Austin till November , when MTV will decide whether to continue `` Austin Stories '' for a full season .
+380	"The show"	"is scheduled to be filmed in"	"Austin"	1
+380	"MTV"	"will decide to"	"continue"	1
+380	"The show"	"is scheduled to be filmed till"	"November"	1
+Sometime later , the smell of a skunk seemed to permeate the bus .
+381	"the smell of a skunk"	"seemed to permeate"	"the bus"	1
+In broad terms , the statement released by Mar 'ie addressed these concerns .
+382	"the statement"	"released In"	"broad terms"	1
+382	"the statement"	"released by"	"Mar ' ie"	1
+The 12-month target price is HK$ 51.00 per share .
+The exchange next year even may permit growers to trade directly in the market instead of being forced to deal with the 12 market makers authorized by the exchange .
+384	"The exchange"	"may permit"	"growers"	1
+384	"The exchange"	"may permit of"	"being forced to deal with the 12 market makers"	1
+384	"The exchange"	"may permit to"	"trade directly in the market"	1
+384	"The exchange"	"may permit growers of"	"being forced to deal with the 12 market makers"	1
+384	"The exchange"	"may permit growers to"	"trade directly in the market"	1
+Those close to the company say Tigrett lost support on the board last year when the company took a big hit in the wake of a $ 15 million extravaganza at last year 's Summer Olympics .
+385	"Those close to the company support on the board"	"say"	"last year"	1
+385	"the company"	"took"	"a big hit"	1
+385	"the company"	"took a big hit in"	"the wake"	1
+385	"the company"	"took in"	"the wake"	1
+385	"Those close to the company support on the board"	"say last year"	"Tigrett lost"	1
+385	"Those close to the company support on the board"	"say"	"Tigrett lost"	1
+Ratner has been one of the most aggressive builders in the city in recent years and he needs government approval for many of his projects .
+386	"he"	"needs"	"government approval"	1
+They simply feel nothing .
+387	"They"	"feel"	"nothing"	1
+When Steve Forbes was running for president , he did n't talk very much about the rights of the unborn .
+388	"Steve Forbes"	"was running for"	"president"	1
+388	"he"	"did n't talk about"	"the rights of the unborn"	1
+You do n't have a computer ?
+389	"You"	"do n't have"	"a computer"	1
+A fitting book for the millennium , Underworld is certain to become a key text for the interpretation of American culture in the second half of the 20th century .
+390	"Underworld"	"is certain to become a key text in"	"the second half of the 20th century"	1
+390	"Underworld"	"is certain to become a key text for"	"the interpretation of American culture"	1
+390	"Underworld"	"is certain to become"	"a key text"	1
+390	"Underworld"	"is certain to become for"	"the interpretation of American culture"	1
+390	"Underworld"	"is certain to become in"	"the second half of the 20th century"	1
+Even as those stocks slumped , smaller stocks rallied , pushing the Russell and Nasdaq to records .
+Fill the spaces in the whites of the eggs with the spiced yolks ; smooth it even with top ; sprinkle with chopped parsley ; garnish with the same and serve cold .
+In response , a group of Amherst College students held a patriotism rally in October , reciting the Pledge of Allegiance .
+393	"a group of Amherst College students"	"held a patriotism rally in"	"October"	1
+393	"a group of Amherst College students"	"held"	"a patriotism rally"	1
+393	"October"	"reciting"	"the Pledge of Allegiance"	1
+393	"a group of Amherst College students"	"held a patriotism rally In"	"response"	1
+393	"a group of Amherst College students"	"held In"	"response"	1
+393	"a group of Amherst College students"	"held in"	"October"	1
+Koizumi and his foreign ministry have come under harsh criticism for promising North Korea large amounts of aid , as well as normalization talks , in exchange for clear information about the abductees .
+394	"Koizumi and his foreign ministry"	"have come under"	"harsh criticism"	1
+394	"Koizumi and his foreign ministry"	"have come for"	"promising North Korea large amounts of aid"	1
+They litter the road to redemption with chaos , contraband , broken marriages , jilted women and political aspirations , but there still is a ray of hope and happiness for the residents of a small Cuban town called Guantanamera .
+395	"They"	"litter"	"the road"	1
+395	"They"	"litter to"	"redemption with chaos contraband"	1
+395	"They"	"litter the road to"	"redemption with chaos contraband"	1
+395	"redemption with chaos contraband"	"broken"	"marriages"	1
+That sharp drop in confidence was mirrored in follow-up interviews .
+396	"That sharp drop in confidence"	"was mirrored in"	"follow-up interviews"	1
+The large multinational companies in the S&AMP;P 500 and the Dow had performed best this year , until those averages peaked on Aug. 6 .
+397	"those averages"	"peaked 6 on"	"Aug"	1
+397	"the Dow"	"had performed"	"this year"	1
+397	"those averages"	"peaked"	"6"	1
+397	"those averages"	"peaked on"	"Aug"	1
+In many quarters , the dead princess is being hailed as a visionary struck down in a battle to drag the stuffy monarchy and all of Britain into the 21st century .
+398	"the dead princess"	"is being hailed as"	"a visionary"	1
+398	"the dead princess"	"is being hailed In"	"many quarters"	1
+398	"the dead princess"	"is being hailed to"	"drag the stuffy monarchy"	1
+You likely have all but one of the ingredients in }72847:929434:77 ;*4292092607 ;0940:477973 :4219 9:06309227921482 1: :10941066 7:722d table salt , water , ammonia and laundry bluing .
+In the U.S. , Volkswagen sales peaked at 293,000 in 1980 , dropped to 49,533 in 1993 , then climbed to 135,907 in 1996 .
+400	"Volkswagen sales"	"peaked at"	"293"	1
+400	"Volkswagen sales"	"peaked in"	"1980"	1
+400	"Volkswagen sales"	"peaked In"	"the US."	1
+Lucas plays Banner 's nemesis , Maj .
+401	"Lucas"	"plays"	"Banner ' s nemesis"	1
+In the auction 's early hours , as people stood in two-hour lines just to get into the bidding room , it seemed that the Enron connection was propping up some dubious prices .
+402	"people"	"stood in"	"two-hour lines"	1
+402	"people"	"stood to"	"get into the bidding room"	1
+402	"it"	"seemed"	"that the Enron connection was prop up some dubious prices"	1
+402	"the Enron connection"	"was propping up"	"some dubious prices"	1
+How many cigars do I need to smoke a day to get cancer ?
+403	"I"	"do need to smoke a day to"	"get cancer"	1
+403	"I"	"do need to smoke"	"a day"	1
+403	"I"	"do need to smoke to"	"get cancer"	1
+Shares of the New York-based company rose 5 1/4 , or 8.4 percent , to 67 3/4 in midday trading of 2.1 million , triple the three-month daily average .
+404	"Shares of the New York-based company"	"rose"	"5 1/4"	1
+Remove the yolks carefully , mash them very fanE$ and season sparely with mustard , vinegar , salt , pepper and a tablespoonful of melted butter .
+SLOW RETURN : Carroll said he would hold tailback Justin Fargas out of practice to make sure they are available for next week 's game with Colorado .
+406	"he"	"would hold"	"tailback Justin Fargas"	1
+406	"Carroll"	"said"	"he would hold tailback Justin Fargas"	1
+406	"practice they"	"are available for"	"next week"	1
+406	"Carroll"	"said to"	"make sure"	1
+406	"Carroll"	"said of"	"practice they"	1
+I do n't know why I said it , but I did , and the secretary turns to me and says , ` You know , you 've got a point there . '
+407	"I"	"said"	"it"	1
+407	"the secretary"	"turns to"	"me"	1
+407	"ve"	"got"	"a point"	1
+In contrast to the two technique books , it has few photos in its 500+ pages , and those illustrate concepts such as the water solubility of anthyocyanins .
+408	"contrast to the two technique books it"	"has few photos in"	"its 500- pages"	1
+408	"contrast to the two technique books it"	"has in"	"its 500- pages"	1
+408	"contrast to the two technique books it"	"has"	"few photos"	1
+The rules were written to encourage diversity of voices on the airwaves and competition among media outlets , and to prevent the biggest companies from becoming too powerful in controlling news and entertainment .
+409	"The rules"	"were written to encourage diversity of voices on the airwaves and competition among"	"media outlets"	1
+409	"The rules"	"were written to encourage"	"diversity of voices on the airwaves and competition"	1
+409	"The rules"	"were written to encourage among"	"media outlets"	1
+The new Cadillac is scheduled to go on sale next summer for model year 2004 .
+410	"The new Cadillac"	"is scheduled to go 2004 on"	"sale next summer"	1
+410	"The new Cadillac"	"is scheduled to go"	"2004"	1
+410	"The new Cadillac"	"is scheduled to go on"	"sale next summer"	1
+410	"The new Cadillac"	"is scheduled to go for"	"model year"	1
+410	"The new Cadillac"	"is scheduled to go 2004 for"	"model year"	1
+U.S. officials say Japan has done little since April to change unfair port practices .
+411	"Japan"	"has done since"	""	1
+411	"US. officials"	"say"	"April"	1
+411	"US. officials"	"say to"	"change unfair port practices"	1
+411	"US. officials"	"say April to"	"change unfair port practices"	1
+411	"US. officials"	"say"	"Japan has done little since"	1
+411	"US. officials"	"say April"	"Japan has done little since"	1
+Since the report was prepared , however , the energy market has declined and the number of possible buyers has dwindled , diminishing the value of those assets , analysts say .
+In the past , senior American intelligence officials have said that some Iraqi fighters who opposed the United States in Afghanistan have now drifted back to Iraq and joined ranks with Ansar al-Islam .
+413	"some Iraqi fighters"	"opposed the United States in"	"Afghanistan"	1
+413	"some Iraqi fighters"	"opposed"	"the United States"	1
+413	"senior American intelligence officials"	"have said"	"that some Iraqi fighters"	1
+413	"some Iraqi fighters"	"opposed in"	"Afghanistan"	1
+Hilton 's shares rose 1 1/16 to 33 3/16 .
+414	"Hilton ' s shares"	"rose 1 1/16 to"	"33 3/16"	1
+414	"Hilton ' s shares"	"rose"	"1 1/16"	1
+414	"Hilton ' s shares"	"rose to"	"33 3/16"	1
+Mar 'ie said the government will also `` encourage '' the merger of insolvent banks with solvent ones .
+415	"Mar ' ie"	"said"	"will also"	1
+415	"Mar ' ie"	"said"	"the government"	1
+415	"Mar ' ie"	"said the government"	"will also"	1
+By GREG LUCAS The end-of-the-month deadlines are a result of the landmark Immigration Reform Act passed by Congress last year to turn back the tide of illegal immigrants .
+416	"GREG LUCAS The end-of-the-month deadlines"	"are"	"a result of the landmark Immigration Reform Act"	1
+416	"GREG LUCAS The end-of-the-month deadlines"	"are to"	"turn back the tide of illegal immigrants"	1
+416	"GREG LUCAS The end-of-the-month deadlines"	"are a result of the landmark Immigration Reform Act to"	"turn back the tide of illegal immigrants"	1
+416	"GREG LUCAS The end-of-the-month deadlines"	"passed by"	"Congress"	1
+He has n't had a save opportunity in nine games , matching a season high .
+417	"nine games"	"matching"	"a season high"	1
+She has done so with depth and confidence .
+418	"She"	"has done with"	"depth and confidence"	1
+Also , on a recent afternoon , the waves were so small and punchless that they could n't even provide sufficient lift for a 165-pound bodysurfer .
+419	"the waves"	"were small and punchless on"	"a recent afternoon"	1
+419	"the waves"	"were"	"small and punchless"	1
+419	"the waves"	"were"	"that they could"	1
+419	"the waves"	"were on"	"a recent afternoon"	1
+419	"the waves"	"were small and punchless"	"that they could"	1
+She knew too well that the world is filled with people who talk about virtue but has a much shorter supply of those who act on it .
+420	"shorter supply of those"	"act on"	"it"	1
+420	"She"	"knew"	"that the world is filled with people"	1
+420	"the world"	"is filled with"	"people"	1
+420	"people"	"talk about"	"virtue"	1
+420	"shorter supply of those"	"act of"	"those"	1
+Yet in her work for people with AIDS she broke through .
+In fact , Clark appears to have a reserved seat .
+422	"Clark"	"appears to have In"	"fact"	1
+422	"Clark"	"appears to have a reserved seat In"	"fact"	1
+422	"Clark"	"appears to have"	"a reserved seat"	1
+Seagram shares rose C$ 0.25 to C$ 50.30 in midmorning Toronto trading and rose 3/16 to 36 3/16 in New York .
+Does it still matter who wins ?
+Helou joins a number of top writers like Claudia Roden , Paula Wolfert and Nancy Harmon Jenkins , in making the Mediterranean the focus of their studies .
+425	"Helou"	"joins a number of top writers in"	"making the Mediterranean the focus of their studies"	1
+425	"Helou"	"joins in"	"making the Mediterranean the focus of their studies"	1
+425	"Helou"	"joins like"	"Claudia Roden Paula Wolfert and Nancy Harmon Jenkins"	1
+425	"Helou"	"joins"	"a number of top writers"	1
+425	"Helou"	"joins a number of top writers like"	"Claudia Roden Paula Wolfert and Nancy Harmon Jenkins"	1
+Instead , he gives blow-by-blow accounts of encounters Oppenheimer had in the 1930s with Communist sympathizers , of FBI efforts to bug his homes and offices , of the machinations of Lewis Strauss on the Atomic Energy Commission to have him removed from power and of differences Oppenheimer had with his colleagues .
+426	"he"	"gives"	"blow-by-blow accounts of encounters Oppenheimer"	1
+As Dr. Norman J. Silver was winding down his orthopedic surgery practice in New Rochelle , N.Y. , he wanted to make sure there were opportunities for continuing education in the place where he would ultimately retire .
+They defeated the defending champion Philadelphia Eagles handily in their first NFL game and went on to win the league championship with a dramatic 30-28 victory over the Los Angeles Rams .
+Two other suspects , Brian Jay Robbins , 28 , and Ronald Eugene Timms , late 20s , were arrested Wednesday afternoon .
+429	"Ronald Eugene Timms late 20s"	"were arrested"	"Wednesday afternoon"	1
+Are the awards just an excuse to haul the stars out in finery given to them by designers ?
+430	"an excuse"	"given to"	"them"	1
+430	"an excuse"	"given by"	"designers"	1
+Some historians and the Turkish government have disputed claims of an organized genocide and the numbers of Armenians killed .
+431	"Some historians and the Turkish government"	"have disputed"	"claims of an organized genocide and the numbers of Armenians"	1
+Those very same men who dismissed her as `` barmy '' are now seen in TV studios up and down the land regaling us with tales of her specialness .
+432	"the land"	"regaling us with"	"tales of her specialness"	1
+Earrings and facial hair are now OK .
+433	"Earrings and facial hair"	"are"	"OK"	1
+Strong wind gusts and most of the heavy rain will remain offshore Tuesday , although a few squalls will reach the immediate coast from South Carolina to northern Florida .
+434	"the heavy rain"	"will remain offshore Tuesday although"	"a few squalls"	1
+434	"the heavy rain"	"will remain"	"offshore Tuesday"	1
+434	"the heavy rain"	"will remain although"	"a few squalls"	1
+The test results have just been compiled , said Mills , who added that he wants as much public input and discussion on the new tests as possible .
+435	"he"	"wants as"	"much public input and discussion on the new tests"	1
+We moved boxes and bags , favorite shirts and CDs , computer , new socks , notebooks , tennis racket , and shoebox stuffed with emergency chocolate cupcakes , into a microscopically small dorm room , half of which would be inhabited by a completely unknown quantity and the other half of which would be inhabited by a quantity so known and so loved that I ca n't even remember any time passing at all between his first tiny breath 18 years ago and the one he draws in today so that he can say , `` Bye , Mom .
+436	"computer new socks notebooks tennis racket and shoebox"	"stuffed with"	"emergency chocolate cupcakes"	1
+436	"We"	"moved"	"boxes and bags favorite shirts and CDs"	1
+436	"he"	"draws in"	"today"	1
+436	"half of"	"would be inhabited of"	""	1
+When he failed to have the lawyers dismissed by a judge , he said , he decided to attack them .
+437	"he"	"failed to have"	"the lawyers"	1
+White House aides say the Democratic president plans to offer his fast-track bill to the Republican Congress sometime during the second week of September , which already promises to be hectic .
+438	"White House aides his fast-track bill"	"say during"	"the second week of September"	1
+438	"White House aides his fast-track bill"	"say"	"the Democratic president plans to offer"	1
+438	"White House aides his fast-track bill"	"say to"	"the Republican Congress"	1
+438	"the second week of September"	"promises to be"	"hectic"	1
+Today 's average yield on the sale of C$ 2.1 billion of six-month bills was 3.615 percent , up from 3.561 percent two weeks ago .
+Hot-rolled and cold-rolled sheet , which has a smoother finish and is used on the outside of autos and appliances , account for about half of all U.S. steel shipments .
+440	"Hot-rolled and cold-rolled sheet"	"is used on"	"the outside of autos and appliances"	1
+440	"Hot-rolled and cold-rolled sheet"	"has a smoother finish on"	"the outside of autos and appliances"	1
+440	"Hot-rolled and cold-rolled sheet"	"has"	"a smoother finish"	1
+440	"Hot-rolled and cold-rolled sheet"	"has on"	"the outside of autos and appliances"	1
+When I finally got the package the next day , the phone was activated , though the battery needed to be charged for four hours .
+441	"I"	"got"	"the next day"	1
+441	"the battery"	"needed to be charged for"	"four hours"	1
+The clamor for coverage arising from Diana 's death recalled how profitable her image had been for some publications during her life .
+442	"her image"	"had been for"	"some publications"	1
+442	"coverage"	"arising from"	"Diana ' s death"	1
+442	"her image"	"had been during"	"her life"	1
+With the patent issued to William Dodd , from Marietta , a present could become a virtual gift that only ligHtli touches down in the recipient 's e-mail box before being rejected and passed on to someone else with the click of a mouse .
+Then the secretary tells me a second one hit the towers , and I said right out loud , ` It must be an Arab . '
+Space business will boom , he said , if the federal government will leave it largely unregulated .
+445	"the federal government"	"will leave"	"it"	1
+Traina and three other trustees , including Fletcher and Clark treasurer James E. Collins , each make $ 123,000 a year for part-time work .
+In fact , Fox , ABC and UPN are offering the same shows in the time slot now as they did a year ago .
+447	"fact Fox ABC and UPN are"	"are offering"	"the same shows"	1
+447	"fact Fox ABC and UPN are"	"are offering the same shows in"	"the time slot"	1
+447	"fact Fox ABC and UPN are"	"are offering in"	"the time slot"	1
+447	"they"	"did"	"a year"	1
+Brown and her staff persisted .
+Some of that money is earmarked for the new Traina Center for the Arts .
+449	"that money"	"is earmarked for"	"the Arts"	1
+449	"that money"	"is earmarked for"	"the new Traina Center"	1
+I did n't stop living because I was diagnosed with HIV.
+450	"I"	"was diagnosed with"	"HIV"	1
+What he did n't understand was the true essence of the Raiders : You might not understand it all , but you 're never going to get cheated .
+451	"You"	"might not understand"	"it"	1
+When the passengers realized that other commercial jets had been hijacked and crashed , they fulfilled `` the quintessential American desire to act '' and `` decided to take matters into their own hands to avert a catastrophe , '' he said .
+Officials at Volvo , long known for safe design , acknowledge that their cars are no match for a large sport utility vehicle .
+453	"their cars"	"are"	"no match"	1
+453	"Volvo long"	"known for"	"safe design"	1
+453	"Officials at Volvo long"	"acknowledge"	"that their cars are no match for a large sport utility vehicle"	1
+453	"their cars"	"are for"	"a large sport utility vehicle"	1
+453	"their cars"	"are no match for"	"a large sport utility vehicle"	1
+Sacks wrote of how he observed the brothers one day at a state mental hospital as they sat in apparent rapture exchanging six-figure primes that they seemed to pull from their heads .
+454	"he"	"observed as"	""	1
+454	"they sat in apparent rapture"	"sat exchanging"	"that they seemed to pull from their heads"	1
+454	"they sat in apparent rapture"	"sat exchanging six-figure primes"	"that they seemed to pull from their heads"	1
+454	"they"	"sat in"	"they sat apparent rapture"	1
+454	"they"	"seemed to pull from"	"their heads"	1
+454	"they sat in apparent rapture"	"sat exchanging"	"six-figure primes"	1
+454	"he"	"observed"	"one day at a state mental hospital"	1
+454	"he"	"observed one day at a state mental hospital as"	""	1
+Mary McCarty writes for the Dayton Daily News .
+455	"Mary McCarty"	"writes for"	"the Dayton Daily News"	1
+You should probably just go online .
+One of life 's simple pleasures is guessing who 'll walk away with the VeeHee .
+457	"ll"	"walk with"	"the VeeHee"	1
+2. Place the garlic and jalapeno in the bowl of a food processor .
+As dramatic as these developments are , the tipping point is a long way off , said Stephen S. Roach , chief economist at Morgan Stanley .
+For this year , Thailand is bracing for growth of only 3 percent or even a recession ; the Philippines expects gross domestic product to grow 5.55 percent ; Standard &AMP ; Poor 's expects Malaysia to grow 7 percent ; Indonesia 's economy is expected to expand 7 percent and Singapore 's between 6 percent and 7 percent .
+460	"Thailand"	"is bracing For"	"this year"	1
+460	"Poor ' s"	"expects"	"Malaysia"	1
+460	"Thailand"	"is bracing 3 percent for"	"growth"	1
+460	"Thailand"	"is bracing 3 percent For"	"this year"	1
+460	"the Philippines"	"expects gross domestic product to"	"grow 555 percent"	1
+460	"the Philippines"	"expects to"	"grow 555 percent"	1
+460	"Poor ' s"	"expects to"	"grow 7 percent"	1
+460	"Thailand"	"is bracing for"	"growth"	1
+460	"Thailand"	"is bracing"	"3 percent"	1
+460	"the Philippines"	"expects"	"gross domestic product"	1
+460	"Indonesia ' s economy"	"is expected to expand"	"7 percent and Singapore ' s between 6 percent"	1
+460	"Thailand"	"is bracing 3 percent of"	"only"	1
+460	"Thailand"	"is bracing of"	"only"	1
+460	"Poor ' s"	"expects Malaysia to"	"grow 7 percent"	1
+Company after company followed suit as heightened security at major airports posed new obstacles .
+461	"Company after company"	"followed suit at"	"major airports"	1
+461	"Company after company"	"followed suit as"	"heightened security"	1
+461	"Company after company"	"followed"	"suit"	1
+461	"Company after company"	"followed at"	"major airports"	1
+461	"Company after company"	"followed as"	"heightened security"	1
+When speed is your life , the race never ends .
+462	"speed"	"is"	"your life"	1
+That carpet cleaning company was started by a 16-year old who wound up with stock worth more than $ 100 million after his company went public .
+In Norway , striking offshore oil workers forced state-owned oil company Statoil to shut down its 40,000 barrel-a-day Yme oil field in the North Sea .
+464	"striking offshore oil workers"	"forced to"	"shut down its 40"	1
+464	"striking offshore oil workers"	"forced state-owned oil company Statoil to"	"shut down its 40"	1
+464	"striking offshore oil workers"	"forced In"	"Norway"	1
+464	"striking offshore oil workers"	"forced state-owned oil company Statoil In"	"Norway"	1
+464	"striking offshore oil workers"	"forced"	"state-owned oil company Statoil"	1
+The other five are still alive and will be allowed to return home if they want .
+Lucas stopped in Atlanta recently to talk about `` Sweet Home Alabama , '' his new romantic comedy with Reese Witherspoon .
+466	"Lucas"	"stopped in"	"Atlanta"	1
+466	"Lucas"	"stopped to"	"talk"	1
+In return for shelling out the $ 368.5 billion , Philip Morris , RJR Nabisco Holdings Corp. and other tobacco companies would obtain protection from future class-action lawsuits that have threatened the industry 's well-being .
+467	"RJR Nabisco Holdings Corp and other tobacco companies"	"would obtain"	"protection"	1
+467	"RJR Nabisco Holdings Corp and other tobacco companies"	"would obtain from"	"future class-action lawsuits"	1
+467	"RJR Nabisco Holdings Corp and other tobacco companies"	"would obtain protection from"	"future class-action lawsuits"	1
+Or balanced on the tip of the tongue .
+But Alea and Tabio use political strife as a broad backdrop on which to place the characters instead of making specific statements about revolution .
+469	"Alea and Tabio"	"use political strife as"	"a broad backdrop"	1
+469	"Alea and Tabio"	"use"	"political strife"	1
+469	"Alea and Tabio"	"use as"	"a broad backdrop"	1
+469	"Alea and Tabio"	"use political strife to"	"place the characters instead of making"	1
+469	"Alea and Tabio"	"use to"	"place the characters instead of making"	1
+The dollar often declines when U.S. Treasury officials express concern that Japan may be trying to boost its economy through exports .
+470	"The dollar"	"declines"	"when US. Treasury officials express"	1
+470	"concern"	"be trying to boost its economy through"	"exports"	1
+470	"concern"	"be trying to boost through"	"exports"	1
+470	"concern"	"be trying to boost"	"its economy"	1
+Perhaps examining the food on the plate too closely is something we should all avoid .
+Specifically , he 's driven by the prospect of rematches with Shane Mosley and Felix Trinidad , the only fighters to beat him .
+472	"s"	"driven by"	"the prospect of rematches with Shane Mosley and Felix Trinidad"	1
+Efforts to reach Johnson were unsuccessful .
+When you have to resort to 1,200-degree air to cool something , you 're running a hot system .
+474	"re"	"running"	"a hot system"	1
+I asked the Armenian native if the neighborhood kids or anybody else ever poked fun at the sign , which is basically a Bart Simpson dream come true .
+475	"the neighborhood kids or anybody"	"poked"	"fun"	1
+475	"the neighborhood kids or anybody"	"poked at"	"the sign"	1
+475	"I"	"asked"	"the Armenian native"	1
+475	"the neighborhood kids or anybody"	"poked fun at"	"the sign"	1
+Ariel bought its shares in the mid-teens .
+476	"Ariel"	"bought"	"its shares"	1
+476	"Ariel"	"bought its shares in"	"the mid-teens"	1
+476	"Ariel"	"bought in"	"the mid-teens"	1
+They add barbecue sauces developed with Texas taste panels for the chopped and sliced versions .
+477	"They"	"add"	"barbecue sauces"	1
+Lee Janzen IF PUSHED TO THE WALL , ISRAEL MIGHT FIRE NUKES That earned him the respect of analysts and investors , though the public remains skeptical .
+Arnoldy logs about 30,000 miles a year aboard Intrepid , parking it on a private siding in Houston when he 's not riding the rails .
+479	"a year aboard Intrepid"	"parking it on"	"a private siding"	1
+479	"a year aboard Intrepid"	"parking it in"	"Houston"	1
+479	"Arnoldy"	"logs"	"a year aboard Intrepid"	1
+479	"a year aboard Intrepid"	"parking in"	"Houston"	1
+479	"a year aboard Intrepid"	"parking on"	"a private siding"	1
+479	"s not"	"not riding"	"the rails"	1
+479	"a year aboard Intrepid"	"parking"	"it"	1
+There were also searches of two warehouses owned by the firms in Schleswig-Holstein state and the office of the firms ' tax adviser in Hamburg .
+The Treasury Department is responsible for U.S. foreign exchange policy .
+481	"The Treasury Department"	"is responsible for"	"US. foreign exchange policy"	1
+So is Nissan Motor Co. 's Altima .
+Television pictures showed police officers climbing over the roof and entering the offices of two related companies , Tatari Design and Tatex Trading G.m.b.H. , in Fitzbek , a village 35 miles from Hamburg .
+483	"Television pictures"	"showed"	"police officers"	1
+Sprint Corp. 's recent disclosure that it expects a net loss in wireless customers this quarter helped send the company 's PCS tracking stock below $ 2 on Wednesday for the first time .
+484	"Sprint Corp ' s recent disclosure"	"expects in"	"wireless customers"	1
+484	"Sprint Corp ' s recent disclosure"	"expects a net loss in"	"wireless customers"	1
+484	"Sprint Corp ' s recent disclosure"	"expects"	"a net loss"	1
+They are moving to install side air bags to provide more protection to the head and chest .
+485	"They"	"are moving to install side air bags to"	"provide more protection to the head and chest"	1
+485	"They"	"are moving to install"	"side air bags"	1
+485	"They"	"are moving to install to"	"provide more protection to the head and chest"	1
+The average yield on the sale of C$ 1.9 billion of one-year bills was 4.167 percent , up from 4.165 percent two weeks ago .
+It has outstanding stock options that could swell its roster of shares by 15 percent , and thus reduce earnings per share .
+487	"It"	"has"	"outstanding stock options"	1
+They say it cannot be done , but we beat City Hall , '' said Becky Fenger , a spokesperson for NO Transit Taxes .
+488	"They"	"say it"	"cannot be done"	1
+488	"They"	"say"	"cannot be done"	1
+488	"we"	"beat"	"City Hall"	1
+488	"They"	"say"	"it"	1
+When the university 's president , Richard P. Traina , retired in 2000 , he moved right into a spot on the board of the George I. Alden Trust , a $ 135 million foundation that 's run out of Fletcher , Tilton 's offices and which has been a strong Clark supporter .
+489	"s"	"run out of"	"Fletcher"	1
+489	"he"	"moved into"	"a spot on the board of the George I Alden Trust"	1
+489	"the university ' s president Richard P Traina"	"retired in"	"2000"	1
+July 's exports surpassed June 's total of $ 24.39 billion , and were well ahead of the previous January benchmark of C$ 24.88 billion .
+490	"July ' s exports"	"surpassed"	"June ' s total"	1
+Its commercial spine , 18th Avenue , is chock full of pork and pasta stores and the Italian colors of green , white and red everywhere .
+491	"Its commercial spine 18th Avenue"	"is full of"	"pork and pasta stores"	1
+491	"Its commercial spine 18th Avenue"	"is of"	"pork and pasta stores"	1
+491	"Its commercial spine 18th Avenue"	"is"	"full"	1
+Instead of converging on the meeting place , Hall and Sax both approached from the same direction .
+Musharraf defended his government 's decision to ban Bhutto , now living in exile in London and charged with corruption , from taking part in parliamentary elections .
+493	"Musharraf"	"defended"	"his government ' s decision"	1
+493	"Musharraf"	"defended to"	"ban Bhutto"	1
+493	"Musharraf"	"defended his government ' s decision to"	"ban Bhutto"	1
+The demoted starter had not pitched in a week , but showed no signs of the long layoff .
+494	"The"	"had not pitched in"	"a week"	1
+McDaniel postponed ruling on Reilly 's motion and also on a defense motion to move the trial out of Middlesex County because of the publicity the case has received .
+495	"McDaniel"	"postponed ruling on Reilly ' s motion to"	"move out the trial of Middlesex County"	1
+495	"McDaniel"	"postponed to"	"move out the trial of Middlesex County"	1
+495	"McDaniel"	"postponed"	"ruling on Reilly ' s motion"	1
+Beyond these practical considerations , there are other factors that can affect quality of life .
+496	"other factors"	"can affect"	"quality of life"	1
+That 's enough of a difference to entice pension funds into junk .
+But Dionne said he was skeptical about whether television advertising is so powerful .
+498	"television advertising"	"is"	"powerful"	1
+498	"he"	"was"	"skeptical"	1
+498	"Dionne"	"said"	"about whether television advertising is so powerful"	1
+The agency suspended imposition of the $ 100,000-per-voyage fines in April after Japan promised to address U.S. concerns by today .
+499	"The agency"	"suspended"	"imposition"	1
+499	"Japan"	"promised to address"	"US. concerns"	1
+499	"Japan"	"promised to address by"	"today"	1
+499	"Japan"	"promised to address US. concerns by"	"today"	1

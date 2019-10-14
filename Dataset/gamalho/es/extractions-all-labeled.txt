@@ -1,0 +1,533 @@
+00, cantidad inferior al que tenían las agrupaciones en el año 2005.
+1	"cantidad inferior a el"	"tenían a"	"el"	0
+1	"cantidad inferior a el"	"tenían 2005 en"	"el año"	0
+1	"cantidad inferior a el"	"tenían en"	"el año"	0
+1	"cantidad inferior a el"	"tenían 2005 a"	"el"	0
+1	"cantidad inferior a el"	"tenían"	"2005"	0
+Tambien he visto algunas alinas en todocoleccion preciosas como la brujita, la del circo o la holandesa que comentaba Montse por los foros, pero esas pensaré si las quiero o no porque los presupuestos no dan para tanto con Nancy, Lesly y Jesmarines; aunque haya vuelto al mundo laboral esta semana (que por eso ando un poco desaparecida en combate).
+2	"los presupuestos"	"no dan para"	"tanto"	1
+2	"Tambien"	"he visto algunas alinas en"	"todocoleccion"	1
+2	"Tambien"	"he visto en"	"todocoleccion"	1
+2	"0"	"he visto "	"algunas alinas"	1
+2	"la holandesa"	"comentaba por"	"los foros"	1
+2	"la holandesa"	"comentaba"	"Montse"	0
+2	"los presupuestos"	"no dan con"	"Nancy"	0
+2	"la holandesa"	"comentaba Montse por"	"los foros"	1
+2	"Tambien"	"he visto"	"algunas alinas"	1
+2	"esas"	"pensaré"	"si las quiero"	1
+Estados Unidos utilizó eso como excusa para atacar a nuestro país, Afganistán.
+3	"Estados Unidos "	"utilizó"	"eso "	1
+3	"Estados Unidos "	"utilizó eso como excusa para"	"atacar"	1
+3	"Estados Unidos"	"utilizó"	"eso"	1
+Y si uno es amante del asunto navideño, que lo es, pues resulta que todo es como un gran jueves, un gran adviento reconcentrado en pocos días, un gran hacerse ilusiones sobre fechas previsiblemente afortunadas.
+4	"todo "	"es como "	"un gran adviento reconcentrado en pocos días"	1
+4	"un gran adviento"	"reconcentrado en"	"pocos días"	1
+4	"todo "	"es como "	"un gran jueves"	1
+4	"todo "	"es como "	"un gran hacerse ilusiones sobre fechas previsiblemente afortunadas"	1
+Ciertas actividades ayudan a revelar lo que ha ocurrido adentro, pero a veces el mucho hacer y el mucho decir se convierten en humo que oculta lo que realmente podría estar ocurriendo en lo más profundo del ser.
+5	"el mucho hacer y el mucho decir "	"se convierten en "	"humo que oculta lo que realmente podría estar ocurriendo en lo más profundo del ser"	1
+5	"Ciertas actividades"	"ayudan a"	"revelar"	0
+5	"Ciertas actividades "	"ayudan a revelar "	"lo que ha ocurrido adentro"	1
+Por ejemplo, Estados Unidos está asociado con gobiernos, organismos no gubernamentales (ONG) y comunidades locales de todo el mundo para reconstruir escuelas y crear programas educativos que favorezcan a niños marginados: las niñas, las minorías étnicas y los niños afectados por el VIH/SIDA, guerras y otras catástrofes en Oriente Medio y el sur del Asia”, explicó.
+6	"programas educativos"	"favorezcan"	"marginados"	0
+6	"Estados Unidos "	"está asociado con"	"gobiernos, organismos no gubernamentales (ONG) y comunidades locales de todo el mundo"	1
+6	"los niños"	"afectados por"	"el VIH"	0
+6	"Estados Unidos"	"está asociado con"	"gobiernos"	1
+6	"Estados Unidos "	"está asociado para"	"reconstruir escuelas y crear programas educativos"	1
+6	"Estados Unidos"	"está asociado Por"	"ejemplo"	0
+Usted puede sentirse nervioso acerca de la exposición de usted o siente actualmente un resurgimiento de los viejos sentimientos y las emociones que sintió cuando usted y su ex estaban juntos.
+7	"Usted "	"siente actualmente "	"un resurgimiento de los viejos sentimientos y las emociones"	1
+7	"Usted"	" puede sentirse nervioso acerca de "	"la exposición de usted"	1
+Se impide debatir a candidatos del Partido Verde
+8	"0"	"Se impide debatir"	" a candidatos del Partido Verde"	1
+Por ejemplo, los camiones pueden tener una carga máxima permitida o los autobuses un número de plazas disponibles.
+9	"los camiones"	"pueden tener"	"una carga máxima"	1
+9	"los camiones"	"pueden tener Por"	"ejemplo"	0
+9	"los camiones"	"pueden tener una carga máxima Por"	"ejemplo"	0
+9	"los autobuses "	"pueden tener"	"un número de plazas disponibles."	1
+9	"los camiones "	"pueden tener"	"una carga máxima permitida"	1
+aparece, de repente, una luz saliendo luz, vida, felicidad, amistad, amor.
+10	"una luz"	"aparece de"	"repente"	1
+Y eso es difícil de llevar a la práctica por cada uno de nosotros.
+11	"eso "	"es difícil de llevar a "	"la práctica"	1
+11	"eso"	"ser difícil de"	"llevar a la práctica"	1
+Hay un goce en la destrucción de los “héroes”, de esta mitología popular, asegura.
+Jurado federal declara culpable al senador republicano Ted Stevens
+13	"Jurado federal "	"declara culpable a"	"el senador republicano Ted Stevens"	1
+13	"Jurado federal"	"declara a"	"el senador republicano Ted Stevens"	0
+Es su forma de entender la libertad de prensa y de “demostrar que no se puede tomar parte en pisotear al País Vasco con impunidad”.
+14	"0"	"no se puede tomar parte en pisotear a"	"el País Vasco"	1
+Uno de los inspectores se dejó llevar por su experiencia e intuición y, desconfiando replicó rápidamente diciéndole que no les hiciese perder el tiempo en pesquisas y que les mostrase el resto del cadáver.
+15	"Uno de los inspectores "	"se dejó llevar por "	"su experiencia e intuición"	1
+Así que contratar a un asesor financiero o comprar informes de acciones de investigación que nos ayude a elegir e invertir en las poblaciones de ganar.
+@Chu por igual: si, han adoptado una política contra el reemplazo de sonotones perdidos, creo que se debe a la falta de recursos disponibles.
+Cuando empezamos con Jisko, desconocíamos si existían o no distintas alternativas de microblogging open-source, simplemente nos pusimos manos a la obra.
+¿Algún cacharro más que se os ocurra? No vale meterse en rollos demasiado frikis, o no acabo nunca!
+El vampirismo en Let the right one in es ante todo una cuestión de supervivencia física, y eso está dicho con imágenes como las que traté de describir o a través del sonido, como cuando a Eli, después de hablar con Oskar por primera vez, le hace ruido la panza.
+20	"eso"	"está dicho con"	"imágenes"	1
+20	"El vampirismo"	"one en"	"Let the right"	0
+20	"eso "	"está dicho "	"a través del sonido"	1
+20	"eso "	"está dicho "	"con imágenes "	1
+* Portada *Destacado Fotos Playa Durante todo el domingo la playa de la Cala de Finestrat ha registrado un lleno “casi total” favorecido por las altas temperaturas.
+21	"la playa de la Cala de Finestrat"	"ha registrado un lleno casi total"	"favorecido por las altas temperaturas"	1
+21	"la playa de la Cala de Finestrat"	"ha registrado"	"favorecido por las altas temperaturas"	0
+21	"la playa de la Cala de Finestrat "	"ha registrado"	" un lleno “casi total”"	1
+21	"la playa de la Cala de Finestrat"	"ha registrado"	"un lleno casi total"	1
+Yota, es una empresa Rusa, que fue fundada en el 2007 y que en tan solo 3 años ha logrado expandirse agresivamente en 4 países (Rusia, BieloRusia, Perú y Nicaragua).
+22	"Yota"	"ha logrado expandirse agresivamente en"	"4 países"	1
+22	"3 años"	"ha logrado"	"BieloRusia"	0
+22	"Yota"	"fue fundada en"	"el 2007"	1
+22	"Yota"	"ha logrado expandirse agresivamente"	"en tan solo 3 años"	1
+22	"Yota"	"fue fundada en "	"el 2007 "	1
+FON va a revolucionar el mundo de Internet dando acceso gratuito por wifi en todo el mundo.
+23	"FON "	"va a revolucionar"	" el mundo de Internet "	1
+23	"FON"	"va a revolucionar"	"el mundo de Internet"	1
+23	"FON"	"va a revolucionar el mundo de Internet"	"dando acceso gratuito por wifi en todo el mundo"	1
+23	"FON"	"va a revolucionar"	"dando acceso gratuito por wifi en todo el mundo"	1
+Respondé este test y vas a saber cuál es tu lado oculto.
+Suscribite a nuestros contenidos
+La conversión se mostrará todos los días a las tarifas diarias a partir de las 14:00 en el sitio web oficial del Banco Nacional de Rumanía.
+26	"La conversión "	"se mostrará "	"todos los días"	1
+26	"La conversión"	"se mostrará"	"todos los días"	1
+26	"La conversión"	"se mostrará a"	"partir de las 14:00 en el sitio web oficial de el Banco Nacional de Rumanía"	1
+26	"La conversión "	"se mostrará "	" a partir de las 14:00"	1
+26	"La conversión "	"se mostrará "	" en el sitio web oficial del Banco Nacional de Rumanía."	1
+26	"La conversión"	"se mostrará todos los días a"	"partir de las 14:00 en el sitio web oficial de el Banco Nacional de Rumanía"	1
+26	"La conversión "	"se mostrará "	" a las tarifas diarias"	1
+26	"La conversión"	"se mostrará todos los días a"	"las tarifas diarias"	1
+26	"La conversión"	"se mostrará a"	"las tarifas diarias"	1
+Estamos orgullosos de haber logrado ya el objetivo que nos propusimos a principios de 2010 de desarrollar un smartphone de 150 dólares, que proporcione una excelente experiencia al usuario.
+27	"el objetivo"	"nos propusimos de"	"desarrollar"	0
+27	"0"	"Estamos orgullosos de haber logrado ya "	"el objetivo "	1
+SINOPSIS
+En aquellos dias como en casa hay jardin con muchos arbolitos nos encanta andar trepado prrrr es una delicia … Por: Tunia Vaya susto que se llevó tu hija¡¡¡Espero que Aiko se respusiera pronto.
+29	"Tunia Vaya susto"	"se llevó"	"tu hija"	0
+Inicialmente quería construir una pequeña casa de campo, y comenzó a construirla en piedra.
+30	"0"	"comenzó a construirla en "	"piedra"	1
+30	"0"	"quería construir "	"una pequeña casa de campo"	1
+Trotamundos barrió a Gigantes
+31	"Trotamundos "	"barrió a "	"Gigantes"	1
+Aparte de ser simplemente lindo, Mobi es una demostración de cómo también un escritorio puede ser adaptable y portátil ocupando un espacio mínimo.
+32	"Mobi "	"es una demostración de "	"cómo también un escritorio puede ser adaptable y portátil ocupando un espacio mínimo."	1
+He estado buscando otras alternativas, y en las actividades no subvencionadas el precio es igual o mayor al  que ofrecia m'penta.
+33	"0"	"He estado buscando"	" otras alternativas"	1
+33	"las actividades no"	"no subvencionadas"	"el precio"	0
+33	"el precio "	"es igual o mayor a"	"el que ofrecia m'penta."	1
+El Maratón de Santiago es la única prueba nacional que cuenta con la certificación de la IAAF (Internacional Association of Athletics Federation) y que además forma parte la AIMS (Association International of Marathones and Distance Races).
+34	"El Maratón de Santiago"	" es la única prueba nacional "	"que además forma parte la AIMS"	1
+34	"El Maratón de Santiago"	" es la única prueba nacional "	"que cuenta con la certificación de la IAAF "	1
+34	"la única prueba nacional"	"cuenta con"	"la certificación de la IAAF Internacional Association of Athletics Federation"	1
+Luego conforme vas aumentando la velocidad el coche aumenta su potencia pero el torque va disminuyendo( acelera menos), hasta que se alcanza el punto donde el coche no acelera mas, o sea el punto de máxima potencia.
+35	"el punto"	"no acelera"	"el punto"	1
+35	"el coche"	" aumenta"	" su potencia"	1
+35	"el coche"	"aumenta"	"su potencia"	1
+Es la efectividad en una realidad interdependiente: es formación del equipo, es trabajo de equipo, desarrollo de la unidad y la creatividad con otros seres humanos.
+*Accede a la Redacción como en la tarea anterior y elige la sección Contenidos TIC .
+Olympus Stylus 1040 Olympus ha presentado mas modelos de cámaras, hoy toca hablar de la Olympus Stylus 1040, una nueva cámara compacta.
+38	"Olympus Stylus 1040"	""	"una nueva cámara compacta."	1
+38	"modelos de cámaras"	"toca"	"1040"	0
+38	"Olympus "	"ha presentado"	" mas modelos de cámaras"	1
+“Los estudiantes de la Universidad de Chile tienen que hacerse cargo de la situación con una perspectiva de trabajo a largo plazo, aportando su visión crítica y su compromiso, porque no da lo mismo cómo se reconstruye el país.
+39	"Los estudiantes de la Universidad de Chile"	"tienen que hacer se a"	"largo plazo"	1
+39	"Los estudiantes de la Universidad de Chile"	"tienen que hacer se"	"cargo de la situación con una perspectiva de trabajo"	1
+39	"Los estudiantes de la Universidad de Chile "	"tienen que hacerse cargo de "	"la situación"	1
+39	"Los estudiantes de la Universidad de Chile"	"tienen que hacer se cargo de la situación con una perspectiva de trabajo a"	"largo plazo"	1
+Los distintos diseños, harán que cada celular tenga su apariencia propia.
+40	"Los distintos diseños "	"harán"	"que cada celular tenga su apariencia propia."	1
+En el caso del profesor Jorge Olguín, director del Grupo Elron, su capacidad para traducir fielmente los conceptos o ideas espirituales alcanza a casi el 95 %, que luego llega a casi el 100 % cuando revisa y eventualmente corrige el material grabado de las sesiones.
+41	"ideas espirituales"	"alcanza el 95 % a"	"casi"	0
+41	"ideas espirituales"	"alcanza a"	"casi"	0
+41	"ideas espirituales"	"alcanza"	"el 95 %"	1
+41	"su capacidad para traducir fielmente los conceptos o ideas espirituales "	"alcanza a "	"casi el 95 %"	1
+Además de escritorio y periódicos gratuitos, las habitaciones ofrecen teléfono y llamadas locales gratuitas (pueden existir restricciones).
+42	"las habitaciones"	" ofrecen "	"teléfono y llamadas locales gratuitas"	1
+Esto resultará en armónicos en el espectro, pero otros tipos de distorción de la forma de onda también producirán armónicos.
+43	"otros tipos de distorción de la forma de onda "	"también producirán"	" armónicos"	1
+43	"Esto"	"resultará en"	"el espectro"	1
+43	"Esto "	"resultará"	" en armónicos"	1
+43	"Esto"	"resultará en"	"armónicos"	1
+Tal es el caso de la palabra castellana “cojones ”.
+Muy lejos quedaron los días de Britney Spears como princesa del pop.
+45	"los días de Britney Spears como princesa del pop."	"quedaron "	"Muy lejos "	1
+º Del modo de hallar las correcciones de las divisiones de un instrumento para los ángulos verticales por las ya halladas para las horizontales.
+La otra opción es el motor de 3,6 litros con inyección directa, novedad que incrementa la potencia hasta los 304 caballos.
+47	"novedad"	"incrementa"	"la potencia"	0
+47	"La otra opción"	"es con"	"inyección directa"	1
+47	"novedad"	"incrementa hasta"	"los 304 caballos"	0
+47	"novedad "	"incrementa "	"la potencia hasta los 304 caballos"	1
+47	"novedad"	"incrementa la potencia hasta"	"los 304 caballos"	0
+Optimización de Páginas Web y Posicionamiento en Buscadores.
+Chico y chico son Strazz, dos rubi@s callejeras que a mí me recuerdan un algo a la Jesulina y a la Cañadas pero más centrifugás.
+49	"dos rubi s callejeras "	"recuerdan un algo a "	"la Jesulina y a la Cañadas"	1
+Te admiro profundamente y te doy las gracias por tu valentía e integridad.
+la Santa Misa nos hace crecer en la amistad no sólo con Dios,
+51	"la Santa Misa"	"hace crecer"	" en la amistad no sólo con Dios"	1
+51	"la Santa Misa"	"nos hace no con"	"Dios"	0
+Es tan bonita y sexy que lo se la maman en todas las posiciones lo que le permite admirar su cuerpo bajo todas las costuras, luego lo alarga en el sofá y él borra la almeja como el se destara.
+52	"lo"	"se la maman en"	"todas las posiciones lo"	0
+52	"él"	"borra"	"la almeja"	1
+52	"todas las posiciones lo"	"le permite"	"admirar su cuerpo bajo todas las costuras"	0
+En tanto, según los expedientes, María Eva estaba embarazada de dos meses y habría dado luz a un bebé en Campo de Mayo.
+53	"María Eva"	"habría dado en"	"Campo de Mayo"	0
+53	"María Eva"	"habría dado luz a"	"un bebé"	1
+53	"María Eva "	"habría dado luz a un bebé "	"en Campo de Mayo."	1
+53	"María Eva "	"estaba embarazada de "	"dos meses "	1
+53	"María Eva"	"estaba embarazada de"	"dos meses"	1
+53	"María Eva"	"habría dado luz en"	"Campo de Mayo"	1
+53	"María Eva"	"habría dado"	"luz"	1
+53	"María Eva"	"habría dado a"	"un bebé"	1
+Meditación 3ª
+"Cristina relacionó además las dificultades políticas que enfrenta su gobierno con las desigualdades de género: ""Sabía que iba a ser mucho más difícil para mí que para otros, por el simple hecho de ser mujer."
+55	"Cristina"	" relacionó además "	"las dificultades políticas"	1
+55	"Cristina"	"relacionó"	"las dificultades políticas"	1
+55	"su gobierno"	"enfrenta "	"las dificultades políticas"	1
+55	"las dificultades políticas"	"enfrenta"	"su gobierno con las desigualdades de género"	0
+Para empezar, este salón acogerá el nuevo Bakery Masters, en el que se enfrentan 24 panaderos de 17 países.
+56	"este salón"	"acogerá"	"el nuevo Bakery Masters"	1
+56	"24 panaderos de 17 países."	"se enfrentan "	"en este salón "	1
+56	"este salón "	"acogerá "	"el nuevo Bakery Masters"	1
+El partido nacional socialista alemán, dirigido por Hitler, actuando como los representantes del pueblo, se erigieron como sus conductores para llevarlos a un futuro mejor.
+58	"El partido nacional socialista alemán, dirigido por Hitler, actuando como los representantes del pueblo"	"se erigieron como "	"sus conductores"	1
+El Shelby Daytona fue construido para competir en la categoría GT de la FIA que siempre había sido dominada por Ferrari, hasta que el Shelby llegó y los derrotó en 1965.
+59	"El Shelby Daytona "	"fue construido para competir en "	"la categoría GT "	1
+59	"la categoría GT de la FIA"	"siempre había sido dominada por "	"Ferrari"	1
+59	"El Shelby Daytona"	"fue construido que siempre había sido dominada por Ferrari para"	"competir en la categoría GT de la FIA"	0
+59	"el Shelby"	"llegó en"	"1965"	1
+59	"El Shelby Daytona"	"fue construido para"	"competir en la categoría GT de la FIA"	1
+59	"el Shelby"	"los derrotó en"	"1965"	1
+59	"El Shelby Daytona"	"fue construido"	"que siempre había sido dominada por Ferrari"	0
+Ese whisky que realmente nunca se ve, menos bebe, si no es en algunos blended de calidad.
+Oferta #390489 realizada por sercon1987 (0 ) el 12/09/2011 02:10 Información privada Los datos de esta oferta sólo podrán ser vistos por el publicador del proyecto o por el postulante que la realizó.
+61	"Los datos de esta oferta "	"sólo podrán ser vistos por "	"el publicador del proyecto o por el postulante que la realizó"	1
+Las creencias populares han impuesto miles de formas para frenar las acciones negativas de los envidiosos, las cábalas y los remedios son muchos contra la mala onda o las energías negativas, o el mal de ojo.
+62	"Las creencias populares"	"han impuesto para"	"frenar las acciones negativas de los envidiosos"	0
+62	"Las creencias populares "	"han impuesto miles de formas para frenar "	"las acciones negativas"	1
+62	"Las creencias populares"	"han impuesto"	"miles de formas"	1
+62	"Las creencias populares"	"han impuesto miles de formas para"	"frenar las acciones negativas de los envidiosos"	1
+Armar una red económica le permitirá mantener una comunicación permanente con sus empleados y agregar servicios de acuerdo a sus necesidades y posibilidades.
+63	"Armar una red económica "	"le permitirá mantener "	"una comunicación permanente "	1
+63	"Armar una red económica "	"le permitirá agregar "	"servicios "	1
+Finalizado el conflicto, con su aliado político Louis Botha llevó a cabo numerosas manifestaciones públicas a favor de un mayor autogobierno de las antiguas repúblicas.
+64	"el conflicto"	"Finalizado con"	"su aliado político Louis Botha"	0
+64	"Louis Botha "	"llevó a cabo "	"numerosas manifestaciones públicas a favor de un mayor autogobierno de las antiguas repúblicas."	1
+Oferta #390904 realizada por alisson (0 ) el 13/09/2011 07:08 Hola, estoy interesada en su oferta.
+Lee atentamente la Información del proyecto y las Condiciones de pago .
+«Tenemos un equipo de investigadores que trabajan buscando cosas nuevas».
+67	"Tenemos"	" un equipo de investigadores que trabajan buscando cosas nuevas"	"1"	1
+Nacen para capitalizar la fama de un cocinero prestigioso.
+68	"Nacen para capitalizar "	"la fama de un cocinero prestigioso."	"1"	1
+La implantación en España de esta receta ha tenido una explicación un tanto rocambolesca.
+69	"La implantación en España de esta receta "	"ha tenido "	"una explicación un tanto rocambolesca."	1
+69	"La implantación"	"ha tenido una explicación en"	"España de esta receta"	1
+69	"La implantación"	"ha tenido"	"una explicación"	1
+69	"La implantación"	"ha tenido en"	"España de esta receta"	0
+La barbarie, la pérdida, inspiraron estos once pequeños cuadros.
+70	"La barbarie, la pérdida"	"inspiraron"	" estos once pequeños cuadros."	1
+70	"La barbarie la pérdida"	"inspiraron"	"estos once pequeños cuadros"	0
+La cubierta craneal es baja, y los huesos del cráneo son espesos.
+71	"La cubierta craneal "	"es"	"baja"	1
+71	"los huesos del cráneo"	" son"	" espesos."	1
+El tratamiento con antibióticos suele suprimir el foco infeccioso.
+72	"El tratamiento con antibióticos "	"suele suprimir "	"el foco infeccioso."	1
+72	"El tratamiento con antibióticos"	"suele suprimir"	"el foco infeccioso"	1
+Además podrás enviar tu página o enlace web y Seguridad al directorio de una forma rápida y gratuita con el fin de realizar un directorio de calidad.
+73	"podrás enviar "	"tu página o enlace web y Seguridad"	"1"	1
+[/quote]
+Imagino que con las elecciones por medio, se retrasará todo.
+75	"todo "	"se retrasará"	"con las elecciones por medio "	1
+Cable audio/video estándar para Xbox 360: Conecta instantáneamente a los jugadores al mundo de Xbox 360, introduciéndoles en gráficos y juegos de última generación utilizando conexión es de definición estándar.
+76	"juegos de última generación"	"es de"	"definición estándar"	0
+76	"juegos de última generación"	"utilizando"	"conexión"	0
+Además puedes enviar mensajes de voz a tus amigos a través de Xbox LIVE.
+77	"puedes "	"enviar mensajes de voz"	"1"	1
+Quizá en el acabado Essentia podría tener justificación -el más bajo de la gama-, pero el nuestro era el acabado que, en palabras de miembros de Opel, más se va a vender, el Enjoy, así que es donde más deberían haberse esmerado en marcar la diferencia con los pequeños detalles.
+78	"el nuestro"	" era"	" el acabado"	1
+78	"0"	"deberían haberse esmerado en marcar "	"la diferencia con los pequeños detalles"	1
+78	"0"	"podría tener "	"justificación"	1
+Yo sí que creo en los milagros y en las americanadas: porque las he vivido : recuerdo que tengo que escribir un post para este blog : subo las escaleras con cuidado y le saco, sin que ella se percate, una foto:
+79	"subo "	"las escaleras"	"1"	1
+79	"Yo "	"sí que creo en "	"los milagros y en las americanadas"	1
+Creo que hace como 11 mash ups para el juego, entonces debe ser bueno.
+80	"hace "	"como 11 mash ups"	"1"	1
+80	"mash ups"	"debe ser para"	"el juego"	0
+Y hace tiempo también que Manu Chao colabora con dicha radio.
+81	"Manu Chao "	"colabora con "	"dicha radio."	1
+Finalizó sus estudios en Florida y allí hizo sus primeras incursiones en el mundo del espectáculo junto a un grupo de amigos que, de modo itinerante, hacían pequeñas representaciones en escuelas y parques públicos.
+82	"un grupo de amigos "	"hacían"	" pequeñas representaciones en escuelas y parques "	1
+82	"hizo "	"sus primeras incursiones en el mundo del espectáculo"	"1"	1
+82	"Finalizó "	"sus estudios"	"1"	1
+En política interna se mostró siempre a favor de un Gobierno de conciliación nacional y fue contrario a la unificación de Moldavia con Rumanía, pero procuró mantener el frágil equilibrio entre el pro rumano Frente Popular Moldavo (FPM) y los movimientos separatista rusos de la zona del río Dniéster, donde los rebeldes rusófonos proclamaron la independencia de la República del Trans-Dniéster.
+83	"0"	"se mostró siempre a favor de "	"un Gobierno de conciliación nacional"	1
+83	"0"	"fue contrario a "	"la unificación de Moldavia con Rumanía"	1
+83	"rusos de la zona de el río Dniéster"	"proclamaron"	"la independencia de la República de el Trans-Dniéster"	1
+83	"los rebeldes rusófonos "	"proclamaron "	"la independencia de la República del Trans-Dniéster"	1
+83	"0"	"procuró mantener "	"el frágil equilibrio entre el pro rumano Frente Popular Moldavo (FPM) y los movimientos separatista rusos"	1
+En 1935 trabajó como investigador asociado en el Jackson Laboratory y en 1937 como profesor e investigador principal de este centro.
+84	"0"	"trabajó "	"como investigador "	1
+84	"investigador"	"asociado en"	"el Jackson Laboratory"	1
+asiatico , idols , problems , artistas , asiaticos , intenta , descubrir , problemáticas , viven , coreanos
+Información importante antes de ofertar:
+Si
+El servicio técnico HEATLINE en Ejea de los Caballeros está preparado para ofrecérselas.
+88	"El servicio técnico HEATLINE"	"está preparado para"	"ofrecer se las"	1
+88	"El servicio técnico HEATLINE"	"está preparado en"	"Ejea de los Caballeros"	1
+88	"El servicio técnico HEATLINE en Ejea de los Caballeros "	"está preparado para ofrecér"	"selas."	1
+reparar su Calderas HEATLINE al mejor precio y con la más alta calidad.
+La soldada tapa resguarda un rico cóctel cardiosaludable.
+90	"La soldada tapa"	"resguarda"	"un rico cóctel cardiosaludable"	0
+90	"La soldada tapa "	"resguarda "	"un rico cóctel cardiosaludable."	1
+Por eso no somos nada partidarios de la doble fritura.
+91	"no somos nada "	"partidarios de la doble fritura."	"1"	1
+La canela en rama funciona muy bien cuando se hace lo que podríamos llamar una 'infusión' con ella, que es lo que hacemos cuando cocemos leche con azúcar y un 'palo' de canela y dejamos que enfríe antes de retirar la especia.
+92	"0"	"cocemos "	"leche con azúcar y un 'palo' de canela"	1
+92	"La canela"	"funciona en"	"rama"	0
+Recordaron que la comunidad del carnaval abarca distintos sectores sociales, que en los últimos años en los carnavales actúan más de 15.
+93	"la comunidad del carnaval "	"abarca "	"distintos sectores sociales"	1
+93	"más de 15"	"actúan "	"en los carnavales "	1
+"Son enfermedades que a nosotros no nos afectan, pero que en el tercer mundo causan estragos, porque las empresas farmacéuticas venden la medicación a ""precio occidental"", lo que imposibilita recibir tratamiento a las personas pobres."
+94	"las empresas farmacéuticas "	"venden"	" la medicación"	1
+94	"las empresas farmacéuticas"	"venden"	"la medicación"	1
+94	"lo que "	"imposibilita recibir "	"tratamiento"	1
+94	"enfermedades "	"no nos afectan"	"a nosotros "	1
+94	"las empresas farmacéuticas"	"venden la medicación a"	"precio occidental"	1
+94	"las empresas farmacéuticas"	"venden a"	"precio occidental"	1
+94	"enfermedades "	"causan "	"estragos"	1
+Opositor a la guerra de Irak liberado de arresto militar
+95	"Opositor a la guerra de Irak "	"liberado de "	"arresto militar"	1
+95	"Opositor a la guerra de Irak"	"liberado de"	"arresto militar"	1
+Aunque la pobreza bajó de un 37% en el 1986 a un 29% en el 2000, el país fue considerado como el menos efectivo en toda Latinoamérica en lograr una reducción de la pobreza en base a su crecimiento económico.
+96	"la pobreza"	"bajó de"	"un 37 %"	1
+96	"la pobreza"	"bajó en"	"el 2000"	1
+96	"la pobreza"	"bajó a"	"un 29 %"	1
+96	"la pobreza"	"bajó en"	"el 1986"	1
+96	"el paÃ­s "	"fue considerado "	"como el menos efectivo en toda LatinoamÃ©rica en lograr una reducciÃ³n de la pobreza"	1
+96	"la pobreza "	"bajÃ³ de "	"un 37% en el 1986 a un 29% en el 2000"	1
+Dailey refirió que en los últimos siete años transcurridos se han dictado nuevas leyes en varios países que han puesto en vigencia o actualizado medidas contra el terrorismo, incluyendo legislación financiera y contra el lavado de dinero, lo que ha hecho más difícil la supervivencia de los grupos terroristas.
+97	"nuevas leyes en varios países "	"han puesto en vigencia o actualizado "	"medidas contra el terrorismo"	1
+97	"lo que "	"ha hecho más difícil "	"la supervivencia de los grupos terroristas."	1
+97	"varios países"	"han puesto en"	"vigencia"	0
+97	"Dailey"	"refirió"	"que en los últimos siete años"	0
+"Luego, Slash se arrimó hacia donde estabamos nosotros, (tambien en ese concierto estuvimos en primera ""fila"") tocó un poco y tiró su colilla de cigarrillo , casi nos matamos por agarrarlo y se lo quedó una amiga mía, fana como yo jaja."
+98	"una amiga mía"	"se quedó "	"lo "	1
+98	"Slash "	"tiró "	"su colilla de cigarrillo"	1
+El Presidente Bush nombró al ejecutivo minero Richard Stickler como nuevo director de la Administración de Seguridad y Salud en Minas.
+99	"El Presidente Bush "	"nombró a"	"el ejecutivo minero Richard Stickler "	1
+Pedro me resulta curiosísimo lo burdo de sus artículos, de verdad, si pretende convencer a alguien con argumentos tan vacuos va por mal camino .
+100	"Pedro"	"me resulta"	"si pretende convencer a alguien con argumentos tan vacuos"	0
+100	"0"	"pretende convencer a "	"alguien "	1
+100	"0"	"va por "	"mal camino"	1
+Pero esto no es imprescindible, de modo que se pueden crear objetos que hereden de otros y no incluyan nada nuevo.
+101	"modo"	"se pueden crear"	"objetos"	0
+101	"objetos"	"hereden de"	"otros"	0
+101	"esto"	"no es de"	"modo"	0
+Lo que no cambio, dijo Fuller, fue “nuestro compromiso con los principios que apuntalan el Proceso de Helsinki”.
+102	"cambio"	"dijo"	"Fuller"	0
+102	"nuestro compromiso con los principios"	"apuntalan"	"el Proceso de Helsinki"	1
+102	"Lo que no cambio "	"fue "	"“nuestro compromiso con los principios que apuntalan el Proceso de Helsinki”."	1
+Los puntos son personales e intransferibles, por lo que deberán ser siempre utilizados por la cuenta de cliente que los ha generado.
+103	"Los puntos "	"deberán ser siempre utilizados por "	"la cuenta de cliente que los ha generado."	1
+La dicha de la vida consiste en tener siempre algo que hacer, alguien a quien amar y alguna cosa que esperar.
+104	"La dicha de la vida"	"consiste en"	"tener siempre algo"	1
+104	"La dicha de la vida"	" consiste en tener siempre "	"algo que hacer, alguien a quien amar y alguna cosa que esperar."	1
+Educación libertaria: propuestas y experiencias que no reproducen la lógica existente de disciplinamiento y control social del sistema de educacion formal 23 hs.
+105	"propuestas y experiencias "	"no reproducen "	"la lógica existente de disciplinamiento y control social del sistema de educacion formal"	1
+105	"experiencias"	"no reproducen"	"la lógica existente de disciplinamiento"	1
+Fuente:cronista cumple del diego video diego el 10 Maradona prepara la lista para enfrentar a España Con la clasificación al Mundial, el entrenador Diego Maradona dará a conocer este viernes la lista de convocados para el partido ante España, el 14 de noviembre en Madrid.
+106	"el entrenador Diego Maradona"	"dará la lista a"	"conocer este viernes"	0
+106	"el entrenador Diego Maradona"	"dará"	"la lista"	1
+106	"Maradona "	"prepara "	"la lista"	1
+106	"el 10 Maradona"	"prepara para"	"enfrentar a España Con"	0
+106	"el 10 Maradona"	"prepara la clasificación a el Mundial para"	"enfrentar a España Con"	0
+106	"cronista"	"cumple de"	"el diego video diego"	0
+106	"el entrenador Diego Maradona "	"dará a conocer "	"la lista de convocados para el partido ante España"	1
+106	"el 10 Maradona"	"prepara"	"la clasificación a el Mundial"	1
+106	"el entrenador Diego Maradona"	"dará a"	"conocer este viernes"	0
+El New York Times informa que aparentemente este ataque refleja un esfuerzo mayor por parte del gobierno de Bush de encontrar una manera —durante los meses que le quedan de mandato— de atacar a los militantes, incluso fuera del territorio de Irak y Afganistán.
+107	"este ataque "	"refleja "	"un esfuerzo mayor por parte del gobierno de Bush de encontrar una manera"	1
+107	"este ataque"	"refleja de"	"encontrar una manera durante los meses que le quedan de mandato de atacar a los militantes"	0
+107	"este ataque"	"refleja por"	"parte de el gobierno de Bush"	0
+107	"este ataque"	"refleja un esfuerzo mayor de"	"encontrar una manera durante los meses que le quedan de mandato de atacar a los militantes"	1
+107	"este ataque"	"refleja"	"un esfuerzo mayor"	1
+107	"que"	"le quedan de"	"atacar a los militantes"	0
+107	"este ataque"	"refleja un esfuerzo mayor por"	"parte de el gobierno de Bush"	1
+107	"El New York Times"	"informa"	"que aparentemente este ataque refleja un esfuerzo mayor por parte de el gobierno de Bush de encontrar una manera durante los meses que le quedan de mandato de atacar a los militantes"	1
+107	"que"	"le quedan de"	"mandato"	0
+Tampoco es el único medio que pasa por estos trances.
+108	"Tampoco es "	"el único medio que pasa por estos trances."	"1"	1
+108	"el único medio"	"pasa por"	"estos trances"	1
+La administración Obama también ha criticado al régimen de facto por los abusos cometidos contra los derechos humanos desde que asumió el poder tras el golpe de 28 de junio.
+109	"los derechos humanos desde"	"asumió el poder desde"	""	0
+109	"los abusos"	"cometidos contra"	"los derechos humanos desde"	0
+109	"los derechos humanos desde"	"asumió"	"el poder"	0
+109	"Obama "	"también ha criticado a"	"el régimen de facto"	1
+109	"los derechos humanos desde"	"asumió el poder tras"	"el golpe de 28 de junio"	0
+109	"los derechos humanos desde"	"asumió desde"	""	0
+109	"los derechos humanos desde"	"asumió tras"	"el golpe de 28 de junio"	0
+109	"La administración Obama"	"ha criticado por"	"los abusos"	0
+El presidente Obama respondió a las preguntas el 18 de noviembre, y elogió a Sánchez por su blog, diciendo que “ofrece al mundo una ventana particular a las realidades de la vida cotidiana en Cuba”.
+110	"El presidente Obama"	"respondió a"	"las preguntas"	1
+110	"El presidente Obama "	"elogió a "	"Sánchez "	1
+110	"El presidente Obama "	"respondió a "	"las preguntas "	1
+110	"El presidente Obama"	"respondió el 18 de noviembre a"	"las preguntas"	1
+110	"El presidente Obama"	"respondió"	"el 18 de noviembre"	1
+Si usted pertenece a esta categoría, usted no está solo.
+111	"usted"	"pertenece a"	"esta categoría"	1
+Y es que, además de las mascotas domésticas predecibles, la fauna megadiversa de México llega cada vez más a los hogares como animales de compañía.
+112	"la fauna megadiversa de México "	"llega cada vez más a "	"los hogares como animales de compañía."	1
+112	"la fauna megadiversa de México"	"llega cada vez a"	"los hogares"	0
+112	"la fauna megadiversa de México"	"llega cada vez de"	"las mascotas domésticas predecibles"	1
+112	"la fauna megadiversa de México"	"llega a"	"los hogares"	1
+112	"la fauna megadiversa de México"	"llega de"	"las mascotas domésticas predecibles"	1
+112	"la fauna megadiversa de México"	"llega"	"cada vez"	0
+Respecto a Zeitgeist, te recomiendo encarecidamente que no lo leas, pues el 99% son afirmaciones falsas sin ninguna base, demasiadas como para explicarlas en un comentario.
+113	"Respecto"	"te recomiendo"	"que no lo leas"	0
+113	"Respecto"	"te recomiendo a"	"Zeitgeist"	0
+113	"el 99%"	" son "	"afirmaciones falsas sin ninguna base"	1
+113	"Respecto"	"te recomiendo que no lo leas a"	"Zeitgeist"	0
+
+Podéis consultar la revista de Los Certijos en la Web, pinchando en el enlace y pulsando la imagen.
+115	"Podéis consultar "	"la revista de Los Certijos"	"1"	1
+Que caiga algo de nieve a mediados de septiembre es algo llamativo pero relativamente frecuente en el norte peninsular, pero siempre es una noticia bien recibida por los obsesos de la nieve.
+116	"una noticia"	"recibida por"	"los obsesos de la nieve"	1
+116	"Que caiga algo de nieve a mediados de septiembre "	"es "	"una noticia bien recibida por los obsesos de la nieve"	1
+116	"Que caiga algo de nieve a mediados de septiembre "	"es "	"algo llamativo "	1
+Fotos surfistas en Cala Finestrat Hemos recibido estas fotos realizadas por Freya Markez  de surfistas en la Cala Finestrat que creo merecen la pena publicarlas.
+117	"estas fotos realizadas por Freya Markez  de surfistas"	"merecen "	"la pena publicarlas"	1
+117	"Hemos recibido "	"estas fotos realizadas por Freya Markez  de surfistas"	""	1
+117	"Fotos surfistas en Cala Finestrat Hemos"	"recibido"	"realizadas por Freya Markez de surfistas en la Cala Finestrat"	0
+117	"Fotos surfistas en Cala Finestrat Hemos"	"recibido estas fotos"	"realizadas por Freya Markez de surfistas en la Cala Finestrat"	0
+117	"Fotos surfistas en Cala Finestrat Hemos"	"recibido"	"estas fotos"	0
+117	"Fotos surfistas en Cala Finestrat Hemos"	"merecen"	"publicar las"	0
+es tanto que ni siquiera deseo describir lo que se siente en el aula ,gracias es un tema poco tratado pero una relidad que vivims los docentes y qye cada dia quiero huir de mi trabajo.
+118	"los docentes "	"vivims "	"una relidad"	1
+118	"0"	"quiero huir "	"de mi trabajo."	1
+118	"lo que "	"se siente en "	"el aula "	1
+Va a revolucionar también el mundo de la telefonía móvil, creando los Wififons que integran al mismo tiempo GSM/Wifi, para permitirte hablar gratis si tienes cobertura wifi o utilizar la red de telefonía celular GSM en el resto de sitios.
+119	"tienes "	"cobertura wifi"	"1"	1
+119	"los Wififons "	"integran al mismo tiempo "	"que integran al mismo tiempo GSM/Wifi"	1
+119	"Va a revolucionar también "	"el mundo de la telefonía móvil"	"1"	1
+119	"los Wififons"	"integran a"	"el mismo tiempo GSM"	1
+Todos tenemos un lado oscuro .
+120	"Todos "	"tenemos "	"un lado oscuro ."	1
+120	"Todos"	"tenemos"	"un lado oscuro"	1
+Esta velocidad permite a los usuarios descargar una película de 400 Mb en menos de treinta segundos.
+121	"Esta velocidad"	"permite"	"descargar una película de IF mb-400 en menos de treinta segundos"	1
+121	"Esta velocidad "	"permite "	"a los usuarios"	1
+SINOPSIS
+La hipótesis de un francotirador no se sostiene bajo ningún punto de vista.
+123	"La hipótesis de un francotirador"	"no se sostiene bajo"	"ningún punto de vista"	1
+Martinez impuso el consejo, el muñeco responde al nombre de Jose Reyes Ferriz.
+124	"Martinez"	"impuso"	"el consejo"	1
+124	"el muñeco "	"responde a"	"el nombre de Jose Reyes Ferriz."	1
+124	"Martinez "	"impuso "	"el consejo"	1
+124	"el muñeco"	"responde a"	"el nombre de Jose Reyes Ferriz"	1
+En aquellos dias como en casa hay jardin con muchos arbolitos nos encanta andar trepado prrrr es una delicia … Por: Tunia Vaya susto que se llevó tu hija¡¡¡Espero que Aiko se respusiera pronto.
+125	"Tunia Vaya susto"	"se llevó"	"tu hija"	0
+Enlaces: Página oficial , cuenta en flickr El castillo de Bishop En 1959, Jim Bishop con tan sólo 15 años compró unas tierras en el Bosque Nacional de Santa Isabel (EEUU).
+126	"Página oficial"	"cuenta 1959 en"	"flickr El castillo de Bishop En"	0
+126	"Página oficial"	"cuenta"	"1959"	0
+126	"15 años"	"compró"	"unas tierras"	0
+126	"15 años"	"compró unas tierras en"	"el Bosque Nacional de Santa Isabel EEUU"	0
+126	"Jim Bishop"	"compró "	"unas tierras en el Bosque Nacional de Santa Isabel "	1
+126	"Página oficial"	"cuenta en"	"flickr El castillo de Bishop En"	0
+126	"15 años"	"compró en"	"el Bosque Nacional de Santa Isabel EEUU"	0
+Suponemos que será confirmado en las próximas semanas o días.
+¿Por qué no podemos identificar este fenómeno hasta que ya ha sucedido? Según el autor, ello se debe a que los humanos nos empeñamos en investigar las cosas ya sabidas, olvidándonos de lo que desconocemos.
+128	"este fenómeno hasta"	"ha sucedido"	"el autor"	0
+128	"los humanos"	"nos empeñamos en"	"investigar las cosas ya"	0
+128	"este fenómeno hasta"	"ha sucedido el autor hasta"	""	0
+128	"ello"	"se debe a"	"que los humanos nos empeñamos en investigar las cosas ya"	0
+128	"los humanos "	"nos empeñamos en investigar "	"las cosas ya sabidas"	1
+128	"este fenómeno hasta"	"ha sucedido hasta"	""	0
+Sitio Web NO Oficial - GigantesdeGuayana.
+A mí hoy, hasta las 18h no me solucionaria nada, de manera que para contratar un canguro despues, lo cojo para toda la tarde.
+130	"cojo "	"lo "	""	1
+En la versión 2009 el premio fue de 5 mil dólares para el ganador y ganadora del maratón (42K).
+131	"el premio "	"fue de "	"5 mil dólares "	1
+131	"el premio"	"fue para"	"el ganador"	1
+131	"el premio"	"fue de"	"$ USD-5000"	1
+foundation la caixa sexo anal negras videos sexo sexo travesti gratis.
+Por guarderías en todos los barrios, en las empresas y en los institutos educacionales.
+Aceptación de pagos con tarjetas de crédito, tarjetas de débito y por cuenta bancaria para tarifas de transacción bajas.
+El segundo hábito se refiere lo que significa empezar con un fin en mente consiste en empezar hoy con la imagen, el cuadro o el paradigma de vida como marco referencia para el examen de todas las cosas.
+Tambien cuenta con tecnologias tales como estabilizador de imagen, detección de rostros.
+136	"Tambien"	"cuenta con"	"tecnologias"	0
+136	" cuenta con "	"tecnologias "	"1"	1
+Claudia Vergara coincidió en la relevancia de este tipo de iniciativas “porque los jóvenes tienen más redes entre ellos.
+137	"los jóvenes "	"tienen más "	"redes entre ellos"	1
+137	"Claudia Vergara"	"coincidió en"	"la relevancia de este tipo de iniciativas"	1
+137	"los jóvenes"	"tienen"	"redes entre ellos"	1
+137	"Claudia Vergara "	"coincidió en "	"la relevancia de este tipo de iniciativas"	1
+Tén en cuenta que al definir perderas algunos quilos.
+138	"perderas "	"algunos quilos"	"1"	1
+Y su precio ayuda a ello, ya que costará tan solo U$S 50 dólares, con un contrato de 2 años con Verizon , o sino, lo podremos encontrar liberado a tan solo U$S 100.
+139	"0"	"podremos encontrar liberado a "	"tan solo U$S 100"	1
+139	"0"	"costará "	"tan solo U$S 50 dólares"	1
+Lo más aterrador es lo que están haciendo por medio de la TV a la humanidad.
+140	"Lo más aterrador "	"es "	"lo que están haciendo por medio de la TV a la humanidad."	1
+Cuando se transforma en el dominio de la frecuencia , su frecuencia será tan baja que no se podrá ver claramente en el espectro .
+141	"0"	"se transforma en "	"el dominio de la frecuencia "	1
+las 13:30 teníamos 30 º C a la sombra, en el centro del día el sol brilló con mucha
+142	"0"	"teníamos "	"30 º C a la sombra"	1
+Cuando el hijo cumpla 9 meses (lactancia)
+143	"el hijo"	"cumpla"	"9 meses lactancia"	0
+El site está habilitado para ser leído en seis idiomas diferentes: japonés, inglés, alemán, español, francés e italiano .
+144	"El site "	"está habilitado para ser leído en "	"seis idiomas diferentes"	1
+144	"El site"	"está habilitado para"	"ser leído en seis idiomas diferentes"	1
+- El adelantamiento de la astronomía (dice el autor) depende de la repeticion y considerable número de exactas observaciones celestes; á las cuales se han debido los importantes descubrimientos de Galileo, Keplero , Huguens y Casini, que tan rápidos y as
+145	"El adelantamiento de la astronomía "	"depende de "	"la repeticion y considerable número de exactas observaciones celestes "	1
+145	"El adelantamiento de la astronomía"	"dice"	"el autor"	0
+145	"El adelantamiento de la astronomía"	"depende de"	"la repeticion"	1
+Estos motores pueden estar acoplados a dos transmisiones.
+146	"Estos motores"	"pueden estar acoplados a"	"dos transmisiones"	1
+146	"Estos motores "	"pueden estar acoplados a "	"dos transmisiones."	1
+Optimización de Páginas Web y Posicionamiento en Buscadores.
+En vez d'a la prima tonta esa de Pocahontas podría'ber pintao a Manu y Jose que son más bailongos y pintones y que después d'irse de Lavapiés a Malasaña pasando por Manhattan han vuelto con disco.
+148	"Manu y Jose "	"han vuelto con "	"disco"	1
+Eres una elegida de dios y quiero que sepas que estas en mis oraciones.
+149	"0"	"Eres "	"una elegida de dios "	1
+149	"0"	"estas en "	"mis oraciones."	1
+Por eso estos consejos no son solo para las personas entradas en edad, sino que,también se aplica a los jovenes, ya que muchas veces estudian durante dos dias sin descansar para un exámen y el rendimiento será inferior al que tendrían si durmieran las horas necesarias.
+150	"estos consejos"	"no ser solo para"	"las personas"	1
+150	"estos consejos"	"no ser solo"	"entradas en edad"	1
+150	"estos consejos"	"no ser solo Por"	"eso"	0
+150	"se aplica a "	"los jovenes"	"1"	1
+150	"el rendimiento"	"ser inferior si durmieran las horas necesarias a"	"el"	0
+150	"muchas veces"	"estudian dias durante"	"dos"	0
+150	"el rendimiento"	"ser inferior"	"si durmieran las horas necesarias"	0
+150	"muchas veces"	"estudian durante"	"dos"	0
+150	"muchas veces"	"estudian"	"dias"	1
+150	"el rendimiento"	"ser inferior a"	"el"	0
+Al menos eso es lo que ha anunciado Motomu Toriyama, director del presente titulo.
+151	"eso "	"es "	"lo que ha anunciado Motomu Toriyama"	1
+Meditación 3ª
+Fases que son de carácter abierto, flexible, continua y dinámica
+153	"Fases "	"son de "	"carácter abierto, flexible, continua y dinámica"	1
+¿Puedo apuntarme ya aún sin fecha para garantizar un sitio?
+Quiero eliminar esa palabra porque domesticar hace mención a los animales, dijo la mandataria al anunciar que ahora será la ley de personal de casas particulares.
+155	"Quiero eliminar "	"esa palabra "	"1"	1
+Durante la entrevista, María Samantha Arrieta Portilla, resaltó que la cooperación, el respaldo y la participación de los padres de familia en el trabajo escolar permite que se obtengan buenos resultados, porque ellos tienen la conciencia de querer que sus hijos sean mejores y saben que la educación es el camino para lograrlo, por lo que mantener una estrecha comunicación con los padres de familia es fundamental para trascender en la formación de los próximos ciudadanos de Veracruz.
+156	"la participación de los padres de familia"	"permite en"	"el trabajo escolar"	0
+156	"ellos"	"tienen"	"la conciencia"	1
+156	"la participación de los padres de familia"	"permite que se obtengan buenos resultados en"	"el trabajo escolar"	1
+156	"la educación"	"es para"	"lograr lo"	1
+156	"ellos"	"tienen de"	"querer"	0
+156	"la educación "	"es "	"el camino para lograrlo"	1
+156	"ellos"	"tienen la conciencia de"	"querer"	1
+156	"la participación de los padres de familia"	"permite"	"que se obtengan buenos resultados"	1
+156	"ellos "	"tienen "	"la conciencia de querer que sus hijos sean mejores "	1
+Porque estos, los aliados fueron cómplices en la locura y el negocio la explotación capitalista que nunca fue abandonado como fin para ningún bando, inclusive muchas empresas de los países aliados se enriquecieron aun mas aprovechando la guerra sin determinar de cual bando era su cliente.
+157	"muchas empresas de los países aliados se enriquecieron aun mas aprovechando la guerra sin determinar de"	"era de"	""	0
+157	"los aliados "	"fueron "	"cómplices en la locura y el negocio"	1
+157	"los aliados"	"fueron en"	"la locura"	0
+Este modelo ganó el tercer lugar en las 24 hrs de Le Mans en 1967.
+158	"Este modelo"	"ganó en"	"las 24 hrs de Le Mans"	1
+158	"Este modelo "	"ganó "	"el tercer lugar "	1
+158	"Este modelo"	"ganó el tercer lugar en"	"1967"	1
+158	"Este modelo"	"ganó"	"el tercer lugar"	1
+158	"Este modelo"	"ganó en"	"1967"	1
+158	"Este modelo"	"ganó el tercer lugar en"	"las 24 hrs de Le Mans"	1
+Por esa misma razón muchas veces nos referimos a catas como nosings.
+159	"muchas veces"	"nos referimos a"	"catas"	0
+159	"muchas veces"	"nos referimos Por"	"esa misma razón"	0
+159	"0"	"nos referimos a "	"catas"	1

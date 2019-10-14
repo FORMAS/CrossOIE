@@ -1,0 +1,19 @@
+######################################
+##Dataset for evaluation ##
+######################################
+
+Author:
+Anonym
+
+######################################
+
+This folder contains the dataset for evaluating Open Information Extraction systems in Portuguese. All files are tab-separated. It contains the following files:
+
+sentences.txt                           Input sentences (sentence id + sentence)
+gold.csv				Pool of all extractions labeled as correct (sentence id + extraction + label)
+maltparser_2planar-labeled.csv		Extractions by Maltarser using 2planar algorithm
+maltparser_arceager_ud-labeled.csv	Extractions by Maltarser using 2planar algorithm, from a corpus with Universal Dependencies
+maltparser_arceager-labeled.csv		Extractions by Maltarser using arc-eager algorithm
+argoe-pt-labeled.csv			Extractions by ArgOE
+linguakit-pt-labeled.csv		Extractions by LinguaKit
+

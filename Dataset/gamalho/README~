@@ -1,0 +1,33 @@
+#######################################################
+##    Datasets in Portuguese, English and Spanish for##
+##  evaluating Open Information Extraction systems   ##
+#######################################################
+
+Pablo Gamallo, CiTIUS, USC
+Marcos Garcia, LyS, UDC
+
+##################################################
+
+
+- DESCRIPTION:
+Three evaluation datasets were elaborated for PT, EN, ES.
+
+- PORTUGUESE DATASET
+The gold standard consists of 103 sentences and 345 triples. 
+
+- ENGLISH DATASET
+The English evaluation dataset has been elaborated from:
+http://www.mpi-inf.mpg.de/departments/d5/software/clausie/
+
+Reference:
+L. Del Corro, R. Gemulla (2013) ClausIE: Clause-Based Open Information Extraction. In WWW-2013.
+
+
+- SPANISH DATASET:
+The Spanish evaluation dataset has been elaborated from :
+http://micron.gelbukh.com/resources/spanish-open-fact-extraction/
+
+Reference:
+Alisa Zhila, Alexander Gelbukh. Comparison of Open Information Extraction for English and Spanish. In Dialogue 2014.
+
+
