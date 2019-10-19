@@ -8,13 +8,17 @@ from flair.embeddings import BertEmbeddings, DocumentPoolEmbeddings
 import kashgari
 from kashgari.embeddings import NumericFeaturesEmbedding, BareEmbedding, StackedEmbedding, DirectEmbedding
 import random
-
+import itertools
 # init embedding
+from kashgari.processors import ClassificationProcessor
+from kashgari.processors.direct_classification_processor import DirectClassificationProcessor
+from sklearn.metrics import classification_report
+from kashgari.tasks.classification import CNN_GRU_Model, DPCNN_Model
+
 embedding = BertEmbeddings("bert-base-multilingual-cased")
 
 
 def carregar_gamalho():
-
     # English dataset
     dataset_en = dict()
 
@@ -23,8 +27,8 @@ def carregar_gamalho():
         for line in f_en:
             pos, phase = line.split('\t')
             dataset_en[int(pos)] = {"phase": phase,
-                               "extractions": []
-                               }
+                                    "extractions": []
+                                    }
 
     en = Path("Dataset/gamalho/en/extractions-all-labeled.txt")
     with open(en, 'r', encoding='utf-8') as f_en:
@@ -32,9 +36,9 @@ def carregar_gamalho():
             if '\t' in line:
                 partes = line.split("\t")
                 pos = int(partes[0])
-                arg1= partes[1].strip('"')
-                rel= partes[2].strip('"')
-                arg2= partes[3].strip('"')
+                arg1 = partes[1].strip('"')
+                rel = partes[2].strip('"')
+                arg2 = partes[3].strip('"')
                 valid = partes[-1]
 
                 dataset_en[pos]['extractions'].append({"arg1": arg1,
@@ -51,8 +55,8 @@ def carregar_gamalho():
             line = line.strip()
             pos, phase = line.split('\t', 1)
             dataset_pt[int(pos)] = {"phase": phase.strip(),
-                               "extractions": []
-                               }
+                                    "extractions": []
+                                    }
 
     pt = Path("Dataset/gamalho/pt/argoe-pt-labeled.csv")
     with open(pt, 'r', encoding='utf-8') as f_pt:
@@ -102,7 +106,6 @@ def carregar_gamalho():
 
 
 def gerar_emmbedings(input_dict):
-
     for pos, item in input_dict.items():
 
         # create a sentence
@@ -113,97 +116,132 @@ def gerar_emmbedings(input_dict):
 
         item['bert_sentence'] = result[0]
 
-
         for extraction in item['extractions']:
-            #print(extraction)
+            # print(extraction)
             if any(len(x) < 1 for x in extraction.values()):
                 extraction["invalid_format"] = True
                 continue
             else:
                 extraction["invalid_format"] = False
 
-
             extraction_to_embeddings(extraction, embeddings=item['bert_sentence'])
     return input_dict
 
 
-def classificar(input_en, input_pt, input_es):
+def classificar(dict_with_emmedings_en, folds_english, dict_with_emmedings_pt, folds_portuguese, dict_with_emmedings_es,
+                folds_spanish):
     from kashgari.tasks.classification import CNNGRUModel, DPCNN_Model, BLSTMModel, CNNModel
 
-    # Vamos classificar agora?
-    x_en = []
-    y_en = []
 
-    x_all = []
-    y_all = []
+    SEQUENCE_LEN = embedding.embedding_length
+    # bare_embedding = DirectEmbedding(task=kashgari.CLASSIFICATION, sequence_length=SEQUENCE_LEN, embedding_size=3072)
+    NUMBER_OF_EPOCHS = 50
+    for model_type in [CNN_GRU_Model]:
+        model_name = str(model_type).split(".")[-1].split("'")[0]
 
-    # english
-    for pos, item in input_en.items():
+        # Vamos fazer o K-Fold agora
+        # for k in range(len(folds_english)):
+        #     print(f"Processing fold_{k}_{model_name}.model")
+        #     x_all = []
+        #     y_all = []
+        #     # english
+        #
+        #     x_en, y_en = extractions_to_flat(dict_with_emmedings_en, list(itertools.chain.from_iterable(folds_english[k][0])))
+        #     x_all.extend(x_en)
+        #     y_all.extend(y_en)
+        #     # Portuguese
+        #     x_pt, y_pt = extractions_to_flat(dict_with_emmedings_pt, list(itertools.chain.from_iterable(folds_portuguese[k][0])))
+        #     x_all.extend(x_pt)
+        #     y_all.extend(y_pt)
+        #     # Spanish
+        #     x_es, y_es = extractions_to_flat(dict_with_emmedings_es, list(itertools.chain.from_iterable(folds_spanish[k][0])))
+        #     x_all.extend(x_es)
+        #     y_all.extend(y_es)
+        #
+        #     #bare_embedding = BareEmbedding(task=kashgari.CLASSIFICATION, sequence_length=SEQUENCE_LEN,
+        #     #                               embedding_size=embedding_size,
+        #     #                               processor=ClassificationProcessor(transform_input=False))
+        #     bare_embedding = DirectEmbedding(task=kashgari.CLASSIFICATION, sequence_length=3,
+        #                                                                  embedding_size=SEQUENCE_LEN,
+        #                     processor=DirectClassificationProcessor(transform_input=False))
+        #     bare_embedding.analyze_corpus(x_all, y_all)
+        #
+        #     model = model_type(embedding=bare_embedding)
+        #     model.fit(x_all, y_all, batch_size=1, epochs=NUMBER_OF_EPOCHS)
+        #     model.save(f"fold_{k}_{model_name}.model")
+
+
+        # O primeiro eh o conjunto completo
+        print("Processing Zero-shot en+es")
+        x_all = []
+        y_all = []
+        x_en, y_en = extractions_to_flat(dict_with_emmedings_en)
+        x_all.extend(x_en)
+        y_all.extend(y_en)
+        x_es, y_es = extractions_to_flat(dict_with_emmedings_es)
+        x_all.extend(x_es)
+        y_all.extend(y_es)
+
+        bare_embedding = DirectEmbedding(task=kashgari.CLASSIFICATION, sequence_length=3,
+                                         embedding_size=SEQUENCE_LEN,
+                                         processor=DirectClassificationProcessor(transform_input=False))
+        bare_embedding.analyze_corpus(x_all, y_all)
+
+        model = model_type(embedding=bare_embedding)
+        model.fit(x_en, y_en, batch_size=1, epochs=NUMBER_OF_EPOCHS)
+
+        model.save(f"en_all_cnn_{model_name}_en_es.model")
+
+        print("Processing Zero-shot en+pt")
+        x_all = []
+        y_all = []
+        x_en, y_en = extractions_to_flat(dict_with_emmedings_en)
+        x_all.extend(x_en)
+        y_all.extend(y_en)
+        x_pt, y_pt = extractions_to_flat(dict_with_emmedings_pt)
+        x_all.extend(x_pt)
+        y_all.extend(y_pt)
+
+        bare_embedding = DirectEmbedding(task=kashgari.CLASSIFICATION, sequence_length=3,
+                                         embedding_size=SEQUENCE_LEN,
+                                         processor=DirectClassificationProcessor(transform_input=False))
+        bare_embedding.analyze_corpus(x_all, y_all)
+
+        model = model_type(embedding=bare_embedding)
+        model.fit(x_en, y_en, batch_size=1, epochs=NUMBER_OF_EPOCHS)
+
+        model.save(f"en_all_cnn_{model_name}_en_pt.model")
+
+
+def extractions_to_flat(dict_with_emmedings, indexes=None):
+    x = []
+    y = []
+    count = 0
+    if indexes is None:
+        indexes = dict_with_emmedings.keys()
+
+    for pos in indexes:
+        item = dict_with_emmedings[pos]
+        count += 1
+        #if count > 1000:
+        #    break
         for extraction in item['extractions']:
-            total_representation = []
+            #total_representation = []
             if extraction["invalid_format"]:
                 print(f"Extracton have the wrong format ({extraction})")
                 continue
 
-            total_representation.extend(extraction['arg1_vec'])
-            total_representation.extend(extraction['rel_vec'])
-            total_representation.extend(extraction['arg2_vec'])
-            x_en.append(total_representation)
-            x_all.append(total_representation)
+            #total_representation.extend(extraction['arg1_vec'])
+            #total_representation.extend(extraction['rel_vec'])
+            #total_representation.extend(extraction['arg2_vec'])
+            x.append([extraction['arg1_vec'],extraction['rel_vec'], extraction['arg2_vec'] ])
 
-            if extraction['valid'] == 'Arafat': # Bug no dataset em ingles
+            if extraction['valid'] == 'Arafat':  # Bug no dataset em ingles
                 extraction['valid'] = 0
-            y_en.append(int(extraction['valid']))
-            y_all.append(int(extraction['valid']))
-    del input_en
-    # Portuguese
-    for pos, item in input_pt.items():
-        for extraction in item['extractions']:
-            total_representation = []
-            if extraction["invalid_format"]:
-                print(f"Extracton have the wrong format ({extraction})")
-                continue
-
-            total_representation.extend(extraction['arg1_vec'])
-            total_representation.extend(extraction['rel_vec'])
-            total_representation.extend(extraction['arg2_vec'])
-            x_all.append(total_representation)
-
-            y_all.append(int(extraction['valid']))
-    del input_pt
-    # Spanish
-    for pos, item in input_es.items():
-        for extraction in item['extractions']:
-            total_representation = []
-            if extraction["invalid_format"]:
-                print(f"Extracton have the wrong format ({extraction})")
-                continue
-
-            total_representation.extend(extraction['arg1_vec'])
-            total_representation.extend(extraction['rel_vec'])
-            total_representation.extend(extraction['arg2_vec'])
-            x_all.append(total_representation)
-
-            y_all.append(int(extraction['valid']))
-    del input_es
-    SEQUENCE_LEN = 3072 * 3
-    #bare_embedding = DirectEmbedding(task=kashgari.CLASSIFICATION, sequence_length=SEQUENCE_LEN, embedding_size=3072)
-    bare_embedding = BareEmbedding(task=kashgari.CLASSIFICATION, sequence_length=SEQUENCE_LEN, embedding_size=500)
-
-    bare_embedding.analyze_corpus(x_en, y_en)
-
-    model = CNNModel(embedding=bare_embedding)
-    model.fit(x_en, y_en, batch_size=1, epochs=20)
-
-    model.save("en_cnn.model")
-
-
-
-
-
+            y.append(int(extraction['valid']))
+    return x, y
 
 def extraction_to_embeddings(extraction, embeddings):
-
     # Arg1
     partes_arg1 = find_sublist_match(embeddings, extraction['arg1'])
     partes_rel = find_sublist_match(embeddings, extraction['rel'])
@@ -234,11 +272,12 @@ def tokens_to_document_vectors(tokens):
 
     return pooled_embedding.detach().numpy()
 
+
 # word_embeddings = torch.cat(word_embeddings, dim=0)
-    # torch.mean
-    # embedding_flex = torch.nn.Linear(
-    #     self.embedding_length, self.embedding_length, bias=False
-    # )
+# torch.mean
+# embedding_flex = torch.nn.Linear(
+#     self.embedding_length, self.embedding_length, bias=False
+# )
 
 
 def find_sublist_match(embeddings, string_to_find, start=0):
@@ -250,25 +289,32 @@ def find_sublist_match(embeddings, string_to_find, start=0):
 
     def clean_word(word):
         return word.strip("'").strip('"').strip('.')
+
     first_to_find = clean_word(string_to_find[0])
     last_to_find = clean_word(string_to_find[-1])
     for pos in range(start, len(embeddings.tokens)):
         if first_to_find == clean_word(embeddings.tokens[pos].text):
-            #print(f"Achei {first_to_find} na pos {pos}")
+            # print(f"Achei {first_to_find} na pos {pos}")
             start_match = pos
 
             for pos_fim in range(pos, len(embeddings.tokens)):
-                if (last_to_find == clean_word(embeddings.tokens[pos_fim].text)) and (pos_fim-start_match >= len(string_to_find)-2):
-                    #print(f"Achei o FIM {last_to_find} na pos {pos_fim}")
+                if (last_to_find == clean_word(embeddings.tokens[pos_fim].text)) and (
+                        pos_fim - start_match >= len(string_to_find) - 2):
+                    # print(f"Achei o FIM {last_to_find} na pos {pos_fim}")
                     end_match = pos_fim
                     break
-            if (len(string_to_find) == 1 or end_match > 0) and ((abs((end_match-start_match)-len(string_to_find)) < 10) or ((end_match-start_match)>len(string_to_find))):
+            if (len(string_to_find) == 1 or end_match > 0) and (
+                    (abs((end_match - start_match) - len(string_to_find)) < 10) or (
+                    (end_match - start_match) > len(string_to_find))):
                 break
 
     tokens = []
 
-    if (len(string_to_find) > 1 and end_match == 0) or ((abs((end_match-start_match)-len(string_to_find)) > 10) and ((end_match-start_match)<len(string_to_find))):
-        print(f"[ERROR] Nao encontrei {string_to_find} sentenca {embeddings} | first_to_find{first_to_find} last_to_find{last_to_find}")
+    if (len(string_to_find) > 1 and end_match == 0) or (
+            (abs((end_match - start_match) - len(string_to_find)) > 10) and (
+            (end_match - start_match) < len(string_to_find))):
+        print(
+            f"[ERROR] Nao encontrei {string_to_find} sentenca {embeddings} | first_to_find{first_to_find} last_to_find{last_to_find}")
         sentence = Sentence(' '.join(string_to_find))
         # embed words in sentence
         result = embedding.embed(sentence)[0]
@@ -276,13 +322,13 @@ def find_sublist_match(embeddings, string_to_find, start=0):
             tokens.append(token)
 
     else:
-        for pos in range(start_match, end_match+1):
+        for pos in range(start_match, end_match + 1):
             tokens.append(embeddings.tokens[pos])
 
     return tokens
 
-def kfoldcv(indices, k=10, seed=42):
 
+def kfoldcv(indices, k=10, seed=42):
     size = len(indices)
     subset_size = round(size / k)
     random.Random(seed).shuffle(indices)
@@ -298,6 +344,7 @@ def kfoldcv(indices, k=10, seed=42):
 
     return kfolds
 
+
 def report_performance(docs_en, docs_pt, docs_es):
     from sklearn.metrics import classification_report
     print("---- English ----")
@@ -306,7 +353,7 @@ def report_performance(docs_en, docs_pt, docs_es):
         for extraction in doc['extractions']:
             y_true_en.append(extraction['valid'])
     y_predicted_en = ['1'] * len(y_true_en)
-    print(classification_report(y_true_en, y_predicted_en))
+    print(classification_report(y_true_en, y_predicted_en, digits=6))
 
     print("---- Portuguese ----")
     y_true_pt = []
@@ -314,7 +361,7 @@ def report_performance(docs_en, docs_pt, docs_es):
         for extraction in doc['extractions']:
             y_true_pt.append(extraction['valid'])
     y_predicted_pt = ['1'] * len(y_true_pt)
-    print(classification_report(y_true_pt, y_predicted_pt))
+    print(classification_report(y_true_pt, y_predicted_pt, digits=6))
 
     print("---- Spanish ----")
     y_true_es = []
@@ -322,7 +369,60 @@ def report_performance(docs_en, docs_pt, docs_es):
         for extraction in doc['extractions']:
             y_true_es.append(extraction['valid'])
     y_predicted_es = ['1'] * len(y_true_es)
-    print(classification_report(y_true_es, y_predicted_es))
+    print(classification_report(y_true_es, y_predicted_es, digits=6))
+
+def generate_classification_report(model_lang, model_name, predictions, true_y):
+
+    with open(f"{model_lang}{model_name}.txt", "a") as file_out:
+
+        for precision_at in [0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 0.98, 0.99, 0.999]:
+            predictions_ajusted = [x['label'] if x['confidence'] > precision_at else '1' for x in predictions]
+
+            print(f"{model_lang}@{precision_at} - {model_name}")
+            report = classification_report([str(y) for y in true_y], predictions_ajusted, output_dict=True)
+            print(classification_report([str(y) for y in true_y], predictions_ajusted))
+            file_out.write(f"{precision_at},{report['accuracy']},{report['1']['precision']},{report['1']['recall']},{report['1']['f1-score']},{report['1']['support']},{report['0']['precision']},{report['0']['recall']},{report['0']['f1-score']},{report['0']['support']}\n")
+
+
+def evaluate(dict_with_emmedings_en, folds_english, dict_with_emmedings_pt, folds_portuguese, dict_with_emmedings_es,
+                folds_spanish):
+    #for model_type in [CNN_GRU_Model, DPCNN_Model]:
+    for model_type in [CNN_GRU_Model]:
+        model_name = str(model_type).split(".")[-1].split("'")[0]
+
+        # Zero-shot
+        model = kashgari.utils.load_model(f"en_all_cnn_{model_name}_en_es.model")
+
+        x_pt_zero, y_pt_zero = extractions_to_flat(dict_with_emmedings_pt)
+        y_pt_pred_top_k = model.predict_top_k_class(x_pt_zero, top_k=2)
+        generate_classification_report('pt-zero-shot', "Zero-shot", y_pt_pred_top_k, y_pt_zero)
+
+        model = kashgari.utils.load_model(f"en_all_cnn_{model_name}_en_pt.model")
+
+        x_es_zero, y_es_zero = extractions_to_flat(dict_with_emmedings_es)
+        y_es_pred_top_k = model.predict_top_k_class(x_es_zero, top_k=2)
+        generate_classification_report('es-zero-shot', "Zero-shot", y_es_pred_top_k, y_es_zero)
+
+        # Vamos fazer o K-Fold agora
+        for k in range(len(folds_english)):
+            file_name_model = f"fold_{k}_{model_name}.model"
+            print(file_name_model)
+            model = kashgari.utils.load_model(file_name_model)
+
+            print(f"English - {file_name_model}")
+            x_en, y_en = extractions_to_flat(dict_with_emmedings_en, folds_english[k][1])
+            y_en_pred_top_k = model.predict_top_k_class(x_en, top_k=2)
+            generate_classification_report('en', model_name, y_en_pred_top_k, y_en)
+
+            print(f"Portuguese - {file_name_model}")
+            x_pt, y_pt = extractions_to_flat(dict_with_emmedings_pt, folds_portuguese[k][1])
+            y_pt_pred_top_k = model.predict_top_k_class(x_pt, top_k=2)
+            generate_classification_report('pt', model_name, y_pt_pred_top_k, y_pt)
+
+            print(f"Spanish - {file_name_model}")
+            x_es, y_es = extractions_to_flat(dict_with_emmedings_es, folds_spanish[k][1])
+            y_es_pred_top_k = model.predict_top_k_class(x_es, top_k=2)
+            generate_classification_report('es', model_name, y_es_pred_top_k, y_es)
 
 
 if __name__ == '__main__':
@@ -365,8 +465,32 @@ if __name__ == '__main__':
 
     print("3 - Training classifier")
 
-    classificar(dict_with_emmedings_en, dict_with_emmedings_pt, dict_with_emmedings_es)
+    if not os.path.exists('folds_english.pickle'):
+        folds_english = kfoldcv([x for x in dict_with_emmedings_en.keys()], k=5)
+        with open('folds_english.pickle', 'wb') as handle:
+            pickle.dump(folds_english, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    else:
+        with open('folds_english.pickle', 'rb') as handle:
+            folds_english = pickle.load(handle)
 
+    if not os.path.exists('folds_portuguese.pickle'):
+        folds_portuguese = kfoldcv([x for x in dict_with_emmedings_pt.keys()], k=5)
+        with open('folds_portuguese.pickle', 'wb') as handle:
+            pickle.dump(folds_portuguese, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    else:
+        with open('folds_portuguese.pickle', 'rb') as handle:
+            folds_portuguese = pickle.load(handle)
 
+    if not os.path.exists('folds_spanish.pickle'):
+        folds_spanish = kfoldcv([x for x in dict_with_emmedings_es.keys()], k=5)
+        with open('folds_spanish.pickle', 'wb') as handle:
+            pickle.dump(folds_spanish, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    else:
+        with open('folds_spanish.pickle', 'rb') as handle:
+            folds_spanish = pickle.load(handle)
 
+    #classificar(dict_with_emmedings_en, folds_english, dict_with_emmedings_pt, folds_portuguese, dict_with_emmedings_es,
+    #            folds_spanish)
 
+    evaluate(dict_with_emmedings_en, folds_english, dict_with_emmedings_pt, folds_portuguese, dict_with_emmedings_es,
+                 folds_spanish)
