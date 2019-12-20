@@ -12,7 +12,7 @@ import tensorflow as tf
 from typing import Dict, Any
 from kashgari.layers import L, AttentionWeightedAverageLayer, KMaxPoolingLayer
 from kashgari.tasks.classification.base_model import BaseClassificationModel
-from tensorflow import keras
+
 
 class BiLSTM_Model(BaseClassificationModel):
 
@@ -29,7 +29,7 @@ class BiLSTM_Model(BaseClassificationModel):
         }
 
     def build_model_arc(self):
-        output_dim = len(self.pre_processor.label2idx)
+        output_dim = len(self.processor.label2idx)
         config = self.hyper_parameters
         embed_model = self.embedding.embed_model
 
@@ -57,24 +57,17 @@ class BiGRU_Model(BaseClassificationModel):
         }
 
     def build_model_arc(self):
-        output_dim = len(self.pre_processor.label2idx)
+        output_dim = len(self.processor.label2idx)
         config = self.hyper_parameters
         embed_model = self.embedding.embed_model
 
         layer_bi_gru = L.Bidirectional(L.GRU(**config['layer_bi_gru']))
         layer_dense = L.Dense(output_dim, **config['layer_dense'])
 
-        if isinstance(embed_model, keras.Model):
-            first_layer_output = embed_model.output
-            first_layer_input = embed_model.inputs
-        else:
-            first_layer_output = embed_model
-            first_layer_input = embed_model
-
-        tensor = layer_bi_gru(first_layer_output)
+        tensor = layer_bi_gru(embed_model.output)
         output_tensor = layer_dense(tensor)
 
-        self.tf_model = tf.keras.Model(first_layer_input, output_tensor)
+        self.tf_model = tf.keras.Model(embed_model.inputs, output_tensor)
 
 
 class CNN_Model(BaseClassificationModel):
@@ -84,7 +77,7 @@ class CNN_Model(BaseClassificationModel):
         return {
             'conv1d_layer': {
                 'filters': 128,
-                'kernel_size': 3,
+                'kernel_size': 5,
                 'activation': 'relu'
             },
             'max_pool_layer': {},
@@ -98,7 +91,7 @@ class CNN_Model(BaseClassificationModel):
         }
 
     def build_model_arc(self):
-        output_dim = len(self.pre_processor.label2idx)
+        output_dim = len(self.processor.label2idx)
         config = self.hyper_parameters
         embed_model = self.embedding.embed_model
 
@@ -109,18 +102,11 @@ class CNN_Model(BaseClassificationModel):
         layers_seq.append(L.Dense(**config['dense_layer']))
         layers_seq.append(L.Dense(output_dim, **config['activation_layer']))
 
-        if isinstance(embed_model, keras.Model):
-            first_layer_output = embed_model.output
-            first_layer_input = embed_model.inputs
-        else:
-            first_layer_output = embed_model
-            first_layer_input = embed_model
-
-        tensor = first_layer_output
+        tensor = embed_model.output
         for layer in layers_seq:
             tensor = layer(tensor)
 
-        self.tf_model = tf.keras.Model(first_layer_input, tensor)
+        self.tf_model = tf.keras.Model(embed_model.inputs, tensor)
 
 
 class CNN_LSTM_Model(BaseClassificationModel):
@@ -146,7 +132,7 @@ class CNN_LSTM_Model(BaseClassificationModel):
         }
 
     def build_model_arc(self):
-        output_dim = len(self.pre_processor.label2idx)
+        output_dim = len(self.processor.label2idx)
         config = self.hyper_parameters
         embed_model = self.embedding.embed_model
 
@@ -186,7 +172,7 @@ class CNN_GRU_Model(BaseClassificationModel):
         }
 
     def build_model_arc(self):
-        output_dim = len(self.pre_processor.label2idx)
+        output_dim = len(self.processor.label2idx)
         config = self.hyper_parameters
         embed_model = self.embedding.embed_model
         layers_seq = []
@@ -195,18 +181,11 @@ class CNN_GRU_Model(BaseClassificationModel):
         layers_seq.append(L.GRU(**config['gru_layer']))
         layers_seq.append(L.Dense(output_dim, **config['activation_layer']))
 
-        if isinstance(embed_model, keras.Model):
-            first_layer_output = embed_model.output
-            first_layer_input = embed_model.inputs
-        else:
-            first_layer_output = embed_model
-            first_layer_input = embed_model
-
-        tensor = first_layer_output
+        tensor = embed_model.output
         for layer in layers_seq:
             tensor = layer(tensor)
 
-        self.tf_model = tf.keras.Model(first_layer_input, tensor)
+        self.tf_model = tf.keras.Model(embed_model.inputs, tensor)
 
 
 class AVCNN_Model(BaseClassificationModel):
@@ -283,7 +262,7 @@ class AVCNN_Model(BaseClassificationModel):
         }
 
     def build_model_arc(self):
-        output_dim = len(self.pre_processor.label2idx)
+        output_dim = len(self.processor.label2idx)
         config = self.hyper_parameters
         embed_model = self.embedding.embed_model
 
@@ -377,7 +356,7 @@ class KMax_CNN_Model(BaseClassificationModel):
         }
 
     def build_model_arc(self):
-        output_dim = len(self.pre_processor.label2idx)
+        output_dim = len(self.processor.label2idx)
         config = self.hyper_parameters
         embed_model = self.embedding.embed_model
 
@@ -446,7 +425,7 @@ class R_CNN_Model(BaseClassificationModel):
         }
 
     def build_model_arc(self):
-        output_dim = len(self.pre_processor.label2idx)
+        output_dim = len(self.processor.label2idx)
         config = self.hyper_parameters
         embed_model = self.embedding.embed_model
 
@@ -519,7 +498,7 @@ class AVRNN_Model(BaseClassificationModel):
         }
 
     def build_model_arc(self):
-        output_dim = len(self.pre_processor.label2idx)
+        output_dim = len(self.processor.label2idx)
         config = self.hyper_parameters
         embed_model = self.embedding.embed_model
 
@@ -593,7 +572,7 @@ class Dropout_BiGRU_Model(BaseClassificationModel):
         }
 
     def build_model_arc(self):
-        output_dim = len(self.pre_processor.label2idx)
+        output_dim = len(self.processor.label2idx)
         config = self.hyper_parameters
         embed_model = self.embedding.embed_model
 
@@ -668,7 +647,7 @@ class Dropout_AVRNN_Model(BaseClassificationModel):
         }
 
     def build_model_arc(self):
-        output_dim = len(self.pre_processor.label2idx)
+        output_dim = len(self.processor.label2idx)
         config = self.hyper_parameters
         embed_model = self.embedding.embed_model
 
@@ -691,15 +670,7 @@ class Dropout_AVRNN_Model(BaseClassificationModel):
         layers_full_connect.append(L.Dropout(**config['dropout_1']))
         layers_full_connect.append(L.Dense(output_dim, **config['activation_layer']))
 
-
-        if isinstance(embed_model, keras.Model):
-            first_layer_output = embed_model.output
-            first_layer_input = embed_model.inputs
-        else:
-            first_layer_output = embed_model
-            first_layer_input = embed_model
-
-        tensor_rnn = first_layer_output
+        tensor_rnn = embed_model.output
         for layer in layers_rnn:
             tensor_rnn = layer(tensor_rnn)
         tensor_sensors = [layer(tensor_rnn) for layer in layers_sensor]
@@ -707,7 +678,7 @@ class Dropout_AVRNN_Model(BaseClassificationModel):
         for layer in layers_full_connect:
             tensor_output = layer(tensor_output)
 
-        self.tf_model = tf.keras.Model(first_layer_input, tensor_output)
+        self.tf_model = tf.keras.Model(embed_model.inputs, tensor_output)
 
 
 if __name__ == "__main__":
@@ -725,7 +696,7 @@ if __name__ == "__main__":
     embed = BareEmbedding(task=kashgari.CLASSIFICATION, sequence_length=30, processor=processor)
     m = BiLSTM_Model(embed)
     # m.build_model(x, y)
-    m.fit(x, y, epochs=20)
+    m.fit(x, y, epochs=2)
     print(m.predict(x[:10]))
     # m.evaluate(x, y)
     print(m.predict_top_k_class(x[:10]))
